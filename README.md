@@ -40,7 +40,7 @@ music-chart-explorer/
 │   ├── time_engine.py
 │   ├── chart_format.py
 │   └── json_beautifier.py
-└── README.md
+└── ...
 ```
 
 ---
