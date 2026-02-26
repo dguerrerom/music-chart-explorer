@@ -1,0 +1,325 @@
+{
+    "date": "1989-12-23",
+    "data": [
+        {
+            "song": "Como Fui A Enamorarme De Ti",
+            "artist": "Los Bukis",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "La Chica De Humo",
+            "artist": "Emmanuel",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Se Me Enamora El Alma",
+            "artist": "Isabel Pantoja",
+            "this_week": 3,
+            "last_week": 5,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Si Me Vas A Olvidar",
+            "artist": "Roberto Carlos",
+            "this_week": 4,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "La Cima Del Cielo",
+            "artist": "Ricardo Montaner",
+            "this_week": 5,
+            "last_week": 9,
+            "peak_position": 5,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "El Que Mas Te Ha Querido",
+            "artist": "Dyango",
+            "this_week": 6,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Fuiste Un Trozo De Hielo En La Escarcha",
+            "artist": "Chayanne",
+            "this_week": 7,
+            "last_week": 4,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "No Digas No",
+            "artist": "Ana Gabriel",
+            "this_week": 8,
+            "last_week": 10,
+            "peak_position": 6,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Demasiado Tarde",
+            "artist": "Marisela",
+            "this_week": 9,
+            "last_week": 16,
+            "peak_position": 9,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Frente A Frente",
+            "artist": "Los Yonic's",
+            "this_week": 10,
+            "last_week": 12,
+            "peak_position": 10,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Cuentame",
+            "artist": "Lucerito",
+            "this_week": 11,
+            "last_week": 7,
+            "peak_position": 2,
+            "weeks_on_chart": 19
+        },
+        {
+            "song": "Rodando Caminos",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 12,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Quiero Amanecer Con Alguien",
+            "artist": "Daniela Romo",
+            "this_week": 13,
+            "last_week": 17,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Luis",
+            "artist": "Franco de Vita",
+            "this_week": 14,
+            "last_week": 11,
+            "peak_position": 7,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Vamos A Bailar",
+            "artist": "Gipsy Kings",
+            "this_week": 15,
+            "last_week": 36,
+            "peak_position": 15,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Nos Aburriremos Juntos",
+            "artist": "Lucia Mendez",
+            "this_week": 16,
+            "last_week": 19,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "El Hombre Que Yo Amo",
+            "artist": "Mirian Hernandez",
+            "this_week": 17,
+            "last_week": 20,
+            "peak_position": 17,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Por Tu Maldito Amor",
+            "artist": "Vicente Fernandez",
+            "this_week": 18,
+            "last_week": 13,
+            "peak_position": 10,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Separados",
+            "artist": "Luis Miguel",
+            "this_week": 19,
+            "last_week": 15,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "No Puedo Mas",
+            "artist": "Yuri",
+            "this_week": 20,
+            "last_week": 35,
+            "peak_position": 20,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Por Que Tanta Soledad",
+            "artist": "Rocio Durcal",
+            "this_week": 21,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Tu Eres",
+            "artist": "Frankie Ruiz",
+            "this_week": 22,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Fria como el viento",
+            "artist": "Luis Miguel",
+            "this_week": 23,
+            "last_week": 14,
+            "peak_position": 1,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "A donde vayas",
+            "artist": "Los Bukis",
+            "this_week": 24,
+            "last_week": 23,
+            "peak_position": 2,
+            "weeks_on_chart": 25
+        },
+        {
+            "song": "Hawai",
+            "artist": "Pablo Ruiz",
+            "this_week": 25,
+            "last_week": 25,
+            "peak_position": 14,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Que No Quede Huella",
+            "artist": "Bronco: El Gigante De America",
+            "this_week": 26,
+            "last_week": 39,
+            "peak_position": 26,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Amantes Por Atraccion",
+            "artist": "Lissette",
+            "this_week": 27,
+            "last_week": null,
+            "peak_position": 27,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "La Negra",
+            "artist": "La Patrulla 15",
+            "this_week": 28,
+            "last_week": 24,
+            "peak_position": 24,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Maravilloso, Corazon, Maravilloso",
+            "artist": "Raphael",
+            "this_week": 29,
+            "last_week": null,
+            "peak_position": 29,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Nena",
+            "artist": "Franco",
+            "this_week": 30,
+            "last_week": null,
+            "peak_position": 30,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Yo No Puedo Ser Tu Amante",
+            "artist": "Luis Enrique",
+            "this_week": 31,
+            "last_week": 21,
+            "peak_position": 13,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Un Artista Famoso",
+            "artist": "Willy Chirino",
+            "this_week": 32,
+            "last_week": 37,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Lambada",
+            "artist": "Kaoma",
+            "this_week": 33,
+            "last_week": null,
+            "peak_position": 33,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Lambada",
+            "artist": "Paolo Salvatore",
+            "this_week": 34,
+            "last_week": null,
+            "peak_position": 34,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Un Fin Semana",
+            "artist": "Bronco: El Gigante De America",
+            "this_week": 35,
+            "last_week": 27,
+            "peak_position": 25,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Cuando Se Acaba La Magia",
+            "artist": "Braulio",
+            "this_week": 36,
+            "last_week": 31,
+            "peak_position": 31,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Oye Mi Canto",
+            "artist": "Gloria Estefan",
+            "this_week": 37,
+            "last_week": 40,
+            "peak_position": 20,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Ahora Tengo Ganas",
+            "artist": "David Pabon",
+            "this_week": 38,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Calimin y Chulumein",
+            "artist": "Millie Y Los Vecinos",
+            "this_week": 39,
+            "last_week": 30,
+            "peak_position": 30,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Yo Fui El Segundo En Tu Vida",
+            "artist": "Miguel Gallardo",
+            "this_week": 40,
+            "last_week": 32,
+            "peak_position": 15,
+            "weeks_on_chart": 24
+        }
+    ]
+}

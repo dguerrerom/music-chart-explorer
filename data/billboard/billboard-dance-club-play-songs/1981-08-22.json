@@ -1,0 +1,632 @@
+{
+    "date": "1981-08-22",
+    "data": [
+        {
+            "song": "I'm In Love",
+            "artist": "Evelyn King",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "GONNA GET OVER YOU",
+            "artist": "France Joli",
+            "this_week": 2,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Dancin' The Night Away",
+            "artist": "Voggue",
+            "this_week": 3,
+            "last_week": 8,
+            "peak_position": 3,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "BUSTING OUT",
+            "artist": "Material With Nona Hendryx",
+            "this_week": 4,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "ON THE BEAT",
+            "artist": "The B.B. And Q. Band",
+            "this_week": 5,
+            "last_week": 10,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Give It To Me Baby / Super Freak / Ghetto Life",
+            "artist": "Rick James",
+            "this_week": 6,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Shake It Up Tonight",
+            "artist": "Cheryl Lynn",
+            "this_week": 7,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Get On Up Do It Again",
+            "artist": "Suzy Q",
+            "this_week": 8,
+            "last_week": 9,
+            "peak_position": 8,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I'll Do Anything For You",
+            "artist": "Denroy Morgan",
+            "this_week": 9,
+            "last_week": 7,
+            "peak_position": 7,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "A LITTLE BIT OF JAZZ",
+            "artist": "The Nick Straker Band",
+            "this_week": 10,
+            "last_week": 14,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Prime Cuts 1",
+            "artist": "Various Artists",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "SQUARE BIZ/IT MUST BE MAGIC",
+            "artist": "Teena Marie",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "If You Want Me",
+            "artist": "Barbara Roy And Esctasy, Passion And Pain",
+            "this_week": 13,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "CAPITOL TROPICAL",
+            "artist": "Two Man Sound",
+            "this_week": 14,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Your Love / You're My Magician",
+            "artist": "Lime",
+            "this_week": 15,
+            "last_week": 15,
+            "peak_position": 1,
+            "weeks_on_chart": 26
+        },
+        {
+            "song": "Try It Out / Hold Tight",
+            "artist": "Gino Soccio",
+            "this_week": 16,
+            "last_week": 16,
+            "peak_position": 1,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "REMEMBER ME/AIN't NO MOUNTAIN HI",
+            "artist": "Boys Town Gang",
+            "this_week": 17,
+            "last_week": 17,
+            "peak_position": 5,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "OUT COME THE FREAKS",
+            "artist": "Was (Not Was)",
+            "this_week": 18,
+            "last_week": 21,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "WIKKA WRAP/ALL WRAPPED UP",
+            "artist": "Evations",
+            "this_week": 19,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "LET's GO DANCIN'",
+            "artist": "Sparque",
+            "this_week": 20,
+            "last_week": 33,
+            "peak_position": 20,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "She's A Bad Mama Jama (She's Built, She's Stacked)",
+            "artist": "Carl Carlton",
+            "this_week": 21,
+            "last_week": 22,
+            "peak_position": 21,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "First True Love Affair",
+            "artist": "Jimmy Ross",
+            "this_week": 22,
+            "last_week": 32,
+            "peak_position": 22,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Iko Iko",
+            "artist": "Lovered",
+            "this_week": 23,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "WALK RIGHT NOW",
+            "artist": "The Jacksons",
+            "this_week": 24,
+            "last_week": 38,
+            "peak_position": 24,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "NEW TOY",
+            "artist": "Lene Lovich",
+            "this_week": 25,
+            "last_week": 25,
+            "peak_position": 19,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "FOLLOW THE LEADER",
+            "artist": "Killing Joke",
+            "this_week": 26,
+            "last_week": 26,
+            "peak_position": 25,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Dumb Waiters / Into You Like A Train",
+            "artist": "Psychedelic Furs",
+            "this_week": 27,
+            "last_week": 28,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Pocket Calculator / Numbers / Computer-World / Computer Love",
+            "artist": "Kraftwerk",
+            "this_week": 28,
+            "last_week": 24,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Pull Up To The Bumper",
+            "artist": "Grace Jones",
+            "this_week": 29,
+            "last_week": 23,
+            "peak_position": 2,
+            "weeks_on_chart": 19
+        },
+        {
+            "song": "Ain't No Mountain High Enough",
+            "artist": "Inner Life",
+            "this_week": 30,
+            "last_week": 40,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I LOVE YOU MORE/I WANNA BE CLOSE TO YOU",
+            "artist": "Rene & Angela",
+            "this_week": 31,
+            "last_week": 36,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "URGENT",
+            "artist": "Foreigner",
+            "this_week": 32,
+            "last_week": 37,
+            "peak_position": 32,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "DON't STOP THE TRAIN",
+            "artist": "Phylis Nelson",
+            "this_week": 33,
+            "last_week": 43,
+            "peak_position": 33,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Our Lips Are Sealed",
+            "artist": "Go-Go's",
+            "this_week": 34,
+            "last_week": 42,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "SET ME FREE/LOVE ME TONIGHT",
+            "artist": "Karen Silver",
+            "this_week": 35,
+            "last_week": 20,
+            "peak_position": 9,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "THE SOUND OF THE CROWD",
+            "artist": "The Human League",
+            "this_week": 36,
+            "last_week": 41,
+            "peak_position": 27,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "NEW LIFE/SHOUT",
+            "artist": "Depeche Mode",
+            "this_week": 37,
+            "last_week": 49,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Shine Your Light",
+            "artist": "The Graingers",
+            "this_week": 38,
+            "last_week": 48,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Planet Earth / Girls On Film",
+            "artist": "Duran Duran",
+            "this_week": 39,
+            "last_week": 39,
+            "peak_position": 26,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "YOU'LL NEVER KNOW/I'm TOTALLY YOURS",
+            "artist": "Hi-Gloss",
+            "this_week": 40,
+            "last_week": 31,
+            "peak_position": 31,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "FEEL MY LOVE TONIGHT/SPOT LIGHT",
+            "artist": "Stacy Lattisaw",
+            "this_week": 41,
+            "last_week": 51,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Paradise / Hold Tight / Heaven Of My Life",
+            "artist": "Change",
+            "this_week": 42,
+            "last_week": 27,
+            "peak_position": 1,
+            "weeks_on_chart": 20
+        },
+        {
+            "song": "I WANT YOUR LOVIN'/DESIRE",
+            "artist": "Roni Griffith",
+            "this_week": 43,
+            "last_week": 30,
+            "peak_position": 30,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "STAY THE NIGHT/NIGHTS (FEEL LIKE GETTING DOWN)",
+            "artist": "Billy Ocean",
+            "this_week": 44,
+            "last_week": 29,
+            "peak_position": 4,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Dance",
+            "artist": "Night Force",
+            "this_week": 45,
+            "last_week": 55,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Zulu",
+            "artist": "The Quick",
+            "this_week": 46,
+            "last_week": 64,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "FUNKY BE BOP",
+            "artist": "Vin-Zee",
+            "this_week": 47,
+            "last_week": 34,
+            "peak_position": 17,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "GEMINI DREAM",
+            "artist": "The Moody Blues",
+            "this_week": 48,
+            "last_week": 56,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Positive Noise",
+            "artist": "Charm",
+            "this_week": 49,
+            "last_week": 57,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Double Dutch / Triple Dutch",
+            "artist": "Frankie Smith",
+            "this_week": 50,
+            "last_week": 58,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "If You Feel It",
+            "artist": "Thelma Houston",
+            "this_week": 51,
+            "last_week": 35,
+            "peak_position": 6,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "MAGNIFIQUE",
+            "artist": "Magnifique",
+            "this_week": 52,
+            "last_week": 52,
+            "peak_position": 25,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "CHANT #1",
+            "artist": "Spandau Ballet",
+            "this_week": 53,
+            "last_week": 73,
+            "peak_position": 53
+        },
+        {
+            "song": "PRIMARY",
+            "artist": "The Cure",
+            "this_week": 54,
+            "last_week": 54,
+            "peak_position": 25,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "LET's DANCE (MAKE YOUR BODY MOVE)",
+            "artist": "West Street Mob",
+            "this_week": 55,
+            "last_week": 72,
+            "peak_position": 55
+        },
+        {
+            "song": "I'm STARTING AGAIN",
+            "artist": "Grace Kennedy",
+            "this_week": 56,
+            "last_week": 53,
+            "peak_position": 34,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "PAPPA's GOT A BRAND NEW PIGBAG",
+            "artist": "Pigbag",
+            "this_week": 57,
+            "last_week": 69,
+            "peak_position": 57
+        },
+        {
+            "song": "You're Too Late",
+            "artist": "Fantasy",
+            "this_week": 58,
+            "last_week": 47,
+            "peak_position": 1,
+            "weeks_on_chart": 35
+        },
+        {
+            "song": "BOY FROM NEW YORK CITY",
+            "artist": "The Manhattan Transfer",
+            "this_week": 59,
+            "last_week": 44,
+            "peak_position": 30,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "IT's OBVIOUS/DEAR JOHN",
+            "artist": "Au Pairs",
+            "this_week": 60,
+            "last_week": 71,
+            "peak_position": 53
+        },
+        {
+            "song": "Here I Am",
+            "artist": "Dynasty",
+            "this_week": 61,
+            "last_week": 70,
+            "peak_position": 61
+        },
+        {
+            "song": "HERE IS MY LOVE/GIVE IT UP (DON't MAKE ME WAIT)",
+            "artist": "Sylvester",
+            "this_week": 62,
+            "last_week": 61,
+            "peak_position": 20,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "COUNTDOWN CAPTAIN FINGERS",
+            "artist": "Lee Ritenour",
+            "this_week": 63,
+            "last_week": 74,
+            "peak_position": 63
+        },
+        {
+            "song": "HIT N' RUN LOVER",
+            "artist": "Carol Jiani",
+            "this_week": 64,
+            "last_week": 45,
+            "peak_position": 4,
+            "weeks_on_chart": 22
+        },
+        {
+            "song": "Get It Up / Cool",
+            "artist": "The Time",
+            "this_week": 65,
+            "last_week": null,
+            "peak_position": 65
+        },
+        {
+            "song": "TO HELL WITH POVERTY",
+            "artist": "Gang Of Four",
+            "this_week": 66,
+            "last_week": null,
+            "peak_position": 66
+        },
+        {
+            "song": "THE BOOGIE's GONNA GET YOU/SWEET DELIGHT",
+            "artist": "The Woods Empire",
+            "this_week": 67,
+            "last_week": 46,
+            "peak_position": 38,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "FREAKY DANCIN'",
+            "artist": "Cameo",
+            "this_week": 68,
+            "last_week": 66,
+            "peak_position": 45,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Inch By Inch",
+            "artist": "Strikers",
+            "this_week": 69,
+            "last_week": null,
+            "peak_position": 69
+        },
+        {
+            "song": "Who's Been Kissing You",
+            "artist": "Hot Cuisine",
+            "this_week": 70,
+            "last_week": null,
+            "peak_position": 70
+        },
+        {
+            "song": "You're The One / Disco Kicks",
+            "artist": "Boys Town Gang",
+            "this_week": 71,
+            "last_week": null,
+            "peak_position": 71
+        },
+        {
+            "song": "AI NO CORRIDA/RAZZAMATAZZ",
+            "artist": "Quincy Jones",
+            "this_week": 72,
+            "last_week": 59,
+            "peak_position": 3,
+            "weeks_on_chart": 21
+        },
+        {
+            "song": "RADIO ACTION",
+            "artist": "Claudja Barry",
+            "this_week": 73,
+            "last_week": 63,
+            "peak_position": 57
+        },
+        {
+            "song": "Turn It Out",
+            "artist": "The Emotions",
+            "this_week": 74,
+            "last_week": 50,
+            "peak_position": 50,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "WHAT CHA' GONNA DO FOR ME/I KNOW YOU I LIVE YOU",
+            "artist": "Chaka Khan",
+            "this_week": 75,
+            "last_week": 67,
+            "peak_position": 22,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "I Hear Music In The Streets",
+            "artist": "Unlimited Touch",
+            "this_week": 76,
+            "last_week": 62,
+            "peak_position": 6,
+            "weeks_on_chart": 34
+        },
+        {
+            "song": "Funtown U.S.A.",
+            "artist": "Rafael Cameron",
+            "this_week": 77,
+            "last_week": 77,
+            "peak_position": 55
+        },
+        {
+            "song": "STAND AND DELIVER/BEAT MY GUEST",
+            "artist": "Adam And The Ants",
+            "this_week": 78,
+            "last_week": 65,
+            "peak_position": 38,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Love No Longer Has A Hold On Me",
+            "artist": "Johnny Bristol",
+            "this_week": 79,
+            "last_week": 60,
+            "peak_position": 17,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Feels Like I'm In Love / Loving Just For Fun",
+            "artist": "Kelly Marie",
+            "this_week": 80,
+            "last_week": 75,
+            "peak_position": 10,
+            "weeks_on_chart": 32
+        }
+    ]
+}

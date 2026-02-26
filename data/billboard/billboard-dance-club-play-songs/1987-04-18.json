@@ -1,0 +1,454 @@
+{
+    "date": "1987-04-18",
+    "data": [
+        {
+            "song": "Lean On Me (Remix)",
+            "artist": "Club Nouveau",
+            "this_week": 1,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Looking For A New Love (Remix)",
+            "artist": "Jody Watley",
+            "this_week": 2,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "No Lies (Remix)",
+            "artist": "The S.O.S. Band",
+            "this_week": 3,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Keep Your Eye On Me (Remix)",
+            "artist": "Herb Alpert",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "The Telephone Call (Remix)",
+            "artist": "Kraftwerk",
+            "this_week": 5,
+            "last_week": 9,
+            "peak_position": 5,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Contenders (Remix)",
+            "artist": "Heaven 17",
+            "this_week": 6,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "You Keep Me Hangin' On (Remix)",
+            "artist": "Kim Wilde",
+            "this_week": 7,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Sign 'O' The Times",
+            "artist": "Prince",
+            "this_week": 8,
+            "last_week": 14,
+            "peak_position": 8,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Do The Dance (Remix)",
+            "artist": "Trance-Dance",
+            "this_week": 9,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Never Gonna Leave You",
+            "artist": "Subject",
+            "this_week": 10,
+            "last_week": 13,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Something In My House",
+            "artist": "Dead Or Alive",
+            "this_week": 11,
+            "last_week": 18,
+            "peak_position": 11,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I Knew You Were Waiting (For Me)",
+            "artist": "Aretha Franklin & George Michael",
+            "this_week": 12,
+            "last_week": 12,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Last Chance",
+            "artist": "Cyre",
+            "this_week": 13,
+            "last_week": 19,
+            "peak_position": 13,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Certain Things Are Likely (Remix)",
+            "artist": "K.T.P.",
+            "this_week": 14,
+            "last_week": 24,
+            "peak_position": 14,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Feels Like The First Time (Remix)",
+            "artist": "Sinitta",
+            "this_week": 15,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Right On Track (Remix)",
+            "artist": "The Breakfast Club",
+            "this_week": 16,
+            "last_week": 15,
+            "peak_position": 15,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Back And Forth (Remix)",
+            "artist": "Cameo",
+            "this_week": 17,
+            "last_week": 25,
+            "peak_position": 17,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Sexappeal (Remix)",
+            "artist": "Georgio",
+            "this_week": 18,
+            "last_week": 23,
+            "peak_position": 18,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "The Honeythief (Remix)",
+            "artist": "Hipsway",
+            "this_week": 19,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Only In The Night (Remix)",
+            "artist": "The Voice In Fashion",
+            "this_week": 20,
+            "last_week": 26,
+            "peak_position": 20,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Heartbreak Beat (Remix)",
+            "artist": "Psychedelic Furs",
+            "this_week": 21,
+            "last_week": 20,
+            "peak_position": 14,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Lowdown So & So",
+            "artist": "Rainy Davis",
+            "this_week": 22,
+            "last_week": 10,
+            "peak_position": 9,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Whatcha Gonna Do",
+            "artist": "Blaze",
+            "this_week": 23,
+            "last_week": 21,
+            "peak_position": 17,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Gonna Put Up A Fight",
+            "artist": "Barbara Roy",
+            "this_week": 24,
+            "last_week": 32,
+            "peak_position": 24,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Without You",
+            "artist": "Touch",
+            "this_week": 25,
+            "last_week": 31,
+            "peak_position": 25,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Wax The Van",
+            "artist": "Lola",
+            "this_week": 26,
+            "last_week": 28,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Who Is It",
+            "artist": "Mantronix",
+            "this_week": 27,
+            "last_week": 27,
+            "peak_position": 25,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Mr. Right",
+            "artist": "Eleanor Mills",
+            "this_week": 28,
+            "last_week": 35,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "You Better Quit (Remix)",
+            "artist": "One Way",
+            "this_week": 29,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "It's Tricky (And More) (EP)",
+            "artist": "Run-D.M.C.",
+            "this_week": 30,
+            "last_week": 33,
+            "peak_position": 30,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Move Out (Remix)",
+            "artist": "Nancy Martinez",
+            "this_week": 31,
+            "last_week": 17,
+            "peak_position": 12,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "IOU (The '87 Remixes)",
+            "artist": "Freeez Featuring John Rocca",
+            "this_week": 32,
+            "last_week": 22,
+            "peak_position": 18,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Fascinated",
+            "artist": "Company B",
+            "this_week": 33,
+            "last_week": 16,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Dominoes (Remix)",
+            "artist": "Robbie Nevil",
+            "this_week": 34,
+            "last_week": 37,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "No One Knows (Remix)",
+            "artist": "The Wild Marys",
+            "this_week": 35,
+            "last_week": 39,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "In Conversation (Remix)",
+            "artist": "General Public",
+            "this_week": 36,
+            "last_week": 36,
+            "peak_position": 36,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Crush (Remix)",
+            "artist": "Grace Jones",
+            "this_week": 37,
+            "last_week": 40,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Mutual Attraction (Remix)",
+            "artist": "Sylvester",
+            "this_week": 38,
+            "last_week": 42,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "January,February",
+            "artist": "Tina B.",
+            "this_week": 39,
+            "last_week": 49,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Each Time You Break My Heart (Remix)",
+            "artist": "Nick Kamen",
+            "this_week": 40,
+            "last_week": null,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Watch Out (Remix)",
+            "artist": "Patrice Rushen",
+            "this_week": 41,
+            "last_week": 45,
+            "peak_position": 41,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Stone Love (Remix)",
+            "artist": "Kool & The Gang",
+            "this_week": 42,
+            "last_week": 41,
+            "peak_position": 41,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "He Wants My Body (Remix)",
+            "artist": "Starpoint",
+            "this_week": 43,
+            "last_week": 43,
+            "peak_position": 43,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Let's Work It Out",
+            "artist": "Sadie Nine",
+            "this_week": 44,
+            "last_week": 51,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Old Flames Never Die (Remix)/Love Scene",
+            "artist": "Full Force",
+            "this_week": 45,
+            "last_week": 44,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Living In A Dream",
+            "artist": "Pseudo Echo",
+            "this_week": 46,
+            "last_week": 47,
+            "peak_position": 46,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Macho Mozart",
+            "artist": "Latin Rascals",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Showdown (Remix)",
+            "artist": "No Sovereign",
+            "this_week": 48,
+            "last_week": 34,
+            "peak_position": 31,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Let's Get Brutal",
+            "artist": "Nitro Deluxe",
+            "this_week": 49,
+            "last_week": 46,
+            "peak_position": 34,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Jump Right On The Case",
+            "artist": "Clubhouse Orchestra",
+            "this_week": 50,
+            "last_week": 50,
+            "peak_position": 50,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Just Another Man",
+            "artist": "Jeanne Harris",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Can't You Feel My Heart Beat (Remix)",
+            "artist": "Claudja Barry",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Madness",
+            "artist": "Zee",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Don't Look Now/Can't Find My Way Home",
+            "artist": "Torch Song",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        },
+        {
+            "song": "Red Rose",
+            "artist": "Alphaville",
+            "this_week": 56,
+            "last_week": null,
+            "peak_position": 56
+        },
+        {
+            "song": "Head To Toe",
+            "artist": "Lisa Lisa And Cult Jam",
+            "this_week": 57,
+            "last_week": null,
+            "peak_position": 57
+        },
+        {
+            "song": "I Just Died In Your Arms",
+            "artist": "Cutting Crew",
+            "this_week": 60,
+            "last_week": null,
+            "peak_position": 60
+        }
+    ]
+}

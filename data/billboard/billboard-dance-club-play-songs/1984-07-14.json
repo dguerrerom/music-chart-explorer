@@ -1,0 +1,632 @@
+{
+    "date": "1984-07-14",
+    "data": [
+        {
+            "song": "When Doves Cry / 17 Days",
+            "artist": "Prince",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Don't Go Lose It Baby",
+            "artist": "Hugh Masekela",
+            "this_week": 2,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Breakin'...there's No Stopping Us",
+            "artist": "Ollie And Jerry",
+            "this_week": 3,
+            "last_week": 5,
+            "peak_position": 3,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Black Stations/White Stations",
+            "artist": "M+M",
+            "this_week": 4,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Crash Goes Love",
+            "artist": "Loleatta Holloway",
+            "this_week": 5,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "The Ghost In You / Heartbeat",
+            "artist": "Psychedelic Furs",
+            "this_week": 6,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "In the Heat of The Night",
+            "artist": "Klinte Jones",
+            "this_week": 7,
+            "last_week": 13,
+            "peak_position": 7,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "I Can Dream About You",
+            "artist": "Dan Hartman",
+            "this_week": 8,
+            "last_week": 9,
+            "peak_position": 8,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "The Glamorous Life",
+            "artist": "Sheila E.",
+            "this_week": 9,
+            "last_week": 15,
+            "peak_position": 9,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Close (To The Edit)",
+            "artist": "The Art Of Noise",
+            "this_week": 10,
+            "last_week": 17,
+            "peak_position": 10,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Boys Do Fall In Love",
+            "artist": "Robin Gibb",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Romancing The Stone",
+            "artist": "Eddy Grant",
+            "this_week": 12,
+            "last_week": 19,
+            "peak_position": 12,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Legs",
+            "artist": "ZZ Top",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Didn't Mean To Turn You On",
+            "artist": "Cherelle",
+            "this_week": 14,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Hurt",
+            "artist": "Re-flex",
+            "this_week": 15,
+            "last_week": 16,
+            "peak_position": 15,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Hurricane",
+            "artist": "Kim Carnes",
+            "this_week": 16,
+            "last_week": 23,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Feels So Real (Won't Let Go)",
+            "artist": "Patrice Rushen",
+            "this_week": 17,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Your Life",
+            "artist": "Konk",
+            "this_week": 18,
+            "last_week": 26,
+            "peak_position": 18,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "The Lebanon",
+            "artist": "The Human League",
+            "this_week": 19,
+            "last_week": 20,
+            "peak_position": 19,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Take A Chance",
+            "artist": "Nuance Featuring Vikki Love",
+            "this_week": 20,
+            "last_week": 22,
+            "peak_position": 20,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Doctor! Doctor!",
+            "artist": "Thompson Twins",
+            "this_week": 21,
+            "last_week": 21,
+            "peak_position": 21,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "My Heart's Divided",
+            "artist": "Shannon",
+            "this_week": 22,
+            "last_week": 50,
+            "peak_position": 22,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Rhythm of the Street",
+            "artist": "Patti Austin",
+            "this_week": 23,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "State of Love",
+            "artist": "Imagination",
+            "this_week": 24,
+            "last_week": 18,
+            "peak_position": 13,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Micro-Kid",
+            "artist": "Level 42",
+            "this_week": 25,
+            "last_week": 25,
+            "peak_position": 25,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Dissidents",
+            "artist": "Thomas Dolby",
+            "this_week": 26,
+            "last_week": 37,
+            "peak_position": 26,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "You Can't Get What You Want (Till You Know What You Want)",
+            "artist": "Joe Jackson",
+            "this_week": 27,
+            "last_week": 66,
+            "peak_position": 27,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "(10,9,8,7...) Countdown (Compte a Rebours)",
+            "artist": "Armand Duchien",
+            "this_week": 28,
+            "last_week": 28,
+            "peak_position": 28,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "99 1/2",
+            "artist": "Carol Lynn Townes",
+            "this_week": 29,
+            "last_week": 34,
+            "peak_position": 29,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Tell Me I'm Not Dreamin' (Too Good To Be True)",
+            "artist": "Jermaine Jackson",
+            "this_week": 30,
+            "last_week": 8,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Keep Dancing",
+            "artist": "Touch Of Class",
+            "this_week": 31,
+            "last_week": 24,
+            "peak_position": 24,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Such a Shame",
+            "artist": "Talk Talk",
+            "this_week": 32,
+            "last_week": 41,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "You're The Best",
+            "artist": "The Emotions",
+            "this_week": 33,
+            "last_week": 33,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "High Energy",
+            "artist": "Evelyn Thomas",
+            "this_week": 34,
+            "last_week": 61,
+            "peak_position": 34,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "One Step Up, Two Steps Back",
+            "artist": "Betty Wright",
+            "this_week": 35,
+            "last_week": 36,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "That's The Way I Like It",
+            "artist": "Dead Or Alive",
+            "this_week": 36,
+            "last_week": 59,
+            "peak_position": 36,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "My Best Friend's Girlfried",
+            "artist": "Marcus Miller",
+            "this_week": 37,
+            "last_week": 43,
+            "peak_position": 37,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Touch Dance (all cuts)",
+            "artist": "Eurythmics",
+            "this_week": 38,
+            "last_week": 60,
+            "peak_position": 38,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Caribbean Queen (No More Love On The Run)",
+            "artist": "Billy Ocean",
+            "this_week": 39,
+            "last_week": 63,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "My Male Curiosity",
+            "artist": "Kid Creole & The Coconuts",
+            "this_week": 40,
+            "last_week": 71,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Dr. Beat",
+            "artist": "Miami Sound Machine",
+            "this_week": 41,
+            "last_week": 68,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "If This Ain't Love",
+            "artist": "Jay Novelle",
+            "this_week": 42,
+            "last_week": 72,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Self Control",
+            "artist": "Laura Branigan",
+            "this_week": 43,
+            "last_week": 27,
+            "peak_position": 2,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Lovelite",
+            "artist": "O'Bryan",
+            "this_week": 44,
+            "last_week": 52,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Infatuation",
+            "artist": "Rod Stewart",
+            "this_week": 45,
+            "last_week": 67,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Guilty",
+            "artist": "Hotline",
+            "this_week": 46,
+            "last_week": 69,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Bob Til I Drop",
+            "artist": "Larrice",
+            "this_week": 47,
+            "last_week": 29,
+            "peak_position": 19,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Determination/It Should Have Been Me",
+            "artist": "Jayne Edwards",
+            "this_week": 48,
+            "last_week": 49,
+            "peak_position": 48,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "10-9-8",
+            "artist": "Face To Face",
+            "this_week": 49,
+            "last_week": 30,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Dancing In The Dark",
+            "artist": "Bruce Springsteen",
+            "this_week": 50,
+            "last_week": null,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Let's Make Love Tonight",
+            "artist": "L'Amour",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "People are People",
+            "artist": "Depeche Mode",
+            "this_week": 52,
+            "last_week": 54,
+            "peak_position": 52
+        },
+        {
+            "song": "Beeline",
+            "artist": "Miquel Brown",
+            "this_week": 53,
+            "last_week": 44,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Tokyo Rose",
+            "artist": "Kamikaze",
+            "this_week": 54,
+            "last_week": 55,
+            "peak_position": 54
+        },
+        {
+            "song": "AND DANCE/KICK IT",
+            "artist": "Billy Preston",
+            "this_week": 55,
+            "last_week": 56,
+            "peak_position": 55
+        },
+        {
+            "song": "Love Of The Common People",
+            "artist": "Paul Young",
+            "this_week": 56,
+            "last_week": 42,
+            "peak_position": 42,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Darling Don't Leave Me",
+            "artist": "Robert Gorl",
+            "this_week": 57,
+            "last_week": 57,
+            "peak_position": 57
+        },
+        {
+            "song": "Zarah",
+            "artist": "Nina Hagen",
+            "this_week": 58,
+            "last_week": 58,
+            "peak_position": 58
+        },
+        {
+            "song": "Beat Street Strut",
+            "artist": "Juicy",
+            "this_week": 59,
+            "last_week": 65,
+            "peak_position": 59
+        },
+        {
+            "song": "Don't Take Your Love Away",
+            "artist": "Pushe",
+            "this_week": 60,
+            "last_week": 48,
+            "peak_position": 38,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Jump (For My Love)",
+            "artist": "The Pointer Sisters",
+            "this_week": 61,
+            "last_week": 31,
+            "peak_position": 8,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Land of Hunger",
+            "artist": "The Earons",
+            "this_week": 62,
+            "last_week": 35,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Don't Tell Me / You Can Say It",
+            "artist": "Blancmange",
+            "this_week": 63,
+            "last_week": 64,
+            "peak_position": 63
+        },
+        {
+            "song": "Somebody Else's Guy",
+            "artist": "Jocelyn Brown",
+            "this_week": 64,
+            "last_week": 45,
+            "peak_position": 13,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "It's A Cryin' Shame (Sha La La La)",
+            "artist": "David Lasley",
+            "this_week": 65,
+            "last_week": 32,
+            "peak_position": 32,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Outrageous",
+            "artist": "Lakeside",
+            "this_week": 66,
+            "last_week": null,
+            "peak_position": 66
+        },
+        {
+            "song": "Let Me Do You",
+            "artist": "NV",
+            "this_week": 67,
+            "last_week": 39,
+            "peak_position": 20,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Jam On It",
+            "artist": "Newcleus",
+            "this_week": 68,
+            "last_week": 62,
+            "peak_position": 16,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "One Step At A Time",
+            "artist": "C. Linda McConnell",
+            "this_week": 69,
+            "last_week": null,
+            "peak_position": 69
+        },
+        {
+            "song": "To the Bone",
+            "artist": "Nona Hendryx",
+            "this_week": 70,
+            "last_week": null,
+            "peak_position": 70
+        },
+        {
+            "song": "Body Harmony",
+            "artist": "J. Bird",
+            "this_week": 71,
+            "last_week": null,
+            "peak_position": 71
+        },
+        {
+            "song": "Dance Hall Days / Don't Let Go",
+            "artist": "Wang Chung",
+            "this_week": 72,
+            "last_week": 40,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "I'll Be Around",
+            "artist": "Terri Wells",
+            "this_week": 73,
+            "last_week": 46,
+            "peak_position": 46,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Whisper To A Scream (Birds Fly)",
+            "artist": "Icicle Works",
+            "this_week": 74,
+            "last_week": 53,
+            "peak_position": 13,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Deeper and Deeper",
+            "artist": "The Fixx",
+            "this_week": 75,
+            "last_week": 47,
+            "peak_position": 47,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I Want To Break Free",
+            "artist": "Queen",
+            "this_week": 76,
+            "last_week": 51,
+            "peak_position": 51
+        },
+        {
+            "song": "Rock Box",
+            "artist": "Run-D.M.C.",
+            "this_week": 77,
+            "last_week": 38,
+            "peak_position": 26,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Hey D.J.",
+            "artist": "World's Famous Supreme Team",
+            "this_week": 78,
+            "last_week": 70,
+            "peak_position": 24,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Siberian Nights",
+            "artist": "Twilight 22",
+            "this_week": 79,
+            "last_week": 75,
+            "peak_position": 31,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I Want It To Be Real",
+            "artist": "John Rocca",
+            "this_week": 80,
+            "last_week": 74,
+            "peak_position": 1,
+            "weeks_on_chart": 11
+        }
+    ]
+}

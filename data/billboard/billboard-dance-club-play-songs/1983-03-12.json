@@ -1,0 +1,632 @@
+{
+    "date": "1983-03-12",
+    "data": [
+        {
+            "song": "Thriller (all cuts)",
+            "artist": "Michael Jackson (all cuts)",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Too Tough",
+            "artist": "Angela Bofill",
+            "this_week": 2,
+            "last_week": 7,
+            "peak_position": 2,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "All I Need (all cuts)",
+            "artist": "Sylvester",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "LET ME GO",
+            "artist": "Heaven 17",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "One More Shot",
+            "artist": "C-Bank",
+            "this_week": 5,
+            "last_week": 6,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Last Night A D.J. Saved My Life",
+            "artist": "Indeep",
+            "this_week": 6,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Hip Hop, Be Bop (don't Stop)",
+            "artist": "Man Parrish",
+            "this_week": 7,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "She Blinded Me With Science",
+            "artist": "Thomas Dolby",
+            "this_week": 8,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "ROCK THE BOAT",
+            "artist": "Forrest",
+            "this_week": 9,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "That's Good / Speed Racer",
+            "artist": "Devo",
+            "this_week": 10,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Jeopardy",
+            "artist": "Greg Kihn Band",
+            "this_week": 11,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Life Is Something Special",
+            "artist": "New York City Peech Boys",
+            "this_week": 12,
+            "last_week": 12,
+            "peak_position": 12,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "LOVE ON YOUR SIDE",
+            "artist": "Thompson Twins",
+            "this_week": 13,
+            "last_week": 17,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "You Are In My System",
+            "artist": "The System",
+            "this_week": 14,
+            "last_week": 14,
+            "peak_position": 14,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "You Can't Run From My Love",
+            "artist": "Stephanie Mills",
+            "this_week": 15,
+            "last_week": 16,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "THAT's WHEN WE'LL BE FREE",
+            "artist": "State Of Grace",
+            "this_week": 16,
+            "last_week": 20,
+            "peak_position": 16,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "DER KOMMISSAR (THE COMMISSIONER)",
+            "artist": "Falco",
+            "this_week": 17,
+            "last_week": 19,
+            "peak_position": 17,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Looking For The Perfect Beat",
+            "artist": "Afrika Bambaataa & Soul Sonic Force",
+            "this_week": 18,
+            "last_week": 21,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "DER KOMMISSAR",
+            "artist": "After The Fire",
+            "this_week": 19,
+            "last_week": 23,
+            "peak_position": 19,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Ooh, I Love It (Love Break)",
+            "artist": "The Salsoul Orchestra",
+            "this_week": 20,
+            "last_week": 27,
+            "peak_position": 20,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "WORK FOR LOVE",
+            "artist": "Ministry",
+            "this_week": 21,
+            "last_week": 26,
+            "peak_position": 21,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Sex (I'm A...)",
+            "artist": "Berlin",
+            "this_week": 22,
+            "last_week": 54,
+            "peak_position": 22,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "WEEKEND",
+            "artist": "Class Action",
+            "this_week": 23,
+            "last_week": 32,
+            "peak_position": 23,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Outstanding",
+            "artist": "The Gap Band",
+            "this_week": 24,
+            "last_week": 24,
+            "peak_position": 24,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "THE HARDER THEY COME",
+            "artist": "Rocker's Revenge",
+            "this_week": 25,
+            "last_week": 30,
+            "peak_position": 25,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "We Got The Juice",
+            "artist": "Attitude",
+            "this_week": 26,
+            "last_week": 41,
+            "peak_position": 26,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Electric Avenue",
+            "artist": "Eddy Grant",
+            "this_week": 27,
+            "last_week": 52,
+            "peak_position": 27,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "GOTCHA WHERE I WANT YOU",
+            "artist": "Stereo Fun Inc",
+            "this_week": 28,
+            "last_week": 35,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "THE RIGHT MAN/THE RIGHT MIX",
+            "artist": "The Units",
+            "this_week": 29,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Baby Gets High",
+            "artist": "Peter Brown",
+            "this_week": 30,
+            "last_week": 13,
+            "peak_position": 6,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Come Give Your Love To Me",
+            "artist": "Janet Jackson",
+            "this_week": 31,
+            "last_week": 59,
+            "peak_position": 31,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "LET's GO TO BED",
+            "artist": "The Cure",
+            "this_week": 32,
+            "last_week": 38,
+            "peak_position": 32,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "We Can Go To Your House/50/50 Love",
+            "artist": "Maurice Massiah",
+            "this_week": 33,
+            "last_week": 34,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "BUFFALO GALS",
+            "artist": "Malcolm Mclaren And The World's Famous Supreme Team",
+            "this_week": 34,
+            "last_week": 33,
+            "peak_position": 33,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Nobody Can Be You",
+            "artist": "Steve Arrington's Hall Of Fame",
+            "this_week": 35,
+            "last_week": 53,
+            "peak_position": 35,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Keep The Fire Burning",
+            "artist": "Gwen McCrae",
+            "this_week": 36,
+            "last_week": 15,
+            "peak_position": 5,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "WONDERFUL",
+            "artist": "Klein And Mbo",
+            "this_week": 37,
+            "last_week": 31,
+            "peak_position": 31,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "FALL IN LOVE WITH ME",
+            "artist": "Earth, Wind & Fire",
+            "this_week": 38,
+            "last_week": 42,
+            "peak_position": 38,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "POISON ARROW",
+            "artist": "ABC",
+            "this_week": 39,
+            "last_week": 40,
+            "peak_position": 39,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I LIKE IT LIKE THAT",
+            "artist": "Inner Life",
+            "this_week": 40,
+            "last_week": 44,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Angel Man (G.A.)",
+            "artist": "Rhetta Hughes",
+            "this_week": 41,
+            "last_week": null,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "HOW HIGH",
+            "artist": "Spencer Jones",
+            "this_week": 42,
+            "last_week": 45,
+            "peak_position": 42,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "BACK IN MY ARMS AGAIN",
+            "artist": "Cynthia Manley",
+            "this_week": 43,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Body Mechanic",
+            "artist": "Quadrant Six",
+            "this_week": 44,
+            "last_week": 25,
+            "peak_position": 25,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "The Musics Got Me",
+            "artist": "Visual",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "UNCERTAIN SMILE",
+            "artist": "The The",
+            "this_week": 46,
+            "last_week": 48,
+            "peak_position": 46,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "SHE HAS A WAY",
+            "artist": "Bobby O",
+            "this_week": 47,
+            "last_week": 29,
+            "peak_position": 10,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "I Just Gotta Have You (Lover Turn Me On)",
+            "artist": "Kashif",
+            "this_week": 48,
+            "last_week": 57,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I Will Follow Him / Work Me Over",
+            "artist": "Claudja Barry",
+            "this_week": 49,
+            "last_week": 36,
+            "peak_position": 5,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "SATURDAY AT MIDNIGHT",
+            "artist": "Cheap Trick",
+            "this_week": 50,
+            "last_week": 58,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Funky Soul Makossa",
+            "artist": "Nairobi And The Awesome Foursome",
+            "this_week": 51,
+            "last_week": 43,
+            "peak_position": 18,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "CRY NOW, LAUGH LATER",
+            "artist": "Grace Jones",
+            "this_week": 52,
+            "last_week": 68,
+            "peak_position": 52
+        },
+        {
+            "song": "Living On The Ceiling / Feel Me",
+            "artist": "Blancmange",
+            "this_week": 53,
+            "last_week": 60,
+            "peak_position": 53
+        },
+        {
+            "song": "RIDE ON THE RHYTHM",
+            "artist": "Mahogany",
+            "this_week": 54,
+            "last_week": 28,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Knockout",
+            "artist": "Margie Joseph",
+            "this_week": 55,
+            "last_week": 49,
+            "peak_position": 32,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "DO IT ANYWAY YOU WANNA",
+            "artist": "Cashmere",
+            "this_week": 56,
+            "last_week": 37,
+            "peak_position": 21,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I Am Somebody",
+            "artist": "Glenn Jones",
+            "this_week": 57,
+            "last_week": 66,
+            "peak_position": 57
+        },
+        {
+            "song": "BABY's GOT ANOTHER",
+            "artist": "Richard Jon Smith",
+            "this_week": 58,
+            "last_week": 67,
+            "peak_position": 58
+        },
+        {
+            "song": "THE GIRL IS FINE",
+            "artist": "The Fatback Band",
+            "this_week": 59,
+            "last_week": 69,
+            "peak_position": 59
+        },
+        {
+            "song": "I Melt With You / Life In The Gladhouse",
+            "artist": "Modern English",
+            "this_week": 60,
+            "last_week": 62,
+            "peak_position": 60
+        },
+        {
+            "song": "On The One For Fun",
+            "artist": "Dazz Band",
+            "this_week": 61,
+            "last_week": 70,
+            "peak_position": 61
+        },
+        {
+            "song": "Groovin' (That's What We're Doin')",
+            "artist": "The S.O.S. Band",
+            "this_week": 62,
+            "last_week": 47,
+            "peak_position": 47,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "1999",
+            "artist": "Prince",
+            "this_week": 63,
+            "last_week": 55,
+            "peak_position": 1,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "REACH UP",
+            "artist": "Toney Lee",
+            "this_week": 64,
+            "last_week": 50,
+            "peak_position": 8,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "IF YOU WANNA GET BACK YOUR LADY",
+            "artist": "The Pointer Sisters",
+            "this_week": 65,
+            "last_week": null,
+            "peak_position": 65
+        },
+        {
+            "song": "I EAT CANNIBALS",
+            "artist": "Total Coelo",
+            "this_week": 66,
+            "last_week": null,
+            "peak_position": 66
+        },
+        {
+            "song": "TONIGHT/CAN WE TRY AGAIN",
+            "artist": "Technique",
+            "this_week": 67,
+            "last_week": null,
+            "peak_position": 67
+        },
+        {
+            "song": "He's A Pretender",
+            "artist": "High Inergy",
+            "this_week": 68,
+            "last_week": null,
+            "peak_position": 68
+        },
+        {
+            "song": "Shoot Your Shot",
+            "artist": "Divine",
+            "this_week": 69,
+            "last_week": 39,
+            "peak_position": 39,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "HIT ON YOU",
+            "artist": "Roundtree",
+            "this_week": 70,
+            "last_week": 51,
+            "peak_position": 13,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "You've Said Enough",
+            "artist": "Central Line",
+            "this_week": 71,
+            "last_week": 46,
+            "peak_position": 11,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "HEAVY VIBES",
+            "artist": "Montana Sextet",
+            "this_week": 72,
+            "last_week": 56,
+            "peak_position": 22,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Heartbeats",
+            "artist": "Yarbrough & Peoples",
+            "this_week": 73,
+            "last_week": 61,
+            "peak_position": 61
+        },
+        {
+            "song": "Pass The Dutchie",
+            "artist": "Musical Youth",
+            "this_week": 74,
+            "last_week": 64,
+            "peak_position": 11,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Such A Feeling",
+            "artist": "Aurra",
+            "this_week": 75,
+            "last_week": 72,
+            "peak_position": 29,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "It's Raining Men",
+            "artist": "The Weather Girls",
+            "this_week": 76,
+            "last_week": 75,
+            "peak_position": 1,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Who Can It Be Now / Down Under",
+            "artist": "Men At Work",
+            "this_week": 77,
+            "last_week": 76,
+            "peak_position": 33,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "THE BEAT GOES ON",
+            "artist": "Orbit",
+            "this_week": 78,
+            "last_week": 71,
+            "peak_position": 17,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "And You Know That / Be Mine Tonight",
+            "artist": "The Jammers",
+            "this_week": 79,
+            "last_week": 74,
+            "peak_position": 19,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "ALL I NEED IS YOU",
+            "artist": "Starshine",
+            "this_week": 80,
+            "last_week": 63,
+            "peak_position": 63
+        }
+    ]
+}

@@ -1,0 +1,447 @@
+{
+    "date": "1986-04-05",
+    "data": [
+        {
+            "song": "I Can't Wait",
+            "artist": "Nu Shooz",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "What Have You Done For Me Lately",
+            "artist": "Janet Jackson",
+            "this_week": 2,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Kiss (Remix)/Love Or Money",
+            "artist": "Prince And The Revolution",
+            "this_week": 3,
+            "last_week": 6,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Another Night (Remix)",
+            "artist": "Aretha Franklin",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Rock Me Amadeus",
+            "artist": "Falco",
+            "this_week": 5,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "I'm Not Gonna Let (You Get The Best Of Me)",
+            "artist": "Colonel Abrams",
+            "this_week": 6,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Whenever You Need Somebody",
+            "artist": "O'Chi Brown",
+            "this_week": 7,
+            "last_week": 9,
+            "peak_position": 7,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "West End Girls (Remix)",
+            "artist": "Pet Shop Boys",
+            "this_week": 8,
+            "last_week": 11,
+            "peak_position": 8,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Who Needs Love Like That/Heavenly Action",
+            "artist": "Erasure",
+            "this_week": 9,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Don't You Want My Love",
+            "artist": "Nicole",
+            "this_week": 10,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "(You Are My) All And All",
+            "artist": "Joyce Sims",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Crush On You",
+            "artist": "The Jets",
+            "this_week": 12,
+            "last_week": 15,
+            "peak_position": 12,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Hit That Perfect Beat",
+            "artist": "Bronski Beat",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Saturday Love (Remix)",
+            "artist": "Cherrelle With Alexander O'Neal",
+            "this_week": 14,
+            "last_week": 13,
+            "peak_position": 13,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "The River/Sunshine",
+            "artist": "Total Contrast",
+            "this_week": 15,
+            "last_week": 7,
+            "peak_position": 7,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Twist My Arm (Remix)",
+            "artist": "The Pointer Sisters",
+            "this_week": 16,
+            "last_week": 18,
+            "peak_position": 16,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Living For The City",
+            "artist": "Sylvester",
+            "this_week": 17,
+            "last_week": 23,
+            "peak_position": 17,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "(Nothing Serious) Just Buggin'",
+            "artist": "Whistle",
+            "this_week": 18,
+            "last_week": 19,
+            "peak_position": 18,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "A Little Bit Of Love (Is All It Takes)",
+            "artist": "New Edition",
+            "this_week": 19,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Something About You (Remix)",
+            "artist": "Level 42",
+            "this_week": 20,
+            "last_week": 22,
+            "peak_position": 20,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Under The Influence (Remix)",
+            "artist": "Vanity",
+            "this_week": 21,
+            "last_week": 38,
+            "peak_position": 21,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "High Horse (Remix)",
+            "artist": "Evelyn \"Champagne\" King",
+            "this_week": 22,
+            "last_week": 28,
+            "peak_position": 22,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Life's What You Make It (Remix)",
+            "artist": "Talk Talk",
+            "this_week": 23,
+            "last_week": 24,
+            "peak_position": 23,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Sanctify Yourself",
+            "artist": "Simple Minds",
+            "this_week": 24,
+            "last_week": 25,
+            "peak_position": 24,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Rhythm Of Love",
+            "artist": "Johnny Dynell",
+            "this_week": 25,
+            "last_week": 30,
+            "peak_position": 25,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Mr. Right Now (Remix)/Electricity (Remix)",
+            "artist": "Rori",
+            "this_week": 26,
+            "last_week": 33,
+            "peak_position": 26,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "No More",
+            "artist": "Shirley Murdock",
+            "this_week": 27,
+            "last_week": 29,
+            "peak_position": 27,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Harlem Shuffle (Remix)",
+            "artist": "The Rolling Stones",
+            "this_week": 28,
+            "last_week": 47,
+            "peak_position": 28,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Love Honey, Love Heartache",
+            "artist": "Man Friday",
+            "this_week": 29,
+            "last_week": 37,
+            "peak_position": 29,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Jimmy Mack",
+            "artist": "Sheena Easton",
+            "this_week": 30,
+            "last_week": 36,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I Engineer/Obsession (Remix)",
+            "artist": "Animotion",
+            "this_week": 31,
+            "last_week": 34,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Hot (Remix)",
+            "artist": "Roy Ayers",
+            "this_week": 32,
+            "last_week": 20,
+            "peak_position": 12,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Gotta Find A Way",
+            "artist": "Russ Brown",
+            "this_week": 33,
+            "last_week": 35,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Say It, Say It",
+            "artist": "E.G. Daily",
+            "this_week": 34,
+            "last_week": 54,
+            "peak_position": 34,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "If You Should Ever Be Lonely (Remix)",
+            "artist": "Val Young",
+            "this_week": 35,
+            "last_week": 17,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Chief Inspector/Novela Das Nove",
+            "artist": "Wally Badarou",
+            "this_week": 36,
+            "last_week": 26,
+            "peak_position": 26,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Hey Boy",
+            "artist": "Tammy Lucas",
+            "this_week": 37,
+            "last_week": 46,
+            "peak_position": 37,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "You Need More Calypso (Remix)",
+            "artist": "Ralph MacDonald",
+            "this_week": 38,
+            "last_week": 40,
+            "peak_position": 38,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Restless",
+            "artist": "Starpoint",
+            "this_week": 39,
+            "last_week": 50,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Love's On Fire",
+            "artist": "Aleem Featuring Leroy Burgess",
+            "this_week": 40,
+            "last_week": null,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "New Toy",
+            "artist": "The Flirts",
+            "this_week": 41,
+            "last_week": 21,
+            "peak_position": 5,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "War Boys",
+            "artist": "Annabella",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Prisoner Of Love",
+            "artist": "Mildred Scott",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Sweetheart",
+            "artist": "Rainy Davis",
+            "this_week": 44,
+            "last_week": 45,
+            "peak_position": 44,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "He's Number One",
+            "artist": "Fantasy",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Mind Games",
+            "artist": "QuESt",
+            "this_week": 46,
+            "last_week": 49,
+            "peak_position": 46,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Your Smile/Drive My Love",
+            "artist": "Rene & Angela",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Album (LP Cuts)",
+            "artist": "Public Image Ltd.",
+            "this_week": 48,
+            "last_week": null,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Rock The Bells",
+            "artist": "LL Cool J",
+            "this_week": 49,
+            "last_week": 52,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Stranger/Running Around In Circles",
+            "artist": "Pamala Stanley & Paul Parker",
+            "this_week": 50,
+            "last_week": 48,
+            "peak_position": 40,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Bad Boy (Remix)",
+            "artist": "Miami Sound Machine",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "One Year Late",
+            "artist": "The Voice",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "My Latin Lover",
+            "artist": "Q-Pid Featuring Nikki Q",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "All Played Out",
+            "artist": "L.I.F.E.",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        },
+        {
+            "song": "Slap You Back",
+            "artist": "Exception",
+            "this_week": 56,
+            "last_week": null,
+            "peak_position": 56
+        },
+        {
+            "song": "I Can't Wait (Remix)",
+            "artist": "Stevie Nicks",
+            "this_week": 57,
+            "last_week": null,
+            "peak_position": 57
+        }
+    ]
+}

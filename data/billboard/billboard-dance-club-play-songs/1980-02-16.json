@@ -1,0 +1,771 @@
+{
+    "date": "1980-02-16",
+    "data": [
+        {
+            "song": "VERTIGO/RELIGHT MY FIRE/FREE RIDE",
+            "artist": "Dan Hartman",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "And The Beat Goes On / Can You Do The Boogie / Out The Box",
+            "artist": "The Whispers",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Evita (all cuts)",
+            "artist": "Festival",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+            "artist": "Bonnie Pointer",
+            "this_week": 4,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "High On Your Love / Hot Hot (Give It All You Got)",
+            "artist": "Debbie Jacobs",
+            "this_week": 5,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "FUNKY TOWN/ALL NIGHT DANCING",
+            "artist": "Lipps Inc.",
+            "this_week": 6,
+            "last_week": 10,
+            "peak_position": 6,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I Wanna Be Your Lover / Sexy Dancer",
+            "artist": "Prince",
+            "this_week": 7,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "Haven't You Heard",
+            "artist": "Patrice Rushen",
+            "this_week": 8,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Smack Dab In The Middle",
+            "artist": "Janice McClaine",
+            "this_week": 9,
+            "last_week": 9,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "I Shoulda Loved Ya / Tonight I'm Alright",
+            "artist": "Narada Michael Walden",
+            "this_week": 10,
+            "last_week": 15,
+            "peak_position": 10,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Do You Love What You Feel",
+            "artist": "Rufus And Chaka Khan",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 5,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "MANDOLAY",
+            "artist": "La Flavour",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Loose Lucy / We're Gonna Rock / Rockin' And Rollin'",
+            "artist": "Paul Sabu",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "CAN't STOP DANCING/IN MY FANTASY",
+            "artist": "Sylvester",
+            "this_week": 14,
+            "last_week": 11,
+            "peak_position": 2,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "YOU KNOW HOW TO LOVE ME",
+            "artist": "Phyllis Hyman",
+            "this_week": 15,
+            "last_week": 8,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Working My Way Back To You/Forgive Me, Girl",
+            "artist": "The Spinners",
+            "this_week": 16,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "I CAN't DANCE WITHOUT YOU/THANK GOD THERE's MUSIC",
+            "artist": "Theo Vaness",
+            "this_week": 17,
+            "last_week": 18,
+            "peak_position": 17,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Good To Me (all cuts)",
+            "artist": "T.H.P. Orchestra",
+            "this_week": 18,
+            "last_week": 19,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Love Injection",
+            "artist": "Trussel",
+            "this_week": 19,
+            "last_week": 21,
+            "peak_position": 14,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "The Second Time Around",
+            "artist": "Shalamar",
+            "this_week": 20,
+            "last_week": 17,
+            "peak_position": 1,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Willie And The Hand Jive / Love Potion #9",
+            "artist": "Rinder And Lewis",
+            "this_week": 21,
+            "last_week": 20,
+            "peak_position": 20,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "MONEY",
+            "artist": "The Flying Lizards",
+            "this_week": 22,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I'm Caught Up / You Don't Have Dancing On Your Mind / I Hope It's The Right",
+            "artist": "Inner Life",
+            "this_week": 23,
+            "last_week": 23,
+            "peak_position": 7,
+            "weeks_on_chart": 15
+        },
+        {
+            "song": "KIND OF LOVE(KIND OF LIFE)",
+            "artist": "Northend",
+            "this_week": 24,
+            "last_week": 24,
+            "peak_position": 24,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "SAINT TROPEZ/HOTEL PARADISE",
+            "artist": "Diva Gray And Oyster",
+            "this_week": 25,
+            "last_week": 26,
+            "peak_position": 25,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Planet Claire / Rock Lobster / Dance This Mess Around",
+            "artist": "The B-52s",
+            "this_week": 26,
+            "last_week": 33,
+            "peak_position": 26,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Want You For Myself",
+            "artist": "George Duke",
+            "this_week": 27,
+            "last_week": 32,
+            "peak_position": 27,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "BODY SHINE/SLAP,SLAP,LICKEDY LAP",
+            "artist": "Instant Funk",
+            "this_week": 28,
+            "last_week": 28,
+            "peak_position": 28,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Blow My Mind",
+            "artist": "Celi Bee",
+            "this_week": 29,
+            "last_week": 30,
+            "peak_position": 29,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "JUMP THE GUN",
+            "artist": "The Three Degrees",
+            "this_week": 30,
+            "last_week": 35,
+            "peak_position": 30,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "FLY TOO HIGH",
+            "artist": "Janis Ian",
+            "this_week": 31,
+            "last_week": 41,
+            "peak_position": 31,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "You Set Me On Fire / Let's Fly",
+            "artist": "Paradise Express",
+            "this_week": 32,
+            "last_week": 43,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "LOVE IS IN YOU/DANCE FREAK AND BOOGIE",
+            "artist": "Nightlife Unlimited",
+            "this_week": 33,
+            "last_week": 38,
+            "peak_position": 33,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Love Gun",
+            "artist": "Rick James",
+            "this_week": 34,
+            "last_week": 36,
+            "peak_position": 32,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Don't Stop The Feeling",
+            "artist": "Roy Ayers",
+            "this_week": 35,
+            "last_week": 44,
+            "peak_position": 35,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "THE VISITORS",
+            "artist": "Gino Soccio",
+            "this_week": 36,
+            "last_week": 46,
+            "peak_position": 36,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Moskow Discow / Rock Around The Clock",
+            "artist": "Telex",
+            "this_week": 37,
+            "last_week": 47,
+            "peak_position": 37,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Don't Let Go",
+            "artist": "Isaac Hayes",
+            "this_week": 38,
+            "last_week": 25,
+            "peak_position": 3,
+            "weeks_on_chart": 19
+        },
+        {
+            "song": "(YOU)KEEP ON MAKING ME HOT/(EVERYBODY's)DANCING AL",
+            "artist": "Busta Jones",
+            "this_week": 39,
+            "last_week": 27,
+            "peak_position": 15,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "New York-London-Paris-Munich (all cuts)",
+            "artist": "M",
+            "this_week": 40,
+            "last_week": 67,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I Think We're Alone Now/Will You Love Me Tomorrow",
+            "artist": "Scott Allen",
+            "this_week": 41,
+            "last_week": 29,
+            "peak_position": 21,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Wear It Out",
+            "artist": "Stargard",
+            "this_week": 42,
+            "last_week": 31,
+            "peak_position": 4,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "DEPUTY OF LOVE",
+            "artist": "Don Armando And The 2nd Avenue Rumba Band",
+            "this_week": 43,
+            "last_week": 34,
+            "peak_position": 1,
+            "weeks_on_chart": 20
+        },
+        {
+            "song": "TAKE ALL OF ME",
+            "artist": "Barbara Law",
+            "this_week": 44,
+            "last_week": 50,
+            "peak_position": 37,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Got To Love Somebody / Reach Your Peak",
+            "artist": "Sister Sledge",
+            "this_week": 45,
+            "last_week": 68,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Saturday Night - Breakout",
+            "artist": "Arpeggio",
+            "this_week": 46,
+            "last_week": 51,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "RUNNING FROM PARADISE/PORTABLE RADIO",
+            "artist": "Daryl Hall John Oates",
+            "this_week": 47,
+            "last_week": 73,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Just A Touch Of Love",
+            "artist": "Slave",
+            "this_week": 48,
+            "last_week": 58,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Here Comes The Sun",
+            "artist": "Fat Larry's Band",
+            "this_week": 49,
+            "last_week": 75,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I ZIMBRA",
+            "artist": "Talking Heads",
+            "this_week": 50,
+            "last_week": 78,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Yes I Will/Putting My (Heart On The Line)",
+            "artist": "C.O.D.",
+            "this_week": 51,
+            "last_week": 79,
+            "peak_position": 51
+        },
+        {
+            "song": "WE GOT THE FUNK",
+            "artist": "The Positive Force",
+            "this_week": 52,
+            "last_week": 80,
+            "peak_position": 52
+        },
+        {
+            "song": "KEEP IT HOT/HIDE IT AWAY/I GOT FAITH IN YOU",
+            "artist": "Cheryl Lynn",
+            "this_week": 53,
+            "last_week": 85,
+            "peak_position": 53
+        },
+        {
+            "song": "MUSIC",
+            "artist": "One Way Featuring Al Hudson",
+            "this_week": 54,
+            "last_week": 53,
+            "peak_position": 30,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "YOU MAKE ME FEEL THE FIRE",
+            "artist": "Claudja Barry",
+            "this_week": 55,
+            "last_week": 55,
+            "peak_position": 55
+        },
+        {
+            "song": "DANCE FANTASY",
+            "artist": "Free Life",
+            "this_week": 56,
+            "last_week": 60,
+            "peak_position": 56
+        },
+        {
+            "song": "QUEEN OF FOOLS",
+            "artist": "Jessica Williams",
+            "this_week": 57,
+            "last_week": 61,
+            "peak_position": 57
+        },
+        {
+            "song": "Tiger Tiger (Feel Good For A While)",
+            "artist": "Gregg Diamond Bionic Boogie",
+            "this_week": 58,
+            "last_week": 63,
+            "peak_position": 51
+        },
+        {
+            "song": "Was That All Their Was/What's On Your Mind/Give It",
+            "artist": "Jean Cairn",
+            "this_week": 59,
+            "last_week": 69,
+            "peak_position": 59
+        },
+        {
+            "song": "BROKEN ENGLISH/WHY YA DO IT",
+            "artist": "Marianne Faithfull",
+            "this_week": 60,
+            "last_week": 72,
+            "peak_position": 60
+        },
+        {
+            "song": "I'll Tell You",
+            "artist": "Sergio Mendes",
+            "this_week": 61,
+            "last_week": 48,
+            "peak_position": 9,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Rotation",
+            "artist": "Herb Alpert",
+            "this_week": 62,
+            "last_week": 45,
+            "peak_position": 45,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "No More Tears (Enough Is Enough)",
+            "artist": "Barbra Streisand/Donna Summer",
+            "this_week": 63,
+            "last_week": 37,
+            "peak_position": 1,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "HOW's YOUR LOVE LIFE BABY",
+            "artist": "Jackie Moore",
+            "this_week": 64,
+            "last_week": 76,
+            "peak_position": 64
+        },
+        {
+            "song": "LOVE IN OUR HEARTS/LEAD ME ON",
+            "artist": "Peter Brown",
+            "this_week": 65,
+            "last_week": 77,
+            "peak_position": 65
+        },
+        {
+            "song": "BURNIN' ALIVE",
+            "artist": "Tony Rollo",
+            "this_week": 66,
+            "last_week": 71,
+            "peak_position": 66
+        },
+        {
+            "song": "All Night Thing",
+            "artist": "The Invisible Man's Band",
+            "this_week": 67,
+            "last_week": 74,
+            "peak_position": 67
+        },
+        {
+            "song": "Straight From The Heart",
+            "artist": "Loose Change",
+            "this_week": 68,
+            "last_week": 39,
+            "peak_position": 21,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "NIGHTDANCER",
+            "artist": "Jean Shy",
+            "this_week": 69,
+            "last_week": 40,
+            "peak_position": 9,
+            "weeks_on_chart": 15
+        },
+        {
+            "song": "Don't Stop 'til You Get Enough",
+            "artist": "Michael Jackson",
+            "this_week": 70,
+            "last_week": 49,
+            "peak_position": 2,
+            "weeks_on_chart": 24
+        },
+        {
+            "song": "RIPE (ALL CUTS)",
+            "artist": "Ava Cherry",
+            "this_week": 71,
+            "last_week": 90,
+            "peak_position": 71
+        },
+        {
+            "song": "IN THE POCKET",
+            "artist": "African Suite",
+            "this_week": 72,
+            "last_week": 94,
+            "peak_position": 72
+        },
+        {
+            "song": "Twilight Zone/Twilight Tone",
+            "artist": "The Manhattan Transfer",
+            "this_week": 73,
+            "last_week": 88,
+            "peak_position": 73
+        },
+        {
+            "song": "On The Radio",
+            "artist": "Donna Summer",
+            "this_week": 74,
+            "last_week": 42,
+            "peak_position": 8,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "CAN't YOU FEEL IT",
+            "artist": "Beverly Johnson",
+            "this_week": 75,
+            "last_week": 83,
+            "peak_position": 75
+        },
+        {
+            "song": "Cisslin Hot",
+            "artist": "Chuck Cissel",
+            "this_week": 76,
+            "last_week": 81,
+            "peak_position": 76
+        },
+        {
+            "song": "U.N.-ALL CUTS",
+            "artist": "U.N.",
+            "this_week": 77,
+            "last_week": 57,
+            "peak_position": 34,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "\"1-2-3\"",
+            "artist": "Salazar",
+            "this_week": 78,
+            "last_week": 92,
+            "peak_position": 78
+        },
+        {
+            "song": "Bounce, Rock, Skate, Roll",
+            "artist": "Vaughn Mason And Crew",
+            "this_week": 79,
+            "last_week": 91,
+            "peak_position": 79
+        },
+        {
+            "song": "It's Still A Thrill / Satisfied",
+            "artist": "Dynasty",
+            "this_week": 80,
+            "last_week": 87,
+            "peak_position": 80
+        },
+        {
+            "song": "RAPO CLAPO",
+            "artist": "Joe Bataan",
+            "this_week": 81,
+            "last_week": null,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "BURN ME UP(WITH YOUR LOVE)",
+            "artist": "Frisky",
+            "this_week": 82,
+            "last_week": 89,
+            "peak_position": 82
+        },
+        {
+            "song": "Armed & Extremely Dangerous/Thunder & Lightning",
+            "artist": "Abbe",
+            "this_week": 83,
+            "last_week": null,
+            "peak_position": 83
+        },
+        {
+            "song": "Ready For The 80's/Sleazy",
+            "artist": "Village People",
+            "this_week": 84,
+            "last_week": 56,
+            "peak_position": 26,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "LIVING IT UP",
+            "artist": "Sweet Touch",
+            "this_week": 85,
+            "last_week": 86,
+            "peak_position": 85
+        },
+        {
+            "song": "REMONE",
+            "artist": "Kocky",
+            "this_week": 86,
+            "last_week": null,
+            "peak_position": 86
+        },
+        {
+            "song": "Computer Game \"Theme From The Circus\"",
+            "artist": "Yellow Magic Orchestra",
+            "this_week": 87,
+            "last_week": null,
+            "peak_position": 87
+        },
+        {
+            "song": "TONIGHT's THE NIGHT",
+            "artist": "Sharon Paige",
+            "this_week": 88,
+            "last_week": null,
+            "peak_position": 88
+        },
+        {
+            "song": "ONLY LOVE CAN MAKE IT RIGHT/DANCE THE NIGHT AWAY",
+            "artist": "Jet Brown",
+            "this_week": 89,
+            "last_week": 84,
+            "peak_position": 84
+        },
+        {
+            "song": "I CAN't TURN THE BOOGIE LOOSE",
+            "artist": "The Controllers",
+            "this_week": 90,
+            "last_week": 52,
+            "peak_position": 42,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "THE EVE OF THE WAR",
+            "artist": "Jeff Wayne",
+            "this_week": 91,
+            "last_week": null,
+            "peak_position": 91
+        },
+        {
+            "song": "PARTY BOYS",
+            "artist": "Foxy",
+            "this_week": 92,
+            "last_week": null,
+            "peak_position": 92
+        },
+        {
+            "song": "SING,SING,SING",
+            "artist": "Charlie Calello Orchestra",
+            "this_week": 93,
+            "last_week": 70,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "ABOVE AND BEYOND",
+            "artist": "Edgar Winter",
+            "this_week": 94,
+            "last_week": null,
+            "peak_position": 94
+        },
+        {
+            "song": "Moon Child",
+            "artist": "Captain Sky",
+            "this_week": 95,
+            "last_week": 95,
+            "peak_position": 76
+        },
+        {
+            "song": "Walk The Night / Dancin' For The Man",
+            "artist": "Skatt Bros.",
+            "this_week": 96,
+            "last_week": null,
+            "peak_position": 96
+        },
+        {
+            "song": "COME INTO OUR WORLD",
+            "artist": "The Emotions",
+            "this_week": 97,
+            "last_week": 97,
+            "peak_position": 97
+        },
+        {
+            "song": "TJM-ALL CUTS",
+            "artist": "Tjm",
+            "this_week": 98,
+            "last_week": 54,
+            "peak_position": 17,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "DANCE YOURSELF DIZZY",
+            "artist": "Liquid Gold",
+            "this_week": 99,
+            "last_week": 62,
+            "peak_position": 26,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "ROLLER SKATIN' MATE",
+            "artist": "Peaches & Herb",
+            "this_week": 100,
+            "last_week": 65,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        }
+    ]
+}

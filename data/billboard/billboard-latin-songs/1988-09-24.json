@@ -1,0 +1,325 @@
+{
+    "date": "1988-09-24",
+    "data": [
+        {
+            "song": "MARIA",
+            "artist": "Franco",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "YA NO",
+            "artist": "Marisela",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "TOCO MADERA",
+            "artist": "Raphael",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 19
+        },
+        {
+            "song": "SENTADO A LA VERA DEL CAMINO",
+            "artist": "EYDIE GORME Y ROBERTO CARLOS",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Es un alma en pena",
+            "artist": "Lucia Mendez",
+            "this_week": 5,
+            "last_week": 5,
+            "peak_position": 2,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "QUE SERA",
+            "artist": "Emmanuel",
+            "this_week": 6,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "MALA NOCHE NO",
+            "artist": "Veronica Castro",
+            "this_week": 7,
+            "last_week": 16,
+            "peak_position": 7,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "QUE TE PASA",
+            "artist": "Yuri",
+            "this_week": 8,
+            "last_week": 7,
+            "peak_position": 1,
+            "weeks_on_chart": 25
+        },
+        {
+            "song": "ESTE AMOR QUE HAY QUE CALLAR",
+            "artist": "Yolandita Monge",
+            "this_week": 9,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Atrapame y condename",
+            "artist": "Jorge Muniz",
+            "this_week": 10,
+            "last_week": 10,
+            "peak_position": 7,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "VERGUENZA ME DA QUERERTE",
+            "artist": "Jose Jose",
+            "this_week": 11,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "BOCA ROSA",
+            "artist": "Angela Carrasco",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "CASI TE ENVIDIO",
+            "artist": "Andy Montanez",
+            "this_week": 13,
+            "last_week": 15,
+            "peak_position": 13,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "SI TE MENTI",
+            "artist": "Lalo Rodriguez",
+            "this_week": 14,
+            "last_week": 12,
+            "peak_position": 12,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "HAZME TUYA UNA VEZ MAS",
+            "artist": "Isabel Pantoja",
+            "this_week": 15,
+            "last_week": 17,
+            "peak_position": 15,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "COMO DECIRTE",
+            "artist": "Lissette",
+            "this_week": 16,
+            "last_week": 14,
+            "peak_position": 12,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "SOLDADO DE AMOR",
+            "artist": "Mijares",
+            "this_week": 17,
+            "last_week": 19,
+            "peak_position": 17,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "SUENO CONTIGO",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 18,
+            "last_week": 11,
+            "peak_position": 3,
+            "weeks_on_chart": 20
+        },
+        {
+            "song": "TU NO LE AMAS LE TEMES",
+            "artist": "Luis Enrique",
+            "this_week": 19,
+            "last_week": 21,
+            "peak_position": 19,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "GITANA",
+            "artist": "Daniela Romo",
+            "this_week": 20,
+            "last_week": 24,
+            "peak_position": 12,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "CUANDO BAJA LA MAREA",
+            "artist": "Yuri",
+            "this_week": 21,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Tan Enamorados",
+            "artist": "Ricardo Montaner",
+            "this_week": 22,
+            "last_week": 29,
+            "peak_position": 22,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Siempre Estas Diciendo Que Te Vas",
+            "artist": "Raphael",
+            "this_week": 23,
+            "last_week": 25,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Tus Mentiras",
+            "artist": "Los Bukis",
+            "this_week": 24,
+            "last_week": 23,
+            "peak_position": 10,
+            "weeks_on_chart": 21
+        },
+        {
+            "song": "AMIGOS",
+            "artist": "Conjunto Chaney",
+            "this_week": 25,
+            "last_week": 30,
+            "peak_position": 20,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Quince anos",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 26,
+            "last_week": 36,
+            "peak_position": 26,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "CARA DURA",
+            "artist": "Max Torres",
+            "this_week": 27,
+            "last_week": 44,
+            "peak_position": 27,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "ME ACOSTUMBRE",
+            "artist": "Frankie Ruiz",
+            "this_week": 28,
+            "last_week": 27,
+            "peak_position": 27,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Todo Por Ti",
+            "artist": "Gloria Estefan & Miami Sound Machine",
+            "this_week": 29,
+            "last_week": 22,
+            "peak_position": 3,
+            "weeks_on_chart": 30
+        },
+        {
+            "song": "UNA MUJER COMO TU",
+            "artist": "Braulio",
+            "this_week": 30,
+            "last_week": null,
+            "peak_position": 30,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "HAGANSE A UN LADO",
+            "artist": "Vicente Fernandez",
+            "this_week": 31,
+            "last_week": 32,
+            "peak_position": 19,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Uno Dos Tres",
+            "artist": "Gloria Estefan & Miami Sound Machine",
+            "this_week": 32,
+            "last_week": 37,
+            "peak_position": 32,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Si Me Recuerdas",
+            "artist": "Los Bukis",
+            "this_week": 33,
+            "last_week": 40,
+            "peak_position": 17,
+            "weeks_on_chart": 21
+        },
+        {
+            "song": "LA ULTIMA LUNA",
+            "artist": "Emmanuel",
+            "this_week": 34,
+            "last_week": 28,
+            "peak_position": 2,
+            "weeks_on_chart": 24
+        },
+        {
+            "song": "Yo quiero ser tu amor",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 35,
+            "last_week": null,
+            "peak_position": 35,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "VEN DEVORAME OTRA VEZ",
+            "artist": "Lalo Rodriguez",
+            "this_week": 36,
+            "last_week": 31,
+            "peak_position": 10,
+            "weeks_on_chart": 22
+        },
+        {
+            "song": "QUE MALA",
+            "artist": "Los Bukis",
+            "this_week": 37,
+            "last_week": null,
+            "peak_position": 37,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "QUERIENDO Y NO",
+            "artist": "Isabel Pantoja",
+            "this_week": 38,
+            "last_week": 20,
+            "peak_position": 3,
+            "weeks_on_chart": 22
+        },
+        {
+            "song": "CON LAS MANOS EN LA MASA",
+            "artist": "Los Humildes Hnos. Ayala",
+            "this_week": 39,
+            "last_week": null,
+            "peak_position": 17,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "AHORA",
+            "artist": "Dyango",
+            "this_week": 40,
+            "last_week": 33,
+            "peak_position": 7,
+            "weeks_on_chart": 17
+        }
+    ]
+}

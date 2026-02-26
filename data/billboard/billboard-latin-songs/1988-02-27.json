@@ -1,0 +1,397 @@
+{
+    "date": "1988-02-27",
+    "data": [
+        {
+            "song": "AY AMOR",
+            "artist": "Ana Gabriel",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 15
+        },
+        {
+            "song": "DEBO HACERLO",
+            "artist": "Juan Gabriel",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "SOY ASI",
+            "artist": "Jose Jose",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "Me estoy volviendo loco",
+            "artist": "Jose Javier Solis",
+            "this_week": 4,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "No Hay Mal Que Por Bien No Venga",
+            "artist": "Jose Feliciano/Pandora",
+            "this_week": 5,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Y TU TAMBIEN LLORARAS",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 6,
+            "last_week": 5,
+            "peak_position": 1,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "DAME TU AMOR",
+            "artist": "Luis Angel",
+            "this_week": 7,
+            "last_week": 11,
+            "peak_position": 7,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "PETALO Y ESPINAS",
+            "artist": "Los Yonic's",
+            "this_week": 8,
+            "last_week": 9,
+            "peak_position": 6,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "HAZME OLVIDARLA",
+            "artist": "Alvaro Torres",
+            "this_week": 9,
+            "last_week": 15,
+            "peak_position": 9,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "LLUVIA",
+            "artist": "Eddie Santiago",
+            "this_week": 10,
+            "last_week": 7,
+            "peak_position": 4,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "DESAYUNO DE AMOR",
+            "artist": "Brenda K. Starr",
+            "this_week": 11,
+            "last_week": 8,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "DOS CORAZONES",
+            "artist": "Vicente Fernandez/Vikki Carr",
+            "this_week": 12,
+            "last_week": 12,
+            "peak_position": 10,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Todo El Amor Que Te Hace Falta",
+            "artist": "Julio Iglesias",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 29
+        },
+        {
+            "song": "Negra",
+            "artist": "Roberto Carlos",
+            "this_week": 14,
+            "last_week": 10,
+            "peak_position": 2,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "La luna sera la luna",
+            "artist": "Beatriz Adriana",
+            "this_week": 15,
+            "last_week": 13,
+            "peak_position": 2,
+            "weeks_on_chart": 22
+        },
+        {
+            "song": "Se Como Duele",
+            "artist": "Karina",
+            "this_week": 16,
+            "last_week": 17,
+            "peak_position": 12,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "A MOVER LA COLITA",
+            "artist": "Wilfrido Vargas",
+            "this_week": 17,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "MASCARADA",
+            "artist": "Joan Sebastian",
+            "this_week": 18,
+            "last_week": 20,
+            "peak_position": 18,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Desamor",
+            "artist": "Laura Flores",
+            "this_week": 19,
+            "last_week": 23,
+            "peak_position": 17,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "PELIGRO DE AMOR",
+            "artist": "Chayanne",
+            "this_week": 20,
+            "last_week": 36,
+            "peak_position": 20,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "DESCARTAME",
+            "artist": "Lissette",
+            "this_week": 21,
+            "last_week": 26,
+            "peak_position": 21,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Y es que llegaste tu",
+            "artist": "Maria Conchita Alonso",
+            "this_week": 22,
+            "last_week": 21,
+            "peak_position": 21,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "DARIANA",
+            "artist": "Bonny Cepeda",
+            "this_week": 23,
+            "last_week": 27,
+            "peak_position": 23,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "POR UN AMOR",
+            "artist": "Linda Ronstadt",
+            "this_week": 24,
+            "last_week": 24,
+            "peak_position": 24,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "A Quien",
+            "artist": "Karina",
+            "this_week": 25,
+            "last_week": 25,
+            "peak_position": 22,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "SOLO QUIERO CONTIGO",
+            "artist": "Maria Sorte",
+            "this_week": 26,
+            "last_week": 42,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "CORRE CORRE",
+            "artist": "Flans",
+            "this_week": 27,
+            "last_week": 18,
+            "peak_position": 11,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Y ANDALE",
+            "artist": "Linda Ronstadt",
+            "this_week": 28,
+            "last_week": 44,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Otra Mentira Mas",
+            "artist": "Maria Conchita Alonso",
+            "this_week": 29,
+            "last_week": 31,
+            "peak_position": 24,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Y AHORA TE VAS",
+            "artist": "Los Bukis",
+            "this_week": 30,
+            "last_week": 45,
+            "peak_position": 30,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "AMOR PERFECTO",
+            "artist": "Roberto Carlos",
+            "this_week": 31,
+            "last_week": 32,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "POR ESA MUJER",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 32,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "NUNCA TE DIRE ADIOS",
+            "artist": "Yolandita Monge",
+            "this_week": 33,
+            "last_week": 28,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "GENTE",
+            "artist": "Lissette",
+            "this_week": 34,
+            "last_week": 19,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Quiero Ser Como Agua Fresca",
+            "artist": "Jose Luis Perales",
+            "this_week": 35,
+            "last_week": null,
+            "peak_position": 35,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "CON TODO Y MI TRISTEZA",
+            "artist": "Rocio Durcal",
+            "this_week": 36,
+            "last_week": 30,
+            "peak_position": 24,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Tu carcel",
+            "artist": "Los Bukis",
+            "this_week": 37,
+            "last_week": 33,
+            "peak_position": 3,
+            "weeks_on_chart": 52
+        },
+        {
+            "song": "LA REVANCHA",
+            "artist": "Nelson Ned",
+            "this_week": 38,
+            "last_week": 35,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Que no se rompa la noche",
+            "artist": "Julio Iglesias",
+            "this_week": 39,
+            "last_week": 22,
+            "peak_position": 1,
+            "weeks_on_chart": 27
+        },
+        {
+            "song": "TOTAL",
+            "artist": "Sussy Leman",
+            "this_week": 40,
+            "last_week": null,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "HABLAME EN LA CAMA",
+            "artist": "Mario Ortiz",
+            "this_week": 41,
+            "last_week": 37,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "PARA QUE TE VAS",
+            "artist": "Michel'le",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Infidelidad",
+            "artist": "Rocio Durcal",
+            "this_week": 43,
+            "last_week": 41,
+            "peak_position": 22,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "EL ATRACADOR",
+            "artist": "The New York Band",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Amar o morir",
+            "artist": "Danny Rivera",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 6,
+            "weeks_on_chart": 20
+        },
+        {
+            "song": "ESCAPATE CONMIGO",
+            "artist": "Proyecto M",
+            "this_week": 47,
+            "last_week": 40,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "No Me Puedo Ecapar",
+            "artist": "Rocio Banquells/Luis Miguel",
+            "this_week": 48,
+            "last_week": 38,
+            "peak_position": 14,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "CORAZON CAUTIVO",
+            "artist": "Sergio Facchelli",
+            "this_week": 49,
+            "last_week": 43,
+            "peak_position": 41,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "TODA LA NOCHE OLIENDO A TI",
+            "artist": "Gilberto Santa Rosa",
+            "this_week": 50,
+            "last_week": null,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        }
+    ]
+}

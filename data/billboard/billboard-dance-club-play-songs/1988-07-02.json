@@ -1,0 +1,433 @@
+{
+    "date": "1988-07-02",
+    "data": [
+        {
+            "song": "Theme From S-Express",
+            "artist": "S-Express",
+            "this_week": 1,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Jingo (Remix)",
+            "artist": "Jellybean",
+            "this_week": 2,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Mercedes Boy",
+            "artist": "Pebbles",
+            "this_week": 3,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "I'm Tired Of Getting Pushed Around",
+            "artist": "Two Men A Drum Machine & A Trumpet",
+            "this_week": 4,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Trouble",
+            "artist": "Nia Peeples",
+            "this_week": 5,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Sayin' Sorry (Don't Make It Right)",
+            "artist": "Denise Lopez",
+            "this_week": 6,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "The Party",
+            "artist": "Kraze",
+            "this_week": 7,
+            "last_week": 9,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "What's On Your Mind (Pure Energy)",
+            "artist": "Information Society",
+            "this_week": 8,
+            "last_week": 14,
+            "peak_position": 8,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Right Back To You",
+            "artist": "Ten City",
+            "this_week": 9,
+            "last_week": 12,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Airhead (Remix)",
+            "artist": "Thomas Dolby",
+            "this_week": 10,
+            "last_week": 13,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Supersonic",
+            "artist": "J.J. Fad",
+            "this_week": 11,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Extraordinary Love",
+            "artist": "Regina",
+            "this_week": 12,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "House Arrest/Jack's Back",
+            "artist": "Krush",
+            "this_week": 13,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Forbidden Lover",
+            "artist": "First Impression",
+            "this_week": 14,
+            "last_week": 16,
+            "peak_position": 14,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Burnin' Love",
+            "artist": "Arts And Crafts",
+            "this_week": 15,
+            "last_week": 18,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Signed In Your Book Of Love/Sticky Fingers",
+            "artist": "Company B",
+            "this_week": 16,
+            "last_week": 22,
+            "peak_position": 16,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "New Sensation",
+            "artist": "INXS",
+            "this_week": 17,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Bass (How Low Can You Go?)",
+            "artist": "Simon Harris",
+            "this_week": 18,
+            "last_week": 28,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Knocked Out",
+            "artist": "Paula Abdul",
+            "this_week": 19,
+            "last_week": 29,
+            "peak_position": 19,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Want Your (Hands On Me)",
+            "artist": "Sinead O'Connor",
+            "this_week": 20,
+            "last_week": 21,
+            "peak_position": 20,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Some Things Never Change",
+            "artist": "Candy J",
+            "this_week": 21,
+            "last_week": 25,
+            "peak_position": 21,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Alphabet St.",
+            "artist": "Prince",
+            "this_week": 22,
+            "last_week": 24,
+            "peak_position": 22,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Say It's Gonna Rain (Remix)",
+            "artist": "Will To Power",
+            "this_week": 23,
+            "last_week": 33,
+            "peak_position": 23,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Who's Leaving Who",
+            "artist": "Hazell Dean",
+            "this_week": 24,
+            "last_week": 31,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "The Right Stuff",
+            "artist": "Vanessa Williams",
+            "this_week": 25,
+            "last_week": 32,
+            "peak_position": 25,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Symptoms Of True Love",
+            "artist": "Tracie Spencer",
+            "this_week": 26,
+            "last_week": 27,
+            "peak_position": 26,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "New York",
+            "artist": "Micro Chip League",
+            "this_week": 27,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Just Got Paid",
+            "artist": "Johnny Kemp",
+            "this_week": 28,
+            "last_week": 8,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Beat Dis",
+            "artist": "Bomb The Bass",
+            "this_week": 29,
+            "last_week": 41,
+            "peak_position": 29,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "A Little Love (What's Going On)",
+            "artist": "Ceejay",
+            "this_week": 30,
+            "last_week": 15,
+            "peak_position": 7,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "K.I.S.S.I.N.G. (Remix)",
+            "artist": "Siedah Garrett",
+            "this_week": 31,
+            "last_week": 43,
+            "peak_position": 31,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Goodbye Stranger",
+            "artist": "Pepsi & Shirlie",
+            "this_week": 32,
+            "last_week": 39,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Don't Turn Your Love",
+            "artist": "Park Ave. Featuring Tony Jenkins",
+            "this_week": 33,
+            "last_week": 36,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Jam Packed (At The Wall)",
+            "artist": "Nicole",
+            "this_week": 34,
+            "last_week": 35,
+            "peak_position": 34,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "I'm Real",
+            "artist": "James Brown",
+            "this_week": 35,
+            "last_week": 38,
+            "peak_position": 35,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Dancing On The Fire",
+            "artist": "India",
+            "this_week": 36,
+            "last_week": 42,
+            "peak_position": 36,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Change On Me",
+            "artist": "Cynthia",
+            "this_week": 37,
+            "last_week": 37,
+            "peak_position": 37,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Chains Of Love",
+            "artist": "Erasure",
+            "this_week": 38,
+            "last_week": 47,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Walkaway",
+            "artist": "Joyce Sims",
+            "this_week": 39,
+            "last_week": 50,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Most Of All (Remix)",
+            "artist": "Jody Watley",
+            "this_week": 40,
+            "last_week": 23,
+            "peak_position": 8,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Boom! There She Was",
+            "artist": "Scritti Politti Featuring Roger",
+            "this_week": 41,
+            "last_week": 49,
+            "peak_position": 41,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Reckless",
+            "artist": "Afrika Bambaataa/UB40",
+            "this_week": 42,
+            "last_week": 48,
+            "peak_position": 42,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I Should Be So Lucky",
+            "artist": "Kylie Minogue",
+            "this_week": 43,
+            "last_week": 26,
+            "peak_position": 10,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Get Lucky (Remix)",
+            "artist": "Jermaine Stewart",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Beds Are Burning/The Dead Heart",
+            "artist": "Midnight Oil",
+            "this_week": 45,
+            "last_week": 30,
+            "peak_position": 20,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Pretty Boys And Pretty Girls",
+            "artist": "Book Of Love",
+            "this_week": 46,
+            "last_week": 51,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Little Walter",
+            "artist": "Tony Toni Tone",
+            "this_week": 47,
+            "last_week": 44,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "The Promise",
+            "artist": "When In Rome",
+            "this_week": 48,
+            "last_week": 20,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "The Eighth Wonder",
+            "artist": "Bose",
+            "this_week": 49,
+            "last_week": null,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I'll Always Follow You/I'm Gonna Get To You",
+            "artist": "C.C. Diva",
+            "this_week": 50,
+            "last_week": null,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Work My Body Now!",
+            "artist": "Griffin & Smith",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "I Will Always Love You",
+            "artist": "Eddie Stockley",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "When Will I Be Famous?",
+            "artist": "Bros",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Another Lover",
+            "artist": "Giant Steps",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        }
+    ]
+}

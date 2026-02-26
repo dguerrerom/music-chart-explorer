@@ -1,0 +1,12 @@
+# =============================================
+# Python
+# =============================================
+__pycache__/
+
+# =============================================
+# Unfinished chart folders and their metadata
+# =============================================
+data/los40/
+data/los40-metadata.json
+data/opina/
+data/opina-metadata.json

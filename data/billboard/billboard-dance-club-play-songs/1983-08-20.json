@@ -1,0 +1,640 @@
+{
+    "date": "1983-08-20",
+    "data": [
+        {
+            "song": "Do It Again/Billie Jean",
+            "artist": "Slingshot",
+            "this_week": 1,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "STATE FARM/NOBODY's DIARY",
+            "artist": "Yaz",
+            "this_week": 2,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Rockit",
+            "artist": "Herbie Hancock",
+            "this_week": 3,
+            "last_week": 5,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "She Works Hard For The Money",
+            "artist": "Donna Summer",
+            "this_week": 4,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "SO MANY MEN, SO LITTLE TIME",
+            "artist": "Miquel Brown",
+            "this_week": 5,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Sweet Dreams (Are Made Of This)",
+            "artist": "Eurythmics",
+            "this_week": 6,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Speaking In Tongues (all cuts)",
+            "artist": "Talking Heads",
+            "this_week": 7,
+            "last_week": 9,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I.O.U.",
+            "artist": "Freeez",
+            "this_week": 8,
+            "last_week": 6,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "OUT IN THE NIGHT",
+            "artist": "Serge Ponsar",
+            "this_week": 9,
+            "last_week": 10,
+            "peak_position": 9,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "JUST BE GOOD TO ME",
+            "artist": "The S.O.S. Band",
+            "this_week": 10,
+            "last_week": 19,
+            "peak_position": 10,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Get It Right",
+            "artist": "Aretha Franklin",
+            "this_week": 11,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Maniac",
+            "artist": "Michael Sembello",
+            "this_week": 12,
+            "last_week": 8,
+            "peak_position": 6,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "STAND BACK",
+            "artist": "Stevie Nicks",
+            "this_week": 13,
+            "last_week": 17,
+            "peak_position": 13,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I'll Tumble 4 Ya",
+            "artist": "Culture Club",
+            "this_week": 14,
+            "last_week": 14,
+            "peak_position": 14,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I DON't WANT TO TALK ABOUT IT",
+            "artist": "Pamala Stanley",
+            "this_week": 15,
+            "last_week": 15,
+            "peak_position": 15,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "(Keep Feeling) Fascination",
+            "artist": "The Human League",
+            "this_week": 16,
+            "last_week": 12,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Pieces Of Ice",
+            "artist": "Diana Ross",
+            "this_week": 17,
+            "last_week": 21,
+            "peak_position": 17,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Dead Giveaway",
+            "artist": "Shalamar",
+            "this_week": 18,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "I LOVE YOU",
+            "artist": "Yello",
+            "this_week": 19,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "A.E.I.O.U. (SOMETIMES Y)",
+            "artist": "Ebn/ozn",
+            "this_week": 20,
+            "last_week": 36,
+            "peak_position": 20,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "BUILD ME A BRIDGE",
+            "artist": "Adele Bertei",
+            "this_week": 21,
+            "last_week": 50,
+            "peak_position": 21,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "GUILTY",
+            "artist": "Lime",
+            "this_week": 22,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "What's She Got",
+            "artist": "Liquid Gold",
+            "this_week": 23,
+            "last_week": 23,
+            "peak_position": 23,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "BAND OF GOLD",
+            "artist": "Sylvester",
+            "this_week": 24,
+            "last_week": 27,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "EVERY BREATH YOU TAKE",
+            "artist": "Otis Liggett",
+            "this_week": 25,
+            "last_week": 28,
+            "peak_position": 25,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I WANTED TO TELL HER",
+            "artist": "Ministry",
+            "this_week": 26,
+            "last_week": 33,
+            "peak_position": 26,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "YOU BROUGHT THE SUNSHINE",
+            "artist": "The Clark Sisters",
+            "this_week": 27,
+            "last_week": 29,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Maschine Brennt / On The Run (Auf Der Flucht)",
+            "artist": "Falco",
+            "this_week": 28,
+            "last_week": 13,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "MY TURN TO LOVE YOU",
+            "artist": "Lenny White",
+            "this_week": 29,
+            "last_week": 38,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "DANCE TO THE MUSIC",
+            "artist": "Junior Byron",
+            "this_week": 30,
+            "last_week": 31,
+            "peak_position": 30,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "TO SIR WITH LOVE",
+            "artist": "Vicki Sue Robinson",
+            "this_week": 31,
+            "last_week": 40,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "LOVE THIS WAY",
+            "artist": "Lee Prentiss",
+            "this_week": 32,
+            "last_week": 42,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "The Safety Dance",
+            "artist": "Men Without Hats",
+            "this_week": 33,
+            "last_week": 24,
+            "peak_position": 1,
+            "weeks_on_chart": 17
+        },
+        {
+            "song": "Cold Blooded",
+            "artist": "Rick James",
+            "this_week": 34,
+            "last_week": 43,
+            "peak_position": 34,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Whammy/Legal Tender/Songs For The Future Generation",
+            "artist": "The B-52s",
+            "this_week": 35,
+            "last_week": 20,
+            "peak_position": 9,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Searchin' (I've Gotta Find A Man)",
+            "artist": "Hazell Dean",
+            "this_week": 36,
+            "last_week": 47,
+            "peak_position": 36,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Puttin' On The Ritz",
+            "artist": "Taco",
+            "this_week": 37,
+            "last_week": 39,
+            "peak_position": 37,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "ADDICTED TO THE NIGHT/CHOIR PRACTICE",
+            "artist": "Lipps Inc.",
+            "this_week": 38,
+            "last_week": null,
+            "peak_position": 38,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Ain't Nobody",
+            "artist": "Chaka Khan",
+            "this_week": 39,
+            "last_week": 51,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Party Time",
+            "artist": "Kurtis Blow",
+            "this_week": 40,
+            "last_week": 48,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "FACE TO FACE, HEART TO HEART",
+            "artist": "The Twins",
+            "this_week": 41,
+            "last_week": 26,
+            "peak_position": 17,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "HIGH NOON",
+            "artist": "Two Sisters",
+            "this_week": 42,
+            "last_week": 60,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Lined Up / My Spine (Is The Bassline) / Accretions",
+            "artist": "Shriekback",
+            "this_week": 43,
+            "last_week": 35,
+            "peak_position": 35,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "EVERY BREATH YOU TAKE",
+            "artist": "The Police",
+            "this_week": 44,
+            "last_week": 41,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "HIGHRISE",
+            "artist": "Ashford & Simpson",
+            "this_week": 45,
+            "last_week": 61,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "STOP AND GO",
+            "artist": "David Grant",
+            "this_week": 46,
+            "last_week": 65,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Backstreet Romance",
+            "artist": "Lovered",
+            "this_week": 47,
+            "last_week": 46,
+            "peak_position": 46,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "BAD BOYS",
+            "artist": "Wham!",
+            "this_week": 48,
+            "last_week": 67,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "DOUBLE DUTCH",
+            "artist": "Malcolm McLaren",
+            "this_week": 49,
+            "last_week": 66,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "GO DEH YAKA (GO TO THE TOP)",
+            "artist": "Monyaka",
+            "this_week": 50,
+            "last_week": 58,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "BLIND VISION",
+            "artist": "Blancmange",
+            "this_week": 51,
+            "last_week": 30,
+            "peak_position": 3,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Let No Man Put Asunder",
+            "artist": "First Choice",
+            "this_week": 52,
+            "last_week": 52,
+            "peak_position": 13,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "LIES",
+            "artist": "Ben Steele And His Bare Hands",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Love Me Tonight",
+            "artist": "Attitude",
+            "this_week": 54,
+            "last_week": 37,
+            "peak_position": 37,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "INFATUATION",
+            "artist": "Upfront",
+            "this_week": 55,
+            "last_week": 57,
+            "peak_position": 55
+        },
+        {
+            "song": "Keep Giving Me Love",
+            "artist": "D Train",
+            "this_week": 56,
+            "last_week": 53,
+            "peak_position": 24,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "MAJOR TOM (COMING HOME)",
+            "artist": "Peter Schilling",
+            "this_week": 57,
+            "last_week": null,
+            "peak_position": 57
+        },
+        {
+            "song": "YOU ARE IN MY SYSTEM",
+            "artist": "Robert Palmer",
+            "this_week": 58,
+            "last_week": 55,
+            "peak_position": 4,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Freak-A-Zoid",
+            "artist": "Midnight Star",
+            "this_week": 59,
+            "last_week": 59,
+            "peak_position": 44,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "China Girl / Shake It",
+            "artist": "David Bowie",
+            "this_week": 60,
+            "last_week": null,
+            "peak_position": 60
+        },
+        {
+            "song": "WHEN WILL I SEE YOU AGAIN",
+            "artist": "Magda Layna",
+            "this_week": 61,
+            "last_week": null,
+            "peak_position": 61
+        },
+        {
+            "song": "VIDEO BURNOUT",
+            "artist": "Little Toni Marsh",
+            "this_week": 62,
+            "last_week": 45,
+            "peak_position": 45,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Thriller (all cuts)",
+            "artist": "Michael Jackson (all cuts)",
+            "this_week": 63,
+            "last_week": 63,
+            "peak_position": 1,
+            "weeks_on_chart": 29
+        },
+        {
+            "song": "Is There Something I Should Know",
+            "artist": "Duran Duran",
+            "this_week": 64,
+            "last_week": 34,
+            "peak_position": 34,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "LOVE SO DEEP",
+            "artist": "Toney Lee",
+            "this_week": 65,
+            "last_week": 32,
+            "peak_position": 22,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "The Haunted House Of Rock",
+            "artist": "Whodini",
+            "this_week": 66,
+            "last_week": 49,
+            "peak_position": 27,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Potential New Boyfriend",
+            "artist": "Dolly Parton",
+            "this_week": 67,
+            "last_week": 25,
+            "peak_position": 14,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "HEOBAH",
+            "artist": "Fonda Rae",
+            "this_week": 68,
+            "last_week": 54,
+            "peak_position": 19,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Flashdance...What A Feeling",
+            "artist": "Irene Cara",
+            "this_week": 69,
+            "last_week": 62,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "PICK ME UP (CAN WE GO)",
+            "artist": "Electric Mind",
+            "this_week": 70,
+            "last_week": 44,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "CAVERN",
+            "artist": "Liquid Liquid",
+            "this_week": 71,
+            "last_week": 69,
+            "peak_position": 50,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "BABY JANE",
+            "artist": "Rod Stewart",
+            "this_week": 72,
+            "last_week": 72,
+            "peak_position": 47,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Inside Love (so Personal)",
+            "artist": "George Benson",
+            "this_week": 73,
+            "last_week": 68,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "MEMORY",
+            "artist": "Manage",
+            "this_week": 74,
+            "last_week": 70,
+            "peak_position": 13,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "LOW DOWN DIRTY RHYTHM",
+            "artist": "Sarah Dash",
+            "this_week": 75,
+            "last_week": 73,
+            "peak_position": 37,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "STAY WITH ME",
+            "artist": "India",
+            "this_week": 76,
+            "last_week": 75,
+            "peak_position": 28,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Riding The Tiger",
+            "artist": "Phyllis Hyman",
+            "this_week": 77,
+            "last_week": 76,
+            "peak_position": 20,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Save The Overtime (For Me)",
+            "artist": "Gladys Knight And The Pips",
+            "this_week": 78,
+            "last_week": 78,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "THESE MEMORIES",
+            "artist": "O Romeo",
+            "this_week": 79,
+            "last_week": 56,
+            "peak_position": 18,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "TEMPTATION/WE LIVE SO FAST",
+            "artist": "Heaven 17",
+            "this_week": 80,
+            "last_week": 64,
+            "peak_position": 34,
+            "weeks_on_chart": 4
+        }
+    ]
+}

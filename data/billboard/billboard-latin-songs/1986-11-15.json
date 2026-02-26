@@ -1,0 +1,405 @@
+{
+    "date": "1986-11-15",
+    "data": [
+        {
+            "song": "Toda la vida",
+            "artist": "Franco",
+            "this_week": 1,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Toda la vida",
+            "artist": "Emmanuel",
+            "this_week": 2,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Yo no se que me paso",
+            "artist": "Juan Gabriel",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Solo el y yo",
+            "artist": "Pandora",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "y quien puede ser",
+            "artist": "Jose Jose",
+            "this_week": 5,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Oiga",
+            "artist": "Joan Sebastian & Prisma",
+            "this_week": 6,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "De mi enamorate",
+            "artist": "Daniela Romo",
+            "this_week": 7,
+            "last_week": 11,
+            "peak_position": 7,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Corazon vacio",
+            "artist": "Los Yonic's",
+            "this_week": 8,
+            "last_week": 10,
+            "peak_position": 6,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Eva",
+            "artist": "Lissette",
+            "this_week": 9,
+            "last_week": 13,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Se me sigue olvidando",
+            "artist": "Jose Feliciano",
+            "this_week": 10,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Hasta cuando",
+            "artist": "Beatriz Adriana",
+            "this_week": 11,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "La guirnalda",
+            "artist": "Rocio Durcal",
+            "this_week": 12,
+            "last_week": 9,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Me la estas poniendo dificil",
+            "artist": "Camilo Sesto",
+            "this_week": 13,
+            "last_week": 15,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "De color de rosa",
+            "artist": "Prisma",
+            "this_week": 14,
+            "last_week": 12,
+            "peak_position": 12,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Rosa",
+            "artist": "Nicola de Bari",
+            "this_week": 15,
+            "last_week": 14,
+            "peak_position": 8,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Como no quererte a ti",
+            "artist": "Fresas",
+            "this_week": 16,
+            "last_week": 19,
+            "peak_position": 16,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Garantia",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 17,
+            "last_week": 20,
+            "peak_position": 13,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Otra semana",
+            "artist": "Carmin",
+            "this_week": 18,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "No me vuelvo a enamorar",
+            "artist": "Miami Sound Machine",
+            "this_week": 19,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "El lunar",
+            "artist": "Johnny Ventura",
+            "this_week": 20,
+            "last_week": 21,
+            "peak_position": 20,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Tu me quemas",
+            "artist": "Eddie Santiago",
+            "this_week": 21,
+            "last_week": 18,
+            "peak_position": 10,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Sin un amor",
+            "artist": "Gilberto Santa Rosa",
+            "this_week": 22,
+            "last_week": 24,
+            "peak_position": 22,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Era la primera vez",
+            "artist": "Lucerito",
+            "this_week": 23,
+            "last_week": 27,
+            "peak_position": 23,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Quedate conmigo esta noche",
+            "artist": "Rocio Durcal",
+            "this_week": 24,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Tu sin mi",
+            "artist": "Ednita Nazario",
+            "this_week": 25,
+            "last_week": 35,
+            "peak_position": 25,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Vivir lo nuestro",
+            "artist": "Basilio",
+            "this_week": 26,
+            "last_week": 44,
+            "peak_position": 26,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Timido",
+            "artist": "Flans",
+            "this_week": 27,
+            "last_week": 36,
+            "peak_position": 27,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Fuera de mi vida",
+            "artist": "Valeria Lynch",
+            "this_week": 28,
+            "last_week": 29,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Asesina",
+            "artist": "Bonny Cepeda",
+            "this_week": 29,
+            "last_week": 23,
+            "peak_position": 10,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "No se muera na",
+            "artist": "Millie Y Los Vecinos",
+            "this_week": 30,
+            "last_week": 49,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Tu dama de hierro",
+            "artist": "Marisela",
+            "this_week": 31,
+            "last_week": null,
+            "peak_position": 31,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Cole",
+            "artist": "The New York Band",
+            "this_week": 32,
+            "last_week": 28,
+            "peak_position": 17,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Part time lover",
+            "artist": "Bobby Valentin",
+            "this_week": 33,
+            "last_week": 33,
+            "peak_position": 23,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "No renunciare",
+            "artist": "Jorge Rigo",
+            "this_week": 34,
+            "last_week": 25,
+            "peak_position": 15,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "De corazon a corazon",
+            "artist": "Roberto Carlos",
+            "this_week": 35,
+            "last_week": 26,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Fiera",
+            "artist": "Nelson Ned",
+            "this_week": 36,
+            "last_week": null,
+            "peak_position": 36,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Ni princesa ni esclava",
+            "artist": "Lunna",
+            "this_week": 37,
+            "last_week": 43,
+            "peak_position": 34,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Adios que te vaya bien",
+            "artist": "Mario Pintor",
+            "this_week": 38,
+            "last_week": 46,
+            "peak_position": 38,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Vibro",
+            "artist": "Rocio Jurado",
+            "this_week": 39,
+            "last_week": 39,
+            "peak_position": 8,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Enamorar",
+            "artist": "Sandy Reyes",
+            "this_week": 40,
+            "last_week": 41,
+            "peak_position": 30,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "El senor de la senora",
+            "artist": "Bobby Valentin",
+            "this_week": 41,
+            "last_week": null,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "La noria del amor",
+            "artist": "Dyango y Bordon",
+            "this_week": 42,
+            "last_week": 48,
+            "peak_position": 42,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Chiquilla",
+            "artist": "Raphy Leavitt y Orquesta La Selecta",
+            "this_week": 43,
+            "last_week": 40,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Hoy quiero confesarme",
+            "artist": "Isabel Pantoja",
+            "this_week": 44,
+            "last_week": 47,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Sola",
+            "artist": "Sophy",
+            "this_week": 45,
+            "last_week": 45,
+            "peak_position": 27,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Quemare",
+            "artist": "Las Diego",
+            "this_week": 46,
+            "last_week": 38,
+            "peak_position": 32,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Tu me quemas",
+            "artist": "Luis Angel",
+            "this_week": 47,
+            "last_week": 37,
+            "peak_position": 13,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "La primera vez",
+            "artist": "Jose Luis Perales",
+            "this_week": 48,
+            "last_week": 30,
+            "peak_position": 27,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Estoy celoso",
+            "artist": "Diego Verdaguer",
+            "this_week": 49,
+            "last_week": 50,
+            "peak_position": 25,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Para que no me olvides",
+            "artist": "Wilfrido Vargas",
+            "this_week": 50,
+            "last_week": null,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        }
+    ]
+}

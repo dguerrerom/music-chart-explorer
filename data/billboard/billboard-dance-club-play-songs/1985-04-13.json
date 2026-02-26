@@ -1,0 +1,397 @@
+{
+    "date": "1985-04-13",
+    "data": [
+        {
+            "song": "In My House",
+            "artist": "Mary Jane Girls",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Turn Your Back On Me",
+            "artist": "Kaja",
+            "this_week": 2,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Point Of No Return",
+            "artist": "Expose",
+            "this_week": 3,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Step By Step",
+            "artist": "Jeff Lorber Featuring Audrey Wheeler",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Do You Want It Right Now (Remix)",
+            "artist": "Siedah Garrett",
+            "this_week": 5,
+            "last_week": 8,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "We Close Our Eyes",
+            "artist": "Go West",
+            "this_week": 6,
+            "last_week": 10,
+            "peak_position": 6,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Boy/Book Of Love",
+            "artist": "Book Of Love",
+            "this_week": 7,
+            "last_week": 9,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Take Me To Heaven/Sex",
+            "artist": "Sylvester",
+            "this_week": 8,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Fresh",
+            "artist": "Kool & The Gang",
+            "this_week": 9,
+            "last_week": 14,
+            "peak_position": 9,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Vicious Games",
+            "artist": "Yello",
+            "this_week": 10,
+            "last_week": 11,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Just Another Night",
+            "artist": "Mick Jagger",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Feel So Real",
+            "artist": "Steve Arrington",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Material Girl",
+            "artist": "Madonna",
+            "this_week": 13,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Behind The Mask",
+            "artist": "Greg Phillinganes",
+            "this_week": 14,
+            "last_week": 21,
+            "peak_position": 14,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Don't You (Forget About Me)",
+            "artist": "Simple Minds",
+            "this_week": 15,
+            "last_week": 18,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Too Late For Goodbyes (Remix)",
+            "artist": "Julian Lennon",
+            "this_week": 16,
+            "last_week": 17,
+            "peak_position": 16,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Lucky",
+            "artist": "Greg Kihn",
+            "this_week": 17,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Smooth Operator",
+            "artist": "Sade",
+            "this_week": 18,
+            "last_week": 23,
+            "peak_position": 18,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Rhythm Of The Night",
+            "artist": "Debarge",
+            "this_week": 19,
+            "last_week": 39,
+            "peak_position": 19,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Bad Habits",
+            "artist": "Jenny Burton",
+            "this_week": 20,
+            "last_week": 7,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I'm No Angel/Ecstacy",
+            "artist": "Madleen Kane",
+            "this_week": 21,
+            "last_week": 22,
+            "peak_position": 21,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Be Your Man",
+            "artist": "Jesse Johnson's Revue",
+            "this_week": 22,
+            "last_week": 24,
+            "peak_position": 22,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Scientific Love",
+            "artist": "Midnight Star",
+            "this_week": 23,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Make Luv Tonite",
+            "artist": "Pritti Boyz Featuring Felix",
+            "this_week": 24,
+            "last_week": 27,
+            "peak_position": 24,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "When The Rain Begins To Fall/Come To Me",
+            "artist": "Jermaine Jackson & Pia Zadora",
+            "this_week": 25,
+            "last_week": 28,
+            "peak_position": 25,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Never You Done That",
+            "artist": "General Public",
+            "this_week": 26,
+            "last_week": 43,
+            "peak_position": 26,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "My Girl Loves Me",
+            "artist": "Shalamar",
+            "this_week": 27,
+            "last_week": 30,
+            "peak_position": 27,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "New Attitude / Axel F",
+            "artist": "Patti LaBelle",
+            "this_week": 29,
+            "last_week": 20,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "The Bird",
+            "artist": "The Time",
+            "this_week": 30,
+            "last_week": 15,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "The Beast In Me/Tight Blue Jeans",
+            "artist": "Bonnie Pointer",
+            "this_week": 31,
+            "last_week": 31,
+            "peak_position": 31,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Movin' And Groovin'",
+            "artist": "Redds & The Boys",
+            "this_week": 32,
+            "last_week": 34,
+            "peak_position": 32,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "The NeverEnding Story",
+            "artist": "Limahl",
+            "this_week": 33,
+            "last_week": 41,
+            "peak_position": 33,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Back In Stride",
+            "artist": "Maze Featuring Frankie Beverly",
+            "this_week": 34,
+            "last_week": 37,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Victim Of Love / Break Me",
+            "artist": "Charade",
+            "this_week": 35,
+            "last_week": 49,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Forever Young",
+            "artist": "Alphaville",
+            "this_week": 36,
+            "last_week": 32,
+            "peak_position": 32,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Zie Zie Won't Dance",
+            "artist": "Peter Brown",
+            "this_week": 37,
+            "last_week": null,
+            "peak_position": 37,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Are You For Real/Motion",
+            "artist": "Deodato",
+            "this_week": 38,
+            "last_week": 25,
+            "peak_position": 17,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Animal/Susan",
+            "artist": "4-3-1",
+            "this_week": 39,
+            "last_week": 29,
+            "peak_position": 28,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "King Of Rock",
+            "artist": "Run-D.M.C.",
+            "this_week": 40,
+            "last_week": 47,
+            "peak_position": 40,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Thief In The Night",
+            "artist": "George Duke",
+            "this_week": 41,
+            "last_week": null,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "All She Wants To Do Is Dance (Remix)",
+            "artist": "Don Henley",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Two Wrongs Make It Right",
+            "artist": "Yvonne Wilkins",
+            "this_week": 43,
+            "last_week": 42,
+            "peak_position": 42,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Axel F / Like Eddie Did",
+            "artist": "Eddie's Rascals",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Sussudio",
+            "artist": "Phil Collins",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Meeting In The Ladies Room",
+            "artist": "Klymaxx",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Do You Wanna Get Away",
+            "artist": "Shannon",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Dangerous",
+            "artist": "Pennye Ford",
+            "this_week": 48,
+            "last_week": null,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Let's Go Together",
+            "artist": "Change",
+            "this_week": 49,
+            "last_week": null,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Sense Of Purpose",
+            "artist": "Third World",
+            "this_week": 50,
+            "last_week": 50,
+            "peak_position": 50,
+            "weeks_on_chart": 2
+        }
+    ]
+}

@@ -1,0 +1,433 @@
+{
+    "date": "1989-07-15",
+    "data": [
+        {
+            "song": "Express Yourself",
+            "artist": "Madonna",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "What You Don't Know",
+            "artist": "Expose",
+            "this_week": 2,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I Need A Rhythm (LP)",
+            "artist": "The 28th St. Crew",
+            "this_week": 3,
+            "last_week": 5,
+            "peak_position": 3,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Secret Rendezvous (Remix)",
+            "artist": "Karyn White",
+            "this_week": 4,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "We Got Our Own Thang",
+            "artist": "Heavy D & The Boyz",
+            "this_week": 5,
+            "last_week": 8,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Deep In Vogue",
+            "artist": "Malcolm McLaren",
+            "this_week": 6,
+            "last_week": 14,
+            "peak_position": 6,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Machine Gun",
+            "artist": "Hubert Kah",
+            "this_week": 7,
+            "last_week": 11,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Nothin (That Compares 2 U)",
+            "artist": "The Jacksons",
+            "this_week": 8,
+            "last_week": 10,
+            "peak_position": 8,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Let It Roll",
+            "artist": "Doug Lazy",
+            "this_week": 9,
+            "last_week": 18,
+            "peak_position": 9,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I Like It",
+            "artist": "Dino",
+            "this_week": 10,
+            "last_week": 16,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Definition Of Love",
+            "artist": "Kos",
+            "this_week": 11,
+            "last_week": 15,
+            "peak_position": 11,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Definition Of A Track/In Motion",
+            "artist": "Precious",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "That's How I'm Living/The Chief",
+            "artist": "Toni Scott",
+            "this_week": 13,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Keep On Movin'",
+            "artist": "Soul II Soul Featuring Caron Wheeler",
+            "this_week": 14,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Always There",
+            "artist": "Charvoni",
+            "this_week": 15,
+            "last_week": 23,
+            "peak_position": 15,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Come Home With Me Baby",
+            "artist": "Dead Or Alive",
+            "this_week": 16,
+            "last_week": 25,
+            "peak_position": 16,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "101",
+            "artist": "Sheena Easton",
+            "this_week": 17,
+            "last_week": 34,
+            "peak_position": 17,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I'm That Type Of Guy",
+            "artist": "LL Cool J",
+            "this_week": 18,
+            "last_week": 27,
+            "peak_position": 18,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "(You're My One And Only) True Love",
+            "artist": "Seduction",
+            "this_week": 19,
+            "last_week": 29,
+            "peak_position": 19,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Good Thing",
+            "artist": "Fine Young Cannibals",
+            "this_week": 20,
+            "last_week": 22,
+            "peak_position": 20,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Just Git It Together",
+            "artist": "Lisa Lisa And Cult Jam",
+            "this_week": 21,
+            "last_week": 30,
+            "peak_position": 21,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Friends",
+            "artist": "Jody Watley With Eric B. & Rakim",
+            "this_week": 22,
+            "last_week": 38,
+            "peak_position": 22,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "So Alive/Bike Dance",
+            "artist": "Love And Rockets",
+            "this_week": 23,
+            "last_week": 20,
+            "peak_position": 20,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "In My Eyes",
+            "artist": "Stevie B",
+            "this_week": 24,
+            "last_week": 21,
+            "peak_position": 21,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Send Me An Angel 89",
+            "artist": "Real Life",
+            "this_week": 25,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Disappointed",
+            "artist": "Public Image Ltd.",
+            "this_week": 26,
+            "last_week": 26,
+            "peak_position": 26,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Let's Play House",
+            "artist": "Kraze",
+            "this_week": 27,
+            "last_week": 42,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Drop That Ghetto Blaster",
+            "artist": "Mr. Big Mouse",
+            "this_week": 28,
+            "last_week": 33,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Forget The Girl",
+            "artist": "Tony Terry",
+            "this_week": 29,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Promise Land/Can You Still Love Me?",
+            "artist": "The Style Council",
+            "this_week": 30,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "You Are The One",
+            "artist": "TKA",
+            "this_week": 31,
+            "last_week": 41,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Body-Rock",
+            "artist": "T.T. Max",
+            "this_week": 32,
+            "last_week": 37,
+            "peak_position": 32,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "All Night Party",
+            "artist": "Buster Poindexter",
+            "this_week": 33,
+            "last_week": 45,
+            "peak_position": 33,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Love House",
+            "artist": "Samantha Fox",
+            "this_week": 34,
+            "last_week": 47,
+            "peak_position": 34,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Give You All My Love",
+            "artist": "Stacey Q",
+            "this_week": 35,
+            "last_week": 46,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Waiting For A Call",
+            "artist": "Deep State",
+            "this_week": 36,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "People Hold On",
+            "artist": "Coldcut Featuring Lisa Stansfield",
+            "this_week": 37,
+            "last_week": 48,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "O'La Soca",
+            "artist": "Arrow",
+            "this_week": 38,
+            "last_week": 43,
+            "peak_position": 38,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "My Love Is So Raw",
+            "artist": "Alyson Williams (Featuring Nikki D)",
+            "this_week": 39,
+            "last_week": 50,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Scandalous",
+            "artist": "2 Puerto Ricans A Blackman & A Dominican",
+            "this_week": 40,
+            "last_week": 52,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Gonna Make It",
+            "artist": "SaFire",
+            "this_week": 41,
+            "last_week": null,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Happiness",
+            "artist": "Nicole",
+            "this_week": 42,
+            "last_week": 51,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Your Love Takes Me Higher",
+            "artist": "The Beloved",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "(Carmen) Danger In Her Eyes",
+            "artist": "Deborah Sasson & MCL",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "It's Real",
+            "artist": "James Ingram",
+            "this_week": 45,
+            "last_week": 49,
+            "peak_position": 45,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Suboceana",
+            "artist": "Tom Tom Club",
+            "this_week": 46,
+            "last_week": 17,
+            "peak_position": 4,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Blow The House Down",
+            "artist": "Living In A Box",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Baby Don't Forget My Number",
+            "artist": "Milli Vanilli",
+            "this_week": 48,
+            "last_week": 28,
+            "peak_position": 10,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Rock The House",
+            "artist": "Nicole",
+            "this_week": 49,
+            "last_week": 53,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "It's The Same Old Song",
+            "artist": "Michael Rogers",
+            "this_week": 50,
+            "last_week": null,
+            "peak_position": 50,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Lay All Your Love On Me/Funky At 45",
+            "artist": "Information Society",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Oh Well",
+            "artist": "Oh Well",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Ma Foom Bey/Syntanjey",
+            "artist": "Cultural Vibe",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Batdance (From \"Batman\")",
+            "artist": "Prince",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        }
+    ]
+}

@@ -1,0 +1,447 @@
+{
+    "date": "1987-06-27",
+    "data": [
+        {
+            "song": "Diamonds (Remix)",
+            "artist": "Herb Alpert",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Respectable (Remix)",
+            "artist": "Mel & Kim",
+            "this_week": 2,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "In Love With Love (Remix)",
+            "artist": "Debbie Harry",
+            "this_week": 3,
+            "last_week": 6,
+            "peak_position": 3,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Sometimes (Remix)/It Doesn't Have To Be",
+            "artist": "Erasure",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Rock-A-Lott (Remix)",
+            "artist": "Aretha Franklin",
+            "this_week": 5,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "The Pleasure Principle (Remix)",
+            "artist": "Janet Jackson",
+            "this_week": 6,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Why Should I Cry (Remix)",
+            "artist": "Nona Hendryx",
+            "this_week": 7,
+            "last_week": 8,
+            "peak_position": 7,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Don't Blow A Good Thing (Remix)",
+            "artist": "Vesta",
+            "this_week": 8,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "I Wanna Dance With Somebody (Who Loves Me)",
+            "artist": "Whitney Houston",
+            "this_week": 9,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Big Love (Remix)",
+            "artist": "Fleetwood Mac",
+            "this_week": 10,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Movin' On",
+            "artist": "Carolyn Harding",
+            "this_week": 11,
+            "last_week": 12,
+            "peak_position": 11,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Lessons In Love (Remix)",
+            "artist": "Level 42",
+            "this_week": 12,
+            "last_week": 13,
+            "peak_position": 12,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Funky Town (Remix)",
+            "artist": "Pseudo Echo",
+            "this_week": 13,
+            "last_week": 18,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Heart And Soul",
+            "artist": "T'Pau",
+            "this_week": 14,
+            "last_week": 14,
+            "peak_position": 14,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "V. Thirteen (Remix)/Hollywood Boulevard",
+            "artist": "Big Audio",
+            "this_week": 15,
+            "last_week": 19,
+            "peak_position": 15,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Still A Thrill (Remix)",
+            "artist": "Jody Watley",
+            "this_week": 16,
+            "last_week": 21,
+            "peak_position": 16,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "No Reason To Cry (Remix)",
+            "artist": "Judy Torres",
+            "this_week": 17,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Head To Toe",
+            "artist": "Lisa Lisa And Cult Jam",
+            "this_week": 18,
+            "last_week": 9,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Outlaw",
+            "artist": "Strafe",
+            "this_week": 19,
+            "last_week": 20,
+            "peak_position": 19,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "It Ain't Right (Whatcha Do)",
+            "artist": "Simphonia Featuring Carmen Brown",
+            "this_week": 20,
+            "last_week": 27,
+            "peak_position": 20,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Modigliani (Lost In Your Eyes)(Remix)",
+            "artist": "Book Of Love",
+            "this_week": 21,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "You Can't Take My Love (Remix)",
+            "artist": "Pam Russo",
+            "this_week": 22,
+            "last_week": 28,
+            "peak_position": 22,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Never Say Never (Remix)",
+            "artist": "Deniece Williams",
+            "this_week": 23,
+            "last_week": 24,
+            "peak_position": 23,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Don't Believe In Love",
+            "artist": "Jeanna Cie",
+            "this_week": 24,
+            "last_week": 25,
+            "peak_position": 24,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Strangelove (Remix)",
+            "artist": "Depeche Mode",
+            "this_week": 25,
+            "last_week": 40,
+            "peak_position": 25,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Boops (Here To Go)",
+            "artist": "Sly And Robbie",
+            "this_week": 26,
+            "last_week": 30,
+            "peak_position": 26,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Lifetime Love",
+            "artist": "Joyce Sims",
+            "this_week": 27,
+            "last_week": 31,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Living In A Box",
+            "artist": "Living In A Box",
+            "this_week": 28,
+            "last_week": 34,
+            "peak_position": 28,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Why You Treat Me So Bad (Remix)",
+            "artist": "Club Nouveau",
+            "this_week": 29,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Shy Boys",
+            "artist": "Ana",
+            "this_week": 30,
+            "last_week": 32,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Why Can't I Be You (Remix)",
+            "artist": "The Cure",
+            "this_week": 31,
+            "last_week": 33,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "One Love (Remix)",
+            "artist": "Dorothy Galdez",
+            "this_week": 32,
+            "last_week": 44,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Each Time You Break My Heart (Remix)",
+            "artist": "Nick Kamen",
+            "this_week": 33,
+            "last_week": 15,
+            "peak_position": 5,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Shut Up",
+            "artist": "Moonfou",
+            "this_week": 34,
+            "last_week": 35,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Let's Work It Out",
+            "artist": "The Exit",
+            "this_week": 35,
+            "last_week": 43,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Mean Season",
+            "artist": "8th Avenue",
+            "this_week": 36,
+            "last_week": 38,
+            "peak_position": 36,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Tina Cherry (Remix)",
+            "artist": "Georgio",
+            "this_week": 37,
+            "last_week": 53,
+            "peak_position": 37,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Uh,Uh, No No Casual Sex (Remix)",
+            "artist": "Carrie McDowell",
+            "this_week": 38,
+            "last_week": 47,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Just Another Man",
+            "artist": "Jeanne Harris",
+            "this_week": 39,
+            "last_week": 26,
+            "peak_position": 11,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Strangers In Our Town",
+            "artist": "Spear Of Destiny",
+            "this_week": 40,
+            "last_week": 49,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I Want Your Sex/Hard Day",
+            "artist": "George Michael",
+            "this_week": 41,
+            "last_week": 60,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Satisfied (Remix)",
+            "artist": "Donna Allen",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Let It Be With You",
+            "artist": "Belouis Some",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "My Heart Gets All The Breaks",
+            "artist": "Monet",
+            "this_week": 44,
+            "last_week": 29,
+            "peak_position": 19,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Lay It On The Line",
+            "artist": "Elaine Charles",
+            "this_week": 45,
+            "last_week": 45,
+            "peak_position": 45,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Second Chance For Love",
+            "artist": "Nayobe",
+            "this_week": 46,
+            "last_week": 41,
+            "peak_position": 30,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Fake",
+            "artist": "Alexander O'Neal",
+            "this_week": 47,
+            "last_week": 57,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Into My Secret (Remix)",
+            "artist": "Alisha",
+            "this_week": 48,
+            "last_week": 51,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I'm Bad",
+            "artist": "LL Cool J",
+            "this_week": 49,
+            "last_week": null,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "American Soviets",
+            "artist": "C.C.C.P.",
+            "this_week": 50,
+            "last_week": 37,
+            "peak_position": 26,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Jesus On The Payroll (Remix)",
+            "artist": "Thrashing Doves",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Rhythm Is Gonna Get You",
+            "artist": "Gloria Estefan & Miami Sound Machine",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Touch",
+            "artist": "Noho",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Heartache (Remix)",
+            "artist": "Pepsi & Shirlie",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Cry Of The Lonely (Remix)",
+            "artist": "J.M. Silk",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        },
+        {
+            "song": "Big Decision",
+            "artist": "That Petrol Emotion",
+            "this_week": 56,
+            "last_week": null,
+            "peak_position": 56
+        }
+    ]
+}

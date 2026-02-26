@@ -1,0 +1,31 @@
+{
+  "name": "Billboard",
+  "country": "United States",
+  "folder": "billboard",
+  "url": "https://www.billboard.com/charts/",
+  "prefix": "billboard",
+  "charts": [
+    {
+      "name": "Hot 100",
+      "folder": "billboard-hot-100",
+      "size": 100,
+      "start_date": "1958-08-04",
+      "prefix": "hot100"
+    },
+    {
+      "name": "Latin",
+      "folder": "billboard-latin-songs",
+      "size": 50,
+      "start_date": "1986-09-06",
+      "prefix": "latin"
+    },
+    {
+      "name": "Club",
+      "folder": "billboard-dance-club-play-songs",
+      "size": 50,
+      "start_date": "1976-08-28",
+      "end_date": "2020-03-28",
+      "prefix": "club"
+    }
+  ]
+}

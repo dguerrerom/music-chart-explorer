@@ -1,0 +1,440 @@
+{
+    "date": "1989-11-25",
+    "data": [
+        {
+            "song": "Pump Up The Jam",
+            "artist": "Technotronic Featuring Felly",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Git On Up",
+            "artist": "Fast Eddie",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Get Busy",
+            "artist": "Mr. Lee",
+            "this_week": 3,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Sugar Daddy",
+            "artist": "Thompson Twins",
+            "this_week": 4,
+            "last_week": 8,
+            "peak_position": 4,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I Love The Bass",
+            "artist": "Bardeux",
+            "this_week": 5,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Love On Top Of Love-Killer Kiss",
+            "artist": "Grace Jones",
+            "this_week": 6,
+            "last_week": 10,
+            "peak_position": 6,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Love Shack",
+            "artist": "The B-52s",
+            "this_week": 7,
+            "last_week": 7,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Rhythm Nation",
+            "artist": "Janet Jackson",
+            "this_week": 8,
+            "last_week": 14,
+            "peak_position": 8,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Me So Horny",
+            "artist": "The 2 Live Crew",
+            "this_week": 9,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Somebody For Me",
+            "artist": "Heavy D & The Boyz",
+            "this_week": 10,
+            "last_week": 12,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Without You",
+            "artist": "George LaMond",
+            "this_week": 11,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Be My Twin",
+            "artist": "Brother Beyond",
+            "this_week": 12,
+            "last_week": 16,
+            "peak_position": 12,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Personal Jesus/Dangerous",
+            "artist": "Depeche Mode",
+            "this_week": 13,
+            "last_week": 13,
+            "peak_position": 13,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Our Love (It's Over)",
+            "artist": "Dee Holloway",
+            "this_week": 14,
+            "last_week": 17,
+            "peak_position": 14,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Say No Go",
+            "artist": "De La Soul",
+            "this_week": 15,
+            "last_week": 9,
+            "peak_position": 3,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Pick Up The Pieces (To My Heart)",
+            "artist": "Cindy Valentine",
+            "this_week": 16,
+            "last_week": 20,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Turn It Out",
+            "artist": "Home Boys Only",
+            "this_week": 17,
+            "last_week": 22,
+            "peak_position": 17,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Higher Than High",
+            "artist": "Tony Lemans",
+            "this_week": 18,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Got Love",
+            "artist": "Michael Rodgers",
+            "this_week": 19,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Drama!/Sweet,Sweet Baby",
+            "artist": "Erasure",
+            "this_week": 20,
+            "last_week": 24,
+            "peak_position": 20,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Get On Your Feet",
+            "artist": "Gloria Estefan",
+            "this_week": 21,
+            "last_week": 26,
+            "peak_position": 21,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Give Me The Rhythm",
+            "artist": "Desarae Wild",
+            "this_week": 22,
+            "last_week": 25,
+            "peak_position": 22,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "With Every Beat Of My Heart",
+            "artist": "Taylor Dayne",
+            "this_week": 23,
+            "last_week": 32,
+            "peak_position": 23,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Sweet Talk",
+            "artist": "D'atra Hicks",
+            "this_week": 24,
+            "last_week": 30,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Warrior/Happy",
+            "artist": "Public Image Ltd.",
+            "this_week": 25,
+            "last_week": 35,
+            "peak_position": 25,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Down In It",
+            "artist": "Nine Inch Nails",
+            "this_week": 26,
+            "last_week": 31,
+            "peak_position": 26,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Summer Madness",
+            "artist": "KC Flightt",
+            "this_week": 27,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Two To Make It Right",
+            "artist": "Seduction",
+            "this_week": 28,
+            "last_week": null,
+            "peak_position": 28,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Over And Over",
+            "artist": "Pajama Party",
+            "this_week": 29,
+            "last_week": 39,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Baby Don't Say Goodbye",
+            "artist": "Dead Or Alive",
+            "this_week": 30,
+            "last_week": null,
+            "peak_position": 30,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "C'mon And Get My Love",
+            "artist": "D-Mob",
+            "this_week": 31,
+            "last_week": 43,
+            "peak_position": 31,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "It's Gonna Be Alright",
+            "artist": "Ruby Turner",
+            "this_week": 32,
+            "last_week": 44,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "The Race/Blazing Saddles",
+            "artist": "Yello",
+            "this_week": 33,
+            "last_week": 33,
+            "peak_position": 33,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Welcome To America",
+            "artist": "Die Warzau",
+            "this_week": 34,
+            "last_week": 38,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Children Of The Revolution/Oochy Koochy",
+            "artist": "Baby Ford",
+            "this_week": 35,
+            "last_week": 15,
+            "peak_position": 10,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Look Who's Dancing",
+            "artist": "Ziggy Marley And The Melody Makers",
+            "this_week": 36,
+            "last_week": 23,
+            "peak_position": 23,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Hold On",
+            "artist": "Donny Osmond",
+            "this_week": 37,
+            "last_week": 40,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Steaming",
+            "artist": "Sarah McLachlan",
+            "this_week": 38,
+            "last_week": 45,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Just Keep Rockin'",
+            "artist": "Double The Trouble & The Rebel MC",
+            "this_week": 39,
+            "last_week": 53,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "My Heart Skips A Beat",
+            "artist": "The Cover Girls",
+            "this_week": 40,
+            "last_week": 21,
+            "peak_position": 4,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Another Monster Jam/I've Got Your....",
+            "artist": "Simon Harris",
+            "this_week": 41,
+            "last_week": 52,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Self!",
+            "artist": "Fuzzbox",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Hallucination Generation",
+            "artist": "Gruesome Twosome",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Miss You Much",
+            "artist": "Janet Jackson",
+            "this_week": 44,
+            "last_week": 27,
+            "peak_position": 1,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "French Kiss",
+            "artist": "Lil Louis & The World",
+            "this_week": 45,
+            "last_week": 29,
+            "peak_position": 1,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "Let's Fall In Love/Bleeding Babies",
+            "artist": "Real Life",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Talk To Myself",
+            "artist": "Christopher Williams",
+            "this_week": 47,
+            "last_week": 37,
+            "peak_position": 18,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "New Jack Swing",
+            "artist": "Wreckx-N-Effect",
+            "this_week": 48,
+            "last_week": null,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Let The Rhythm Pump",
+            "artist": "Doug Lazy",
+            "this_week": 49,
+            "last_week": 51,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Ride On Time",
+            "artist": "Black Box",
+            "this_week": 50,
+            "last_week": 41,
+            "peak_position": 39,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Rock To The Beat/Move Your Body",
+            "artist": "101",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Is That What You Call Love",
+            "artist": "Lattanzi",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Move Your Body",
+            "artist": "Tyree Featuring J.M.D.",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Cold World",
+            "artist": "Steve \"Silk\" Hurley Featuring Jamie Principle",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Nasty",
+            "artist": "Dave Tech Nice",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}
