@@ -1,4 +1,3 @@
-<DOCUMENT filename="json_beautifier.py">
 import json
 from pathlib import Path
 

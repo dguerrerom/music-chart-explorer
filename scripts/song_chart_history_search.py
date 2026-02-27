@@ -1,24 +1,31 @@
+import logging
 from pathlib import Path
+from typing import List, Dict
 
 import chart_discovery
 import data_handler
+import chart_utils
 
+logger = logging.getLogger(__name__)
 
-def get_song_chart_history(data_dir: str, artist: str, song: str) -> list[dict]:
+def get_song_chart_history(data_dir: str, artist: str, song: str) -> List[Dict]:
     """
     Returns chart history for a specific song across all discovered charts.
-    Each result includes the full history, peak position, and total weeks.
     """
+    if not artist.strip() or not song.strip():
+        raise ValueError("Both artist and song title are required.")
+
     results = []
     chart_infos = chart_discovery.discover_chart_folders(data_dir)
 
     for chart_info in chart_infos:
         chart_p = Path(chart_info["data_dir"])
         if not chart_p.exists():
+            logger.warning(f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}")
             continue
 
         history = []
-        json_files = sorted(chart_p.glob("*.json"), key=lambda p: p.stem)
+        json_files = chart_utils.get_all_files(chart_p)
 
         for json_file in json_files:
             entry = data_handler.search_song_in_file(str(json_file), artist, song)
@@ -43,32 +50,29 @@ def get_song_chart_history(data_dir: str, artist: str, song: str) -> list[dict]:
 
     return results
 
-
 if __name__ == "__main__":
-    SCRIPT_DIR = Path(__file__).parent
-    DATA_DIR = str(SCRIPT_DIR.parent / "data")
+    import argparse
+    logging.basicConfig(level=logging.INFO)
 
-    artist = "Olivia Newton-John"
-    song = "Physical"
+    parser = argparse.ArgumentParser(description="Song chart history search")
+    parser.add_argument("--data_dir", default=str(Path(__file__).parent.parent / "data"))
+    parser.add_argument("--artist", default="Olivia Newton-John")
+    parser.add_argument("--song", default="Physical")
+    args = parser.parse_args()
 
-    if not artist or not song:
-        print("Error: Both artist and song title are required.")
+    history_results = get_song_chart_history(args.data_dir, args.artist, args.song)
+
+    if not history_results:
+        print("The song was not found in any available charts.")
     else:
-        print(f'# Searching for: "{song}" by {artist}\n')
+        for res in history_results:
+            print(f"## {res['source']} / {res['chart']}\n")
+            print("### Chart History\n")
+            print("| Date | Position |")
+            print("|------|----------|")
+            for h in res["history"]:
+                print(f"| {h['date']} | {h['position']} |")
 
-        history_results = get_song_chart_history(DATA_DIR, artist, song)
-
-        if not history_results:
-            print("The song was not found in any available charts.")
-        else:
-            for res in history_results:
-                print(f"## {res['source']} / {res['chart']}\n")
-                print("### Chart History\n")
-                print("| Date | Position |")
-                print("|------|----------|")
-                for h in res["history"]:
-                    print(f"| {h['date']} | {h['position']} |")
-
-                print(f"\nPeak position: #{res['peak']}")
-                print(f"Number of weeks on chart: {res['total_weeks']}")
-                print("\n---\n")
+            print(f"\nPeak position: #{res['peak']}")
+            print(f"Number of weeks on chart: {res['total_weeks']}")
+            print("\n---\n")
