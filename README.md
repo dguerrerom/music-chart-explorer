@@ -49,7 +49,7 @@ music-chart-explorer/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/music-chart-explorer.git
+   git clone https://github.com/dguerrerom/music-chart-explorer.git
    cd music-chart-explorer
    ```
 
@@ -68,7 +68,7 @@ music-chart-explorer/
 
 ---
 
-## 📋 Supported Charts (example)
+## 📋 Supported Charts
 
 - **Billboard Hot 100** (1980–1989)
 - **Billboard Latin Songs**  (1986–1989)
