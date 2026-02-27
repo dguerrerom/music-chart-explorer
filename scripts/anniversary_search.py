@@ -67,11 +67,13 @@ if __name__ == "__main__":
         print("No historical records found for this week.")
     else:
         print(f"\nFound {len(anniversary_list)} historical hit(s) at position #{TARGET_POSITION}:\n")
+        print("| Date | Source / Chart | Artist - Title (Weeks on Chart) |")
+        print("|------|----------------|---------------------------------|")
         for item in anniversary_list:
             date_str = item["full_date"]
             song = item["details"]
+            weeks_str = f" ({song['weeks']} weeks on chart)" if "weeks" in song else ""
             print(
-                f"{date_str} | {item['source']} / {item['chart']} | "
-                f"#{TARGET_POSITION}: {song['artist']} - {song['title']}"
-                f" ({song['weeks']} weeks on chart)" if "weeks" in song else ""
+                f"| {date_str} | {item['source']} / {item['chart']} | "
+                f"{song['artist']} - {song['title']}{weeks_str} |"
             )

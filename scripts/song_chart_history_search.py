@@ -54,7 +54,7 @@ if __name__ == "__main__":
     if not artist or not song:
         print("Error: Both artist and song title are required.")
     else:
-        print(f'\nSearching for: "{song}" by {artist} ...\n')
+        print(f'# Searching for: "{song}" by {artist}\n')
 
         history_results = get_song_chart_history(DATA_DIR, artist, song)
 
@@ -62,12 +62,13 @@ if __name__ == "__main__":
             print("The song was not found in any available charts.")
         else:
             for res in history_results:
-                print(f"=== {res['source']} / {res['chart']} ===")
-                print("Chart History")
-                print(f"{'Date':<12} {'Position':>8}")
+                print(f"## {res['source']} / {res['chart']}\n")
+                print("### Chart History\n")
+                print("| Date | Position |")
+                print("|------|----------|")
                 for h in res["history"]:
-                    print(f"{h['date']:<12} {h['position']:>8}")
+                    print(f"| {h['date']} | {h['position']} |")
 
                 print(f"\nPeak position: #{res['peak']}")
                 print(f"Number of weeks on chart: {res['total_weeks']}")
-                print("-" * 60)
+                print("\n---\n")

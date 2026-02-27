@@ -15,7 +15,8 @@ def get_songs_in_position_range(
 ) -> list[dict]:
     """
     Returns unique songs that appeared between min_pos and max_pos in the
-    given chart and date range. Tracks best peak and weeks spent at that peak.
+    given chart and date range. Tracks best peak, weeks spent at that peak,
+    and the earliest date the peak was achieved.
     """
     results: dict[tuple[str, str], dict] = {}
     chart_p = Path(chart_info["data_dir"])
@@ -27,10 +28,13 @@ def get_songs_in_position_range(
         for f in chart_p.glob("*.json")
         if time_engine.is_date_in_range(f.name, start_date, end_date)
     ]
-    date_files.sort()
+    date_files.sort(key=lambda f: time_engine.extract_date_from_filename(f) or '0000-00-00')
 
     for filename in date_files:
         file_path = str(chart_p / filename)
+        date_str = time_engine.extract_date_from_filename(filename)
+        if not date_str:
+            continue
         entries = data_handler.load_chart_entries(file_path)
 
         for entry in entries:
@@ -54,17 +58,19 @@ def get_songs_in_position_range(
                     "song": song,
                     "peak": pos,
                     "weeks_at_peak": 1,
+                    "peak_date": date_str,
                 }
             else:
                 current = results[key]
                 if pos < current["peak"]:
                     current["peak"] = pos
                     current["weeks_at_peak"] = 1
+                    current["peak_date"] = date_str
                 elif pos == current["peak"]:
                     current["weeks_at_peak"] += 1
 
     result_list = list(results.values())
-    result_list.sort(key=lambda x: (x["peak"], -x["weeks_at_peak"], x["artist"]))
+    result_list.sort(key=lambda x: (x["peak_date"], x["peak"], -x["weeks_at_peak"]))
     return result_list
 
 
@@ -73,7 +79,7 @@ if __name__ == "__main__":
     DATA_DIR = str(SCRIPT_DIR.parent / "data")
 
     print("\n" + "=" * 80)
-    print("  Searching Songs in Position Range")
+    print("  Searching Songs in Position Range with Peak Dates")
     print("=" * 80 + "\n")
 
     chart_infos = chart_discovery.discover_chart_folders(DATA_DIR)
@@ -113,10 +119,10 @@ if __name__ == "__main__":
         print("No songs found with the specified criteria.")
     else:
         print(f"Found {len(songs)} unique song(s)\n")
-        print("| Artist | Song | Peak | Weeks at Peak |")
-        print("|--------|------|------|---------------|")
+        print("| Artist | Song | Peak Date | Peak | Weeks at Peak |")
+        print("|--------|------|-----------|------|---------------|")
         for s in songs:
             print(
                 f"| {s['artist']} | {s['song']} | "
-                f"#{s['peak']} | {s['weeks_at_peak']} weeks |"
+                f"{s['peak_date']} | #{s['peak']} | {s['weeks_at_peak']} weeks |"
             )
