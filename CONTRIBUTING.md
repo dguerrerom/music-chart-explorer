@@ -9,7 +9,7 @@ We welcome bug reports, feature suggestions, and pull requests.
 1. **Fork** the repository
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/YOURUSERNAME/music-chart-explorer.git
+   git clone https://github.com/dguerrerom/music-chart-explorer.git
    ```
 3. Create a new branch for your feature:
    ```bash
