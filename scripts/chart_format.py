@@ -60,10 +60,7 @@ def adjorno_to_mhollingshead_chart_format(
 
 
 if __name__ == "__main__":
-    # Update these paths for your environment
-    INPUT_DIR = "../data/billboard/billboard-latin-songs"
-    OUTPUT_DIR = "../data/billboard/billboard-latin"
-
-    print("Starting conversion process...")
+    # Configure your paths here
+    INPUT_DIR = "../data/billboard/hot-100"
+    OUTPUT_DIR = "../data/billboard/hot"
     adjorno_to_mhollingshead_chart_format(INPUT_DIR, OUTPUT_DIR)
-    print("Process completed.")
