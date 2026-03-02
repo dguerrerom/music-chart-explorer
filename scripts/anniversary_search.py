@@ -10,6 +10,7 @@ import chart_utils
 
 logger = logging.getLogger(__name__)
 
+
 def run_anniversary_search(data_dir: str, input_date: str, rank: int = 1) -> List[Dict]:
     """
     Main anniversary search routine. Returns sorted list of results.
@@ -34,29 +35,37 @@ def run_anniversary_search(data_dir: str, input_date: str, rank: int = 1) -> Lis
     for chart_info in chart_infos:
         chart_data_p = Path(chart_info["data_dir"])
         if not chart_data_p.exists():
-            logger.warning(f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}")
+            logger.warning(
+                f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}"
+            )
             continue
 
         matching_files = chart_utils.get_files_for_week(chart_data_p, patterns)
         for json_file in matching_files:
             hit_info = data_handler.extract_hit(str(json_file), rank)
             if hit_info:
-                results.append({
-                    "full_date": json_file.stem,
-                    "source": chart_info["source"],
-                    "chart": chart_info["chart_name"],
-                    "details": hit_info,
-                })
+                results.append(
+                    {
+                        "full_date": json_file.stem,
+                        "source": chart_info["source"],
+                        "chart": chart_info["chart_name"],
+                        "details": hit_info,
+                    }
+                )
 
     # Sort oldest first
     return sorted(results, key=lambda x: x["full_date"])
 
+
 if __name__ == "__main__":
     import argparse
+
     logging.basicConfig(level=logging.INFO)
 
     parser = argparse.ArgumentParser(description="Anniversary search script")
-    parser.add_argument("--data_dir", default=str(Path(__file__).parent.parent / "data"))
+    parser.add_argument(
+        "--data_dir", default=str(Path(__file__).parent.parent / "data")
+    )
     parser.add_argument("--date", default=datetime.now().strftime("%Y-%m-%d"))
     parser.add_argument("--rank", type=int, default=1)
     args = parser.parse_args()
@@ -66,7 +75,9 @@ if __name__ == "__main__":
     if not anniversary_list:
         print("No historical records found for this week.")
     else:
-        print(f"\nFound {len(anniversary_list)} historical hit(s) at position #{args.rank}:\n")
+        print(
+            f"\nFound {len(anniversary_list)} historical hit(s) at position #{args.rank}:\n"
+        )
         print("| Date | Source / Chart | Artist - Title (Weeks on Chart) |")
         print("|------|----------------|---------------------------------|")
         for item in anniversary_list:

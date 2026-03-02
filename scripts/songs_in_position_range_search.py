@@ -9,6 +9,7 @@ import chart_utils
 
 logger = logging.getLogger(__name__)
 
+
 def get_songs_in_position_range(
     data_dir: str,
     chart_info: Dict,
@@ -27,7 +28,9 @@ def get_songs_in_position_range(
     results: Dict[Tuple[str, str], Dict] = {}
     chart_p = Path(chart_info["data_dir"])
     if not chart_p.exists():
-        logger.warning(f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}")
+        logger.warning(
+            f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}"
+        )
         return []
 
     date_files = chart_utils.get_files_for_date_range(chart_p, start_date, end_date)
@@ -81,13 +84,17 @@ def get_songs_in_position_range(
         result_list.sort(key=lambda x: (x["peak"], -x["weeks_at_peak"], x["artist"]))
     return result_list
 
+
 if __name__ == "__main__":
     import argparse
     import sys
+
     logging.basicConfig(level=logging.INFO)
 
     parser = argparse.ArgumentParser(description="Songs in position range search")
-    parser.add_argument("--data_dir", default=str(Path(__file__).parent.parent / "data"))
+    parser.add_argument(
+        "--data_dir", default=str(Path(__file__).parent.parent / "data")
+    )
     parser.add_argument("--chart_num", type=int, help="Chart number from list")
     parser.add_argument("--start_date", required=True)
     parser.add_argument("--end_date", required=True)
@@ -120,12 +127,19 @@ if __name__ == "__main__":
         print("Invalid selection.")
         sys.exit(1)
 
-    print(f"\nSearching {selected_chart['source']} / {selected_chart['chart_name']} "
-          f"({args.min_pos}-{args.max_pos}) from {args.start_date} to {args.end_date}...\n")
+    print(
+        f"\nSearching {selected_chart['source']} / {selected_chart['chart_name']} "
+        f"({args.min_pos}-{args.max_pos}) from {args.start_date} to {args.end_date}...\n"
+    )
 
     songs = get_songs_in_position_range(
-        args.data_dir, selected_chart, args.start_date, args.end_date,
-        args.min_pos, args.max_pos, args.include_peak_date
+        args.data_dir,
+        selected_chart,
+        args.start_date,
+        args.end_date,
+        args.min_pos,
+        args.max_pos,
+        args.include_peak_date,
     )
 
     if not songs:

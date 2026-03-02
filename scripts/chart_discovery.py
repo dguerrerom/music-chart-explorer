@@ -32,7 +32,7 @@ def discover_chart_folders(data_dir: str) -> List[Dict[str, str]]:
                 name = meta_file.name
                 for suffix in ["-metadata.json", "-manifest.json"]:
                     if name.endswith(suffix):
-                        source_folder = name[:-len(suffix)]
+                        source_folder = name[: -len(suffix)]
                         break
                 else:
                     source_folder = meta_file.stem
@@ -42,11 +42,13 @@ def discover_chart_folders(data_dir: str) -> List[Dict[str, str]]:
                     chart_folder = chart["folder"]
                     chart_data_path = str(data_path / source_folder / chart_folder)
 
-                    chart_infos.append({
-                        "source": source_name,
-                        "chart_name": chart.get("name", chart_folder),
-                        "data_dir": chart_data_path,
-                    })
+                    chart_infos.append(
+                        {
+                            "source": source_name,
+                            "chart_name": chart.get("name", chart_folder),
+                            "data_dir": chart_data_path,
+                        }
+                    )
 
         except (json.JSONDecodeError, IOError, KeyError, OSError) as e:
             print(f"Warning: Could not parse metadata file '{meta_file.name}': {e}")

@@ -2,7 +2,9 @@ import json
 from pathlib import Path
 
 
-def adjorno_to_mhollingshead_chart_format(input_folder: str, output_folder: str) -> None:
+def adjorno_to_mhollingshead_chart_format(
+    input_folder: str, output_folder: str
+) -> None:
     """
     Converts chart JSON files from the adjorno structure to the mhollingshead
     structure (date + data list with this_week, last_week, peak_position, weeks_on_chart).
@@ -22,10 +24,7 @@ def adjorno_to_mhollingshead_chart_format(input_folder: str, output_folder: str)
             print(f"Error: Failed to decode JSON from {json_file.name}. Skipping.")
             continue
 
-        standardized = {
-            "date": source_data.get("chart_date", ""),
-            "data": []
-        }
+        standardized = {"date": source_data.get("chart_date", ""), "data": []}
 
         for track in source_data.get("tracks", []):
             pos = track.get("position", {})

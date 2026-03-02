@@ -2,7 +2,9 @@ import json
 from pathlib import Path
 
 
-def beautify_json_folder(input_folder: str, output_folder: str, indent_size: int = 4) -> None:
+def beautify_json_folder(
+    input_folder: str, output_folder: str, indent_size: int = 4
+) -> None:
     """
     Reads minified JSON files from input_folder and writes them with proper
     indentation to output_folder.

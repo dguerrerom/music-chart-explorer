@@ -23,10 +23,7 @@ def get_week_patterns(reference_date_str: str) -> Tuple[List[str], date, date]:
     sunday_start = date_obj - timedelta(days=offset)
     saturday_end = sunday_start + timedelta(days=6)
 
-    patterns = [
-        (sunday_start + timedelta(days=i)).strftime("-%m-%d")
-        for i in range(7)
-    ]
+    patterns = [(sunday_start + timedelta(days=i)).strftime("-%m-%d") for i in range(7)]
     return patterns, sunday_start, saturday_end
 
 

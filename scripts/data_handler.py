@@ -5,11 +5,15 @@ from typing import Dict, Optional, Any, List
 
 logger = logging.getLogger(__name__)
 
+
 def normalize_text(text: str) -> str:
     """Normalizes text for case-insensitive comparison."""
     return text.strip().lower() if isinstance(text, str) else ""
 
-def extract_hit(file_path: str, target_rank: int, normalize: bool = False) -> Optional[Dict[str, Any]]:
+
+def extract_hit(
+    file_path: str, target_rank: int, normalize: bool = False
+) -> Optional[Dict[str, Any]]:
     """
     Reads a chart JSON file and returns the song at the requested rank.
     Optionally normalizes artist/title.
@@ -27,8 +31,16 @@ def extract_hit(file_path: str, target_rank: int, normalize: bool = False) -> Op
             for entry in chart_data:
                 if entry.get("this_week") == target_rank:
                     hit = {
-                        "title": normalize_text(entry.get("song")) if normalize else entry.get("song"),
-                        "artist": normalize_text(entry.get("artist")) if normalize else entry.get("artist"),
+                        "title": (
+                            normalize_text(entry.get("song"))
+                            if normalize
+                            else entry.get("song")
+                        ),
+                        "artist": (
+                            normalize_text(entry.get("artist"))
+                            if normalize
+                            else entry.get("artist")
+                        ),
                     }
                     if "weeks_on_chart" in entry:
                         hit["weeks"] = entry["weeks_on_chart"]
@@ -36,6 +48,7 @@ def extract_hit(file_path: str, target_rank: int, normalize: bool = False) -> Op
     except (json.JSONDecodeError, IOError, OSError) as e:
         logger.error(f"Error loading {file_path}: {e}")
     return None
+
 
 def search_song_in_file(
     file_path: str, target_artist: str, target_song: str
@@ -55,12 +68,15 @@ def search_song_in_file(
             target_s = normalize_text(target_song)
 
             for entry in chart_data:
-                if (normalize_text(entry.get("artist")) == target_a and
-                        normalize_text(entry.get("song")) == target_s):
+                if (
+                    normalize_text(entry.get("artist")) == target_a
+                    and normalize_text(entry.get("song")) == target_s
+                ):
                     return entry
     except (json.JSONDecodeError, IOError, OSError) as e:
         logger.error(f"Error loading {file_path}: {e}")
     return None
+
 
 def load_chart_entries(file_path: str) -> List[Dict[str, Any]]:
     # Existing, with logging

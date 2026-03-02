@@ -8,6 +8,7 @@ import chart_utils
 
 logger = logging.getLogger(__name__)
 
+
 def get_song_chart_history(data_dir: str, artist: str, song: str) -> List[Dict]:
     """
     Returns chart history for a specific song across all discovered charts.
@@ -21,7 +22,9 @@ def get_song_chart_history(data_dir: str, artist: str, song: str) -> List[Dict]:
     for chart_info in chart_infos:
         chart_p = Path(chart_info["data_dir"])
         if not chart_p.exists():
-            logger.warning(f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}")
+            logger.warning(
+                f"Chart folder not found: {chart_info['source']} / {chart_info['chart_name']}"
+            )
             continue
 
         history = []
@@ -30,32 +33,40 @@ def get_song_chart_history(data_dir: str, artist: str, song: str) -> List[Dict]:
         for json_file in json_files:
             entry = data_handler.search_song_in_file(str(json_file), artist, song)
             if entry:
-                history.append({
-                    "date": json_file.stem,
-                    "position": entry.get("this_week"),
-                    "weeks_on_chart": entry.get("weeks_on_chart", 0),
-                })
+                history.append(
+                    {
+                        "date": json_file.stem,
+                        "position": entry.get("this_week"),
+                        "weeks_on_chart": entry.get("weeks_on_chart", 0),
+                    }
+                )
 
         if history:
             peak = min(h["position"] for h in history)
             total_weeks = max(h["weeks_on_chart"] for h in history)
 
-            results.append({
-                "source": chart_info["source"],
-                "chart": chart_info["chart_name"],
-                "history": history,
-                "peak": peak,
-                "total_weeks": total_weeks,
-            })
+            results.append(
+                {
+                    "source": chart_info["source"],
+                    "chart": chart_info["chart_name"],
+                    "history": history,
+                    "peak": peak,
+                    "total_weeks": total_weeks,
+                }
+            )
 
     return results
 
+
 if __name__ == "__main__":
     import argparse
+
     logging.basicConfig(level=logging.INFO)
 
     parser = argparse.ArgumentParser(description="Song chart history search")
-    parser.add_argument("--data_dir", default=str(Path(__file__).parent.parent / "data"))
+    parser.add_argument(
+        "--data_dir", default=str(Path(__file__).parent.parent / "data")
+    )
     parser.add_argument("--artist", default="Olivia Newton-John")
     parser.add_argument("--song", default="Physical")
     args = parser.parse_args()
