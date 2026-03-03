@@ -6,26 +6,26 @@
   "prefix": "billboard",
   "charts": [
     {
-      "name": "Hot 100",
-      "folder": "billboard-hot-100",
+      "name": "Billboard Hot 100",
+      "folder": "billboard-hot100",
       "size": 100,
       "start_date": "1958-08-04",
-      "prefix": "hot100"
+      "prefix": "billboard-hot100"
     },
     {
-      "name": "Latin",
-      "folder": "billboard-latin-songs",
+      "name": "Billboard Hot Latin Songs",
+      "folder": "billboard-latin",
       "size": 50,
       "start_date": "1986-09-06",
-      "prefix": "latin"
+      "prefix": "billboard-latin"
     },
     {
-      "name": "Club",
-      "folder": "billboard-dance-club-play-songs",
+      "name": "Billboard Dance Club Songs",
+      "folder": "billboard-club",
       "size": 50,
       "start_date": "1976-08-28",
       "end_date": "2020-03-28",
-      "prefix": "club"
+      "prefix": "billboard-club"
     }
   ]
 }
