@@ -28,7 +28,7 @@ music-chart-explorer/
 ├── data/                    # ← Put your chart JSON files here
 │   ├── billboard-metadata.json
 │   ├── billboard/
-│   │   ├── billboard-hot-100/
+│   │   ├── billboard-hot100/
 │   │   └── ...
 │   └── ...
 ├── scripts/                 # All Python tools
@@ -72,7 +72,7 @@ music-chart-explorer/
 
 - **Billboard Hot 100** (1980–1989)
 - **Billboard Latin Songs**  (1986–1989)
-- **Billboard Dance/Club Play Songs** (1980–1989)
+- **Billboard Dance Club Song** (1980–1989)
 
 *More charts and international lists coming soon — just drop in a new `-metadata.json` and the corresponding date-based JSON files.*
 
