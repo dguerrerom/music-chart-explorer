@@ -106,6 +106,15 @@ Thank you all.
 
 ---
 
+## Data Accuracy & Changelog
+
+Some JSON archives have been cleaned and corrected for historical accuracy. Every fix is verified against the original printed magazine.
+
+**Full Data Changelog:** [DATA_CHANGELOG.md](DATA_CHANGELOG.md)
+
+All changes follow the [Keep a Changelog](https://keepachangelog.com/) format and our correction policy.
+
+---
 ## Roadmap
 
 - More built-in queries (e.g. artist career overview, #1 streaks, debut dates)
