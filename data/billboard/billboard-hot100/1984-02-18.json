@@ -530,14 +530,6 @@
             "weeks_on_chart": 23
         },
         {
-            "song": "Remember The Nights",
-            "artist": "The Motels",
-            "this_week": 67,
-            "last_week": null,
-            "peak_position": 67,
-            "weeks_on_chart": 1
-        },
-        {
             "song": "Looks That Kill",
             "artist": "Motley Crue",
             "this_week": 67,
@@ -697,6 +689,15 @@
             "peak_position": 18,
             "weeks_on_chart": 14
         },
+        {
+            "song": "Remember The Night",
+            "artist": "The Motels",
+            "this_week": 87,
+            "last_week": 54,
+            "peak_position": 36,
+            "weeks_on_chart": 12
+        },
+
         {
             "song": "Make My Day",
             "artist": "T.G. Sheppard With Clint Eastwood",
