@@ -100,7 +100,7 @@ This project is built on the excellent open-source foundations provided by:
 Special mention to:
 
 - **[David Gleason](https://www.youtube.com/watch?v=TtoJNHel93I)** — [World Radio History](https://www.worldradiohistory.com/)  
-  (corrections to [Billboard](https://www.worldradiohistory.com/Archive-All-Music/Billboard-Magazine.htm) Hot 100 [data errors](DATA_CORRECTIONS.md))
+  (corrections to [Billboard](https://www.worldradiohistory.com/Archive-All-Music/Billboard-Magazine.htm) Hot 100 [data errors](DATA_CHANGELOG.md))
 
 Thank you all.
 
