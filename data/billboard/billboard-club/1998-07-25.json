@@ -1,0 +1,440 @@
+{
+    "date": "1998-07-25",
+    "data": [
+        {
+            "song": "Sweet Freedom",
+            "artist": "Shawn Christopher",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "In My Life",
+            "artist": "Jose Nunez Featuring Octahvia",
+            "this_week": 2,
+            "last_week": 5,
+            "peak_position": 2,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Go Deep",
+            "artist": "Janet",
+            "this_week": 3,
+            "last_week": 8,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Outlaw",
+            "artist": "Olive",
+            "this_week": 4,
+            "last_week": 6,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "The Horn Song",
+            "artist": "The Don",
+            "this_week": 5,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Wizard Of Rhythm",
+            "artist": "New York Tribe",
+            "this_week": 6,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "If I'm Not In Love",
+            "artist": "Jody Watley",
+            "this_week": 7,
+            "last_week": 10,
+            "peak_position": 7,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Ray Of Light",
+            "artist": "Madonna",
+            "this_week": 8,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Give Me Rhythm",
+            "artist": "Black Connection",
+            "this_week": 9,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Found Love",
+            "artist": "Joi Cardwell",
+            "this_week": 10,
+            "last_week": 17,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Comin' Back",
+            "artist": "The Crystal Method",
+            "this_week": 11,
+            "last_week": 24,
+            "peak_position": 11,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I Love The Nightlife (Disco 'round)",
+            "artist": "India And NuYorican Soul",
+            "this_week": 12,
+            "last_week": 15,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Got Funk?",
+            "artist": "Tha Funk Addicts",
+            "this_week": 13,
+            "last_week": 11,
+            "peak_position": 11,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Delicious",
+            "artist": "Pure Sugar",
+            "this_week": 14,
+            "last_week": 16,
+            "peak_position": 14,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Catch The Light",
+            "artist": "Martha Wash",
+            "this_week": 15,
+            "last_week": 22,
+            "peak_position": 15,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "My Urban Soul",
+            "artist": "Urban Soul",
+            "this_week": 16,
+            "last_week": 18,
+            "peak_position": 16,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "The Day",
+            "artist": "Bobby D'Ambrosio Featuring Michelle Weeks",
+            "this_week": 17,
+            "last_week": 9,
+            "peak_position": 4,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Do You Like The Way That It Feels",
+            "artist": "Ralphi Rosario Featuring Donna Blakely",
+            "this_week": 18,
+            "last_week": 20,
+            "peak_position": 18,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "My All",
+            "artist": "Mariah Carey",
+            "this_week": 19,
+            "last_week": 14,
+            "peak_position": 5,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Testify",
+            "artist": "Byron Stingily",
+            "this_week": 20,
+            "last_week": 21,
+            "peak_position": 20,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Heaven's What I Feel",
+            "artist": "Gloria Estefan",
+            "this_week": 21,
+            "last_week": 12,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Beautiful Day",
+            "artist": "Hypertrophy",
+            "this_week": 22,
+            "last_week": 13,
+            "peak_position": 2,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Annihilate",
+            "artist": "Major North",
+            "this_week": 23,
+            "last_week": 25,
+            "peak_position": 23,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Needin' U",
+            "artist": "David Morales Presents The Face",
+            "this_week": 24,
+            "last_week": 27,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Alright",
+            "artist": "Club 69 Featuring Suzanne Palmer",
+            "this_week": 25,
+            "last_week": 26,
+            "peak_position": 25,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Stop",
+            "artist": "Spice Girls",
+            "this_week": 26,
+            "last_week": 19,
+            "peak_position": 14,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Rise",
+            "artist": "Uptempo",
+            "this_week": 27,
+            "last_week": 31,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Push It",
+            "artist": "Garbage",
+            "this_week": 28,
+            "last_week": 33,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Here's Where The Story Ends",
+            "artist": "Tin Tin Out",
+            "this_week": 29,
+            "last_week": 23,
+            "peak_position": 15,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Doo Be La Dee",
+            "artist": "Total Touch",
+            "this_week": 30,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Reasons",
+            "artist": "Sabrina Johnston",
+            "this_week": 31,
+            "last_week": 32,
+            "peak_position": 31,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Here We Go Again",
+            "artist": "Aretha Franklin",
+            "this_week": 32,
+            "last_week": 51,
+            "peak_position": 32,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "History Repeating",
+            "artist": "Propellerheads Featuring Miss Shirley Bassey",
+            "this_week": 33,
+            "last_week": 28,
+            "peak_position": 10,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Mind Playin' (Energy Buzz)",
+            "artist": "Calle & Rizzo",
+            "this_week": 34,
+            "last_week": 42,
+            "peak_position": 34,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Miracle",
+            "artist": "Noel W. Sanger/Westbrook Project Feat. Nicole Henry",
+            "this_week": 35,
+            "last_week": 41,
+            "peak_position": 35,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Where Do We Go",
+            "artist": "Wamdue Project",
+            "this_week": 36,
+            "last_week": 30,
+            "peak_position": 9,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Baby You",
+            "artist": "Ruffneck Featuring Yavahn",
+            "this_week": 37,
+            "last_week": 45,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Come Together",
+            "artist": "Junior Vasquez",
+            "this_week": 38,
+            "last_week": 49,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "It's All About Me",
+            "artist": "Mya & Sisqo",
+            "this_week": 39,
+            "last_week": 46,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Feel It",
+            "artist": "The Tamperer Featuring Maya Days",
+            "this_week": 40,
+            "last_week": 44,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "The Emigrants",
+            "artist": "Fjeld",
+            "this_week": 41,
+            "last_week": 47,
+            "peak_position": 41,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Love Will Come",
+            "artist": "Ray Guell",
+            "this_week": 42,
+            "last_week": 34,
+            "peak_position": 22,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "For This",
+            "artist": "Mau Mau",
+            "this_week": 43,
+            "last_week": 40,
+            "peak_position": 40,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "What A Feeling",
+            "artist": "The New Hippie Movement",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Keep On Dancin' (Let's Go)",
+            "artist": "Perpetual Motion",
+            "this_week": 45,
+            "last_week": 38,
+            "peak_position": 34,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I Can Feel It",
+            "artist": "Brutal Bill",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Sounds Of Wickedness",
+            "artist": "Tzant",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Don't Go Lose It Baby",
+            "artist": "Rozalla",
+            "this_week": 48,
+            "last_week": 36,
+            "peak_position": 23,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Vicious",
+            "artist": "Pump Friction & Soundclash Feat. Connie Harvey",
+            "this_week": 49,
+            "last_week": null,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "You Won't Forget Me",
+            "artist": "La Bouche",
+            "this_week": 50,
+            "last_week": 48,
+            "peak_position": 29,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "If You Could Read My Mind",
+            "artist": "Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Oye",
+            "artist": "Gloria Estefan",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Deja Vu",
+            "artist": "E-Smoove Featuring Latanza Waters",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Whatever You Want",
+            "artist": "Taylor Dayne",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "X-Files Theme",
+            "artist": "Mark Snow",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}

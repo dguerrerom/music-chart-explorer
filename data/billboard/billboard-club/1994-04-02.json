@@ -1,0 +1,440 @@
+{
+    "date": "1994-04-02",
+    "data": [
+        {
+            "song": "Got To Get It",
+            "artist": "Culture Beat",
+            "this_week": 1,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "So Into You",
+            "artist": "Michael Watford",
+            "this_week": 2,
+            "last_week": 4,
+            "peak_position": 2,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I Wouldn't Normally Do This Kind Of Thing",
+            "artist": "Pet Shop Boys",
+            "this_week": 3,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Don't Go Breaking My Heart",
+            "artist": "Elton John & RuPaul",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "I Want You",
+            "artist": "Juliet Roberts",
+            "this_week": 5,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Do You Want It",
+            "artist": "Lonnie Gordon",
+            "this_week": 6,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Beautiful People",
+            "artist": "Barbara Tucker",
+            "this_week": 7,
+            "last_week": 10,
+            "peak_position": 7,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Because Of Love",
+            "artist": "Janet Jackson",
+            "this_week": 8,
+            "last_week": 9,
+            "peak_position": 8,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Work That Body",
+            "artist": "Chanelle",
+            "this_week": 9,
+            "last_week": 14,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Blow Your Whistle",
+            "artist": "DJ Duke",
+            "this_week": 10,
+            "last_week": 11,
+            "peak_position": 10,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I'll Wait",
+            "artist": "Taylor Dayne",
+            "this_week": 11,
+            "last_week": 18,
+            "peak_position": 11,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Stay",
+            "artist": "Eternal",
+            "this_week": 12,
+            "last_week": 12,
+            "peak_position": 12,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Love & Happiness",
+            "artist": "River Ocean Featuring India",
+            "this_week": 13,
+            "last_week": 36,
+            "peak_position": 13,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Moving On Up",
+            "artist": "M People",
+            "this_week": 14,
+            "last_week": 39,
+            "peak_position": 14,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Jungle Lust (I Want You)",
+            "artist": "Urban Motion Project",
+            "this_week": 15,
+            "last_week": 8,
+            "peak_position": 8,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "X",
+            "artist": "Junior Vasquez",
+            "this_week": 16,
+            "last_week": 22,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Groove Thang",
+            "artist": "Zhane",
+            "this_week": 17,
+            "last_week": 13,
+            "peak_position": 13,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "You Used To Hold Me '94",
+            "artist": "Ralphi Rosario Presents Xaviera Gold",
+            "this_week": 18,
+            "last_week": 29,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Spooky",
+            "artist": "New Order",
+            "this_week": 19,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I'm In The Mood",
+            "artist": "CeCe Peniston",
+            "this_week": 20,
+            "last_week": 15,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Do Ya",
+            "artist": "Inner City",
+            "this_week": 21,
+            "last_week": 33,
+            "peak_position": 21,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "If That's Your Boyfriend",
+            "artist": "MeShell Ndegeocello",
+            "this_week": 22,
+            "last_week": 27,
+            "peak_position": 22,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Take Me Away",
+            "artist": "Babble",
+            "this_week": 23,
+            "last_week": 25,
+            "peak_position": 23,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Cried The Tears",
+            "artist": "Jomanda",
+            "this_week": 24,
+            "last_week": 40,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "A Deeper Love (From \"Sister Act 2\")",
+            "artist": "Aretha Franklin",
+            "this_week": 25,
+            "last_week": 21,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "I Believe",
+            "artist": "The Sounds Of Blackness",
+            "this_week": 26,
+            "last_week": 51,
+            "peak_position": 26,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Give Myself To You",
+            "artist": "The Daou",
+            "this_week": 27,
+            "last_week": 17,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Breakdown",
+            "artist": "One Dove",
+            "this_week": 28,
+            "last_week": 41,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Burning Like The Sun",
+            "artist": "Red Red Groovy",
+            "this_week": 29,
+            "last_week": 31,
+            "peak_position": 29,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Going Nowhere",
+            "artist": "Gabrielle",
+            "this_week": 30,
+            "last_week": 16,
+            "peak_position": 14,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "I Want To Thank You",
+            "artist": "LaTrece",
+            "this_week": 31,
+            "last_week": 23,
+            "peak_position": 7,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "So In Love (The Real Deal)",
+            "artist": "Judy Cheeks",
+            "this_week": 32,
+            "last_week": 28,
+            "peak_position": 25,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "When You Love Someone",
+            "artist": "Daphne",
+            "this_week": 33,
+            "last_week": 42,
+            "peak_position": 33,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Dream Drums",
+            "artist": "Lectroluv",
+            "this_week": 34,
+            "last_week": 20,
+            "peak_position": 3,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Nothing Better",
+            "artist": "Colourblind",
+            "this_week": 35,
+            "last_week": 38,
+            "peak_position": 35,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Hey D.J. (From \"Mi Vida Loca\")",
+            "artist": "Lighter Shade Of Brown",
+            "this_week": 36,
+            "last_week": 32,
+            "peak_position": 32,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Vicious Games",
+            "artist": "Yello",
+            "this_week": 37,
+            "last_week": 30,
+            "peak_position": 30,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I Want To Thank You",
+            "artist": "Robin S.",
+            "this_week": 38,
+            "last_week": null,
+            "peak_position": 38,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Wow! Mr. Yogi (Control The Mind)",
+            "artist": "The Overlords",
+            "this_week": 39,
+            "last_week": 48,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Please (You Got That...)",
+            "artist": "INXS",
+            "this_week": 40,
+            "last_week": 24,
+            "peak_position": 9,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Gin And Juice",
+            "artist": "Snoop Doggy Dogg",
+            "this_week": 41,
+            "last_week": 54,
+            "peak_position": 41,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Been A Long Time",
+            "artist": "The Fog",
+            "this_week": 42,
+            "last_week": 19,
+            "peak_position": 2,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "When A Man Loves A Woman",
+            "artist": "Jody Watley",
+            "this_week": 43,
+            "last_week": 45,
+            "peak_position": 43,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "I Wanna Rock",
+            "artist": "Jazzy Jeff & The Fresh Prince",
+            "this_week": 44,
+            "last_week": 44,
+            "peak_position": 41,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Stomp",
+            "artist": "Big Fun",
+            "this_week": 45,
+            "last_week": 52,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Selfish",
+            "artist": "The Other Two",
+            "this_week": 46,
+            "last_week": 26,
+            "peak_position": 6,
+            "weeks_on_chart": 15
+        },
+        {
+            "song": "Obsession",
+            "artist": "Fem 2 Fem",
+            "this_week": 47,
+            "last_week": 35,
+            "peak_position": 34,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Pere Cochon (I Like It)",
+            "artist": "Pascal's Bongo Massive I",
+            "this_week": 48,
+            "last_week": 43,
+            "peak_position": 36,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "All Because Of Me",
+            "artist": "Georgie Porgie",
+            "this_week": 49,
+            "last_week": 34,
+            "peak_position": 29,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "When You Touch Me",
+            "artist": "Masters At Work Featuring India",
+            "this_week": 50,
+            "last_week": 37,
+            "peak_position": 13,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Worker Man",
+            "artist": "Patra",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "E",
+            "artist": "LaTour",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Come On And Do It",
+            "artist": "FPI Project",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "I Want It, I Need It (Real Love)",
+            "artist": "Saundra Williams",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Givin' It Up",
+            "artist": "Incognito",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}

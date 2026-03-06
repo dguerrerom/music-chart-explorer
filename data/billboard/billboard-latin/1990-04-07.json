@@ -1,0 +1,325 @@
+{
+    "date": "1990-04-07",
+    "data": [
+        {
+            "song": "Abre Las Ventanas Al Amor",
+            "artist": "Roberto Carlos",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Quiero Amanecer Con Alguien",
+            "artist": "Daniela Romo",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 19
+        },
+        {
+            "song": "Flor Dormida",
+            "artist": "Luis Angel",
+            "this_week": 3,
+            "last_week": 10,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Lambada",
+            "artist": "Kaoma",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 1,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Volare",
+            "artist": "Gipsy Kings",
+            "this_week": 5,
+            "last_week": 15,
+            "peak_position": 5,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Para Amarnos Mas",
+            "artist": "Mijares",
+            "this_week": 6,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Dancando Lambada",
+            "artist": "Kaoma",
+            "this_week": 7,
+            "last_week": 12,
+            "peak_position": 7,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Fantasias",
+            "artist": "Chayanne",
+            "this_week": 8,
+            "last_week": 21,
+            "peak_position": 8,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Ni Tu Ni Ella",
+            "artist": "Alvaro Torres",
+            "this_week": 9,
+            "last_week": 16,
+            "peak_position": 9,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Corazon A La Deriva",
+            "artist": "Lucerito",
+            "this_week": 10,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "La Cima Del Cielo",
+            "artist": "Ricardo Montaner",
+            "this_week": 11,
+            "last_week": 5,
+            "peak_position": 1,
+            "weeks_on_chart": 20
+        },
+        {
+            "song": "Mi Mundo",
+            "artist": "Luis Enrique",
+            "this_week": 12,
+            "last_week": 7,
+            "peak_position": 6,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Soledad",
+            "artist": "Ana Gabriel",
+            "this_week": 13,
+            "last_week": 8,
+            "peak_position": 2,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "La Vida Decidio",
+            "artist": "Emmanuel",
+            "this_week": 14,
+            "last_week": 6,
+            "peak_position": 5,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Senora Bonita",
+            "artist": "Jose Luis Rodriguez",
+            "this_week": 15,
+            "last_week": 17,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Esta Vez",
+            "artist": "Franco de Vita",
+            "this_week": 16,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Me Va A Extranar",
+            "artist": "Ricardo Montaner",
+            "this_week": 17,
+            "last_week": 13,
+            "peak_position": 13,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Amarte Es Genial",
+            "artist": "Marisela",
+            "this_week": 18,
+            "last_week": 20,
+            "peak_position": 18,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Me Hiciste Caer",
+            "artist": "Eddie Santiago",
+            "this_week": 19,
+            "last_week": 25,
+            "peak_position": 13,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Embrujada (Estoy)",
+            "artist": "Yuri",
+            "this_week": 20,
+            "last_week": 14,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Una Calle, Un Banco, Una Plaza",
+            "artist": "Antonio De Jesus",
+            "this_week": 21,
+            "last_week": 22,
+            "peak_position": 20,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Dos Mares Mas Que Tu",
+            "artist": "Beatriz Adriana",
+            "this_week": 22,
+            "last_week": 24,
+            "peak_position": 22,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Ya Te Olvide",
+            "artist": "Rocio Durcal",
+            "this_week": 23,
+            "last_week": 37,
+            "peak_position": 23,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Como Fui A Enamorarme De Ti",
+            "artist": "Los Bukis",
+            "this_week": 24,
+            "last_week": 23,
+            "peak_position": 1,
+            "weeks_on_chart": 33
+        },
+        {
+            "song": "Lambada-Llorando Se Fue",
+            "artist": "Teresa Guerra",
+            "this_week": 25,
+            "last_week": 19,
+            "peak_position": 5,
+            "weeks_on_chart": 15
+        },
+        {
+            "song": "Que Voy Hacer Contigo",
+            "artist": "Isabel Pantoja",
+            "this_week": 26,
+            "last_week": 34,
+            "peak_position": 26,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Mala Cabeza",
+            "artist": "Wilfrido Vargas",
+            "this_week": 27,
+            "last_week": 32,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Hice Bien Quererte",
+            "artist": "Ana Gabriel",
+            "this_week": 28,
+            "last_week": 18,
+            "peak_position": 14,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Oye Mi Canto",
+            "artist": "Gloria Estefan",
+            "this_week": 29,
+            "last_week": 26,
+            "peak_position": 10,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Tesoro Mio",
+            "artist": "Guillermo Davila/Kiara",
+            "this_week": 30,
+            "last_week": null,
+            "peak_position": 30,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Un Hombre Busca Una Mujer",
+            "artist": "Jossie Esteban Y La Patrulla 15",
+            "this_week": 31,
+            "last_week": 31,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Ilarie",
+            "artist": "Xuxa",
+            "this_week": 32,
+            "last_week": 30,
+            "peak_position": 11,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Quien Como Tu",
+            "artist": "Ana Gabriel",
+            "this_week": 33,
+            "last_week": null,
+            "peak_position": 33,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Se Hubiera Ido Sola",
+            "artist": "Los Yonic's",
+            "this_week": 34,
+            "last_week": null,
+            "peak_position": 34,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "La Bilirrubina",
+            "artist": "Juan Luis Guerra 440",
+            "this_week": 35,
+            "last_week": null,
+            "peak_position": 35,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Mami Yo Te Quiero",
+            "artist": "Que Pasa",
+            "this_week": 36,
+            "last_week": 33,
+            "peak_position": 33,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "No Hay Hombres",
+            "artist": "Lucia Mendez",
+            "this_week": 37,
+            "last_week": 27,
+            "peak_position": 8,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "La Malaguena",
+            "artist": "Pablo Ruiz",
+            "this_week": 38,
+            "last_week": 35,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Por Alguien Como tu",
+            "artist": "Marco Antonio Muniz / Jose Jose",
+            "this_week": 39,
+            "last_week": 38,
+            "peak_position": 30,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "La Incondicional",
+            "artist": "Sergio Vargas",
+            "this_week": 40,
+            "last_week": 28,
+            "peak_position": 28,
+            "weeks_on_chart": 2
+        }
+    ]
+}

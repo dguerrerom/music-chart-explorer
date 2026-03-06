@@ -1,0 +1,440 @@
+{
+    "date": "1991-07-27",
+    "data": [
+        {
+            "song": "Let The Beat Hit 'Em",
+            "artist": "Lisa Lisa And Cult Jam",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "3 A.M. Eternal",
+            "artist": "The KLF",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Deep In My Heart",
+            "artist": "Clubhouse",
+            "this_week": 3,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "This Beat Is Hot",
+            "artist": "B.G. The Prince Of Rap",
+            "this_week": 4,
+            "last_week": 7,
+            "peak_position": 4,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Throw You Down",
+            "artist": "Thelma Houston",
+            "this_week": 5,
+            "last_week": 8,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Got A Love For You",
+            "artist": "Jomanda",
+            "this_week": 6,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Malfunction",
+            "artist": "N-Joi",
+            "this_week": 7,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Such A Good Feeling",
+            "artist": "Brothers In Rhythm",
+            "this_week": 8,
+            "last_week": 11,
+            "peak_position": 8,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Now That We Found Love",
+            "artist": "Heavy D & The Boyz",
+            "this_week": 9,
+            "last_week": 10,
+            "peak_position": 9,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "(I Wanna Give You) Devotion",
+            "artist": "Nomad",
+            "this_week": 10,
+            "last_week": 6,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Din Daa Daa '91",
+            "artist": "George Kranz Featuring Doug Lazy",
+            "this_week": 11,
+            "last_week": 16,
+            "peak_position": 11,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Human Nature",
+            "artist": "Gary Clail",
+            "this_week": 12,
+            "last_week": 15,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Move (Dance All Night)",
+            "artist": "Slam Slam",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Can't Help Myself",
+            "artist": "2 Brothers On The 4th Floor",
+            "this_week": 14,
+            "last_week": 9,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Sex On Wheelz",
+            "artist": "My Life With The Thrill Kill Kult",
+            "this_week": 15,
+            "last_week": 17,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Red Hills Road",
+            "artist": "Candy Flip",
+            "this_week": 16,
+            "last_week": 25,
+            "peak_position": 16,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Optimistic",
+            "artist": "The Sounds Of Blackness",
+            "this_week": 17,
+            "last_week": 19,
+            "peak_position": 17,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Ooops",
+            "artist": "808 State",
+            "this_week": 18,
+            "last_week": 26,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Get The Message",
+            "artist": "Electronic",
+            "this_week": 19,
+            "last_week": 12,
+            "peak_position": 8,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Night By Night",
+            "artist": "Alanda Drake",
+            "this_week": 20,
+            "last_week": 22,
+            "peak_position": 20,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Love Desire",
+            "artist": "Sandee",
+            "this_week": 21,
+            "last_week": 21,
+            "peak_position": 21,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Free Love",
+            "artist": "Voice Farm",
+            "this_week": 22,
+            "last_week": 28,
+            "peak_position": 22,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "What Would We Do",
+            "artist": "D.S.K.",
+            "this_week": 23,
+            "last_week": 38,
+            "peak_position": 23,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Kiss Them For Me",
+            "artist": "Siouxsie & The Banshees",
+            "this_week": 24,
+            "last_week": 30,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "One Step Ahead",
+            "artist": "Debbie Gibson",
+            "this_week": 25,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Move Your Body (Elevation)",
+            "artist": "Xpansions",
+            "this_week": 26,
+            "last_week": 13,
+            "peak_position": 5,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Walking Down Madison",
+            "artist": "Kirsty MacColl",
+            "this_week": 27,
+            "last_week": 34,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Taste The Bass",
+            "artist": "SaFire",
+            "this_week": 28,
+            "last_week": 20,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Things That Make You Go Hmmmm. . .",
+            "artist": "C+C Music Factory",
+            "this_week": 29,
+            "last_week": null,
+            "peak_position": 29,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "No Deeper Meaning",
+            "artist": "Culture Beat",
+            "this_week": 30,
+            "last_week": 43,
+            "peak_position": 30,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Are You Gonna Be There",
+            "artist": "Shay Jones",
+            "this_week": 31,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Borrowed Love",
+            "artist": "Bingo Boys",
+            "this_week": 32,
+            "last_week": 36,
+            "peak_position": 32,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Droppin' Like Flies",
+            "artist": "Sheila E.",
+            "this_week": 33,
+            "last_week": 23,
+            "peak_position": 23,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Caravan",
+            "artist": "Inspiral Carpets",
+            "this_week": 34,
+            "last_week": 24,
+            "peak_position": 14,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Nothing",
+            "artist": "Frazier Chorus",
+            "this_week": 35,
+            "last_week": 40,
+            "peak_position": 35,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "P.A.S.S.I.O.N.",
+            "artist": "Rhythm Syndicate",
+            "this_week": 36,
+            "last_week": 44,
+            "peak_position": 36,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "The Chubbster",
+            "artist": "Chubb Rock",
+            "this_week": 37,
+            "last_week": null,
+            "peak_position": 37,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "That's the Way It Is",
+            "artist": "The Adventures Of Stevie V",
+            "this_week": 38,
+            "last_week": 45,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Nothing To Lose",
+            "artist": "S-Express",
+            "this_week": 39,
+            "last_week": null,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Just Get Up And Dance",
+            "artist": "Afrika Bambaataa",
+            "this_week": 40,
+            "last_week": null,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Oh Yeah (Think About...)",
+            "artist": "D.J.H. Featuring Stefy",
+            "this_week": 41,
+            "last_week": 37,
+            "peak_position": 19,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Temptation",
+            "artist": "Corina",
+            "this_week": 42,
+            "last_week": 32,
+            "peak_position": 22,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Ring Ring Ring (Ha Ha Hey)",
+            "artist": "De La Soul",
+            "this_week": 43,
+            "last_week": 31,
+            "peak_position": 16,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Lies",
+            "artist": "EMF",
+            "this_week": 44,
+            "last_week": 51,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Summertime",
+            "artist": "D.J. Jazzy Jeff & The Fresh Prince",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "My World Storm",
+            "artist": "Gary Numan",
+            "this_week": 46,
+            "last_week": 47,
+            "peak_position": 46,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Everyday People",
+            "artist": "Aretha Franklin",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Perpetual Dawn",
+            "artist": "The Orb",
+            "this_week": 48,
+            "last_week": 52,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Positivity",
+            "artist": "The Chosen Few",
+            "this_week": 49,
+            "last_week": 53,
+            "peak_position": 49,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "What Is This Thing Called Love",
+            "artist": "Alexander O'Neal",
+            "this_week": 50,
+            "last_week": 27,
+            "peak_position": 10,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "The Whistle Song",
+            "artist": "Frankie Knuckles",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Dream About You",
+            "artist": "D'Bora",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Bass Power",
+            "artist": "Raze",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Unity",
+            "artist": "Unity",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Chorus",
+            "artist": "Erasure",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}

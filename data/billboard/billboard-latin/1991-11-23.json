@@ -1,0 +1,325 @@
+{
+    "date": "1991-11-23",
+    "data": [
+        {
+            "song": "Amor Mio, Que Me Has Hecho?",
+            "artist": "Camilo Sesto",
+            "this_week": 1,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Porque Sera",
+            "artist": "Rudy La Scala",
+            "this_week": 2,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Sera",
+            "artist": "Ricardo Montaner",
+            "this_week": 3,
+            "last_week": 3,
+            "peak_position": 3,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Cosas Del Amor",
+            "artist": "Vikki Carr Y Ana Gabriel",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 1,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Frio Frio",
+            "artist": "Juan Luis Guerra 440",
+            "this_week": 5,
+            "last_week": 8,
+            "peak_position": 5,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Melodia Desencadenada",
+            "artist": "Grupo Yndio",
+            "this_week": 6,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Ya No",
+            "artist": "Lucero",
+            "this_week": 7,
+            "last_week": 12,
+            "peak_position": 7,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Que Nada Nos Separe",
+            "artist": "Mijares",
+            "this_week": 8,
+            "last_week": 7,
+            "peak_position": 5,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Mambo",
+            "artist": "Azucar Moreno",
+            "this_week": 9,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Como Me Gusta",
+            "artist": "Sergio Dalma",
+            "this_week": 10,
+            "last_week": 21,
+            "peak_position": 10,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Eres Libre",
+            "artist": "Ednita Nazario",
+            "this_week": 11,
+            "last_week": 20,
+            "peak_position": 11,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Nadie Entiende",
+            "artist": "Daniela Romo",
+            "this_week": 12,
+            "last_week": 19,
+            "peak_position": 12,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Dejame Amarte Otra Vez",
+            "artist": "Bronco: El Gigante De America",
+            "this_week": 13,
+            "last_week": 16,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Ando Buscando Un Amor",
+            "artist": "Victor Victor",
+            "this_week": 14,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Popurri",
+            "artist": "Pandora",
+            "this_week": 15,
+            "last_week": 10,
+            "peak_position": 3,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Vuela Vuela",
+            "artist": "Magneto",
+            "this_week": 16,
+            "last_week": 27,
+            "peak_position": 16,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Pecado De Amor",
+            "artist": "Lisa Lopez",
+            "this_week": 17,
+            "last_week": 17,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Mal Sueno",
+            "artist": "Lissette",
+            "this_week": 18,
+            "last_week": 18,
+            "peak_position": 11,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Me Faltas Tu",
+            "artist": "Eddie Santiago",
+            "this_week": 19,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Dos Cartas Y Una Flor",
+            "artist": "Los Caminantes",
+            "this_week": 20,
+            "last_week": 13,
+            "peak_position": 11,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Ahora",
+            "artist": "Ana Gabriel",
+            "this_week": 21,
+            "last_week": 15,
+            "peak_position": 2,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Como Me Duele Amor",
+            "artist": "La Mafia",
+            "this_week": 22,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Daria Cualquier Cosa",
+            "artist": "Chayanne",
+            "this_week": 23,
+            "last_week": 24,
+            "peak_position": 21,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Como Que No",
+            "artist": "Angeles Ochoa",
+            "this_week": 24,
+            "last_week": 14,
+            "peak_position": 14,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Chiquilla Bonita",
+            "artist": "Los Bukis",
+            "this_week": 25,
+            "last_week": 26,
+            "peak_position": 15,
+            "weeks_on_chart": 18
+        },
+        {
+            "song": "Pero Acuerdate De Mi",
+            "artist": "Los Freddy's",
+            "this_week": 26,
+            "last_week": 30,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Que Hare Sin Ti",
+            "artist": "Proyecto M",
+            "this_week": 27,
+            "last_week": 33,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Tu Angel De La Guarda",
+            "artist": "Gloria Trevi",
+            "this_week": 28,
+            "last_week": 25,
+            "peak_position": 20,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Mi Gusto Es",
+            "artist": "Ana Gabriel",
+            "this_week": 29,
+            "last_week": 32,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Inolvidable",
+            "artist": "Luis Miguel",
+            "this_week": 30,
+            "last_week": null,
+            "peak_position": 30,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Ya Te Olvide",
+            "artist": "Marisela",
+            "this_week": 31,
+            "last_week": 31,
+            "peak_position": 14,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "Ella No Es Culpable",
+            "artist": "Los Yonic's",
+            "this_week": 32,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Cosa Triste",
+            "artist": "Los Mier",
+            "this_week": 33,
+            "last_week": 28,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Electricidad",
+            "artist": "Lucero",
+            "this_week": 34,
+            "last_week": 23,
+            "peak_position": 5,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Sola",
+            "artist": "Lourdes Robles",
+            "this_week": 35,
+            "last_week": 37,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Rosas Rojas",
+            "artist": "Alejandra Guzman",
+            "this_week": 36,
+            "last_week": null,
+            "peak_position": 36,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "La Sombra De Lo Que Fui",
+            "artist": "Yolandita Monge",
+            "this_week": 37,
+            "last_week": 35,
+            "peak_position": 35,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "America",
+            "artist": "Jose Luis Perales",
+            "this_week": 38,
+            "last_week": 36,
+            "peak_position": 36,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Culeca",
+            "artist": "Las Chicas del Can",
+            "this_week": 39,
+            "last_week": null,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Luna De Cristal",
+            "artist": "Xuxa",
+            "this_week": 40,
+            "last_week": 38,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        }
+    ]
+}

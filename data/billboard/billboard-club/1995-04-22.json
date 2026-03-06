@@ -1,0 +1,440 @@
+{
+    "date": "1995-04-22",
+    "data": [
+        {
+            "song": "The Bomb! (These Sounds Fall Into My Mind)",
+            "artist": "The Bucketheads",
+            "this_week": 1,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Heartbeat",
+            "artist": "Jimmy Somerville",
+            "this_week": 2,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Bedtime Story",
+            "artist": "Madonna",
+            "this_week": 3,
+            "last_week": 7,
+            "peak_position": 3,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Run Away",
+            "artist": "Real McCoy",
+            "this_week": 4,
+            "last_week": 10,
+            "peak_position": 4,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Respect",
+            "artist": "Judy Cheeks",
+            "this_week": 5,
+            "last_week": 13,
+            "peak_position": 5,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Cotton Eye Joe",
+            "artist": "Rednex",
+            "this_week": 6,
+            "last_week": 5,
+            "peak_position": 5,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "My Love Is Deep",
+            "artist": "Sara Parker",
+            "this_week": 7,
+            "last_week": 11,
+            "peak_position": 7,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Body To Body (Keep In Touch)",
+            "artist": "Shades Of Love Feat. Meli'sa Morgan",
+            "this_week": 8,
+            "last_week": 14,
+            "peak_position": 8,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "When Do I Get To Sing \"My Way\"",
+            "artist": "Sparks",
+            "this_week": 9,
+            "last_week": 12,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I Got Love",
+            "artist": "Kleo",
+            "this_week": 10,
+            "last_week": 17,
+            "peak_position": 10,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Never Get Enough",
+            "artist": "Waterlillies",
+            "this_week": 11,
+            "last_week": 8,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Jump For Joi",
+            "artist": "Joi Cardwell",
+            "this_week": 12,
+            "last_week": 3,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Atomic",
+            "artist": "Blondie",
+            "this_week": 13,
+            "last_week": 4,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Paul's Pain",
+            "artist": "T. Bristol & M. Picchiotti Present Nightman",
+            "this_week": 14,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Higher State Of Consciousness",
+            "artist": "Wink",
+            "this_week": 15,
+            "last_week": 20,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Key Of Life",
+            "artist": "Michelle Wilson",
+            "this_week": 16,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Everytime You Touch Me",
+            "artist": "Moby",
+            "this_week": 17,
+            "last_week": 21,
+            "peak_position": 17,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Your Loving Arms",
+            "artist": "Billie Ray Martin",
+            "this_week": 18,
+            "last_week": 9,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Saturday Night",
+            "artist": "Whigfield",
+            "this_week": 19,
+            "last_week": 19,
+            "peak_position": 19,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "What Hope Have I",
+            "artist": "Sphinx",
+            "this_week": 20,
+            "last_week": 29,
+            "peak_position": 20,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "White Lines",
+            "artist": "Duran Duran",
+            "this_week": 21,
+            "last_week": 18,
+            "peak_position": 5,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Templehead",
+            "artist": "Transglobal Underground",
+            "this_week": 22,
+            "last_week": 26,
+            "peak_position": 22,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Higher (Feel It)",
+            "artist": "R.A.W.",
+            "this_week": 23,
+            "last_week": 27,
+            "peak_position": 23,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "How I Love Him",
+            "artist": "Cynthia",
+            "this_week": 24,
+            "last_week": 15,
+            "peak_position": 15,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Move It To The Rhythm",
+            "artist": "Technotronic Featuring Ya Kid K",
+            "this_week": 25,
+            "last_week": 33,
+            "peak_position": 25,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Tell Me When",
+            "artist": "The Human League",
+            "this_week": 26,
+            "last_week": 30,
+            "peak_position": 26,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Drop A House",
+            "artist": "Urban Discharge Featuring She",
+            "this_week": 27,
+            "last_week": 31,
+            "peak_position": 27,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Open Your Heart",
+            "artist": "M People",
+            "this_week": 28,
+            "last_week": 43,
+            "peak_position": 28,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Another Worry",
+            "artist": "House Of Gypsies Featuring Al Wise",
+            "this_week": 29,
+            "last_week": 24,
+            "peak_position": 19,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "I Must Be Free",
+            "artist": "Kym Sims",
+            "this_week": 30,
+            "last_week": 23,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "My Love",
+            "artist": "Kellee",
+            "this_week": 31,
+            "last_week": 39,
+            "peak_position": 31,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Hands Up",
+            "artist": "Clubzone",
+            "this_week": 32,
+            "last_week": 22,
+            "peak_position": 3,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Let's Start Over",
+            "artist": "Pamela Fernandez",
+            "this_week": 33,
+            "last_week": 35,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "I Found Love",
+            "artist": "C+C Music Factory",
+            "this_week": 34,
+            "last_week": 44,
+            "peak_position": 34,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Gotta New Love",
+            "artist": "R. Rosario & M. Grant Feat. Donna Blakely",
+            "this_week": 35,
+            "last_week": 38,
+            "peak_position": 35,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Let The Beat Go On",
+            "artist": "Dr. Alban",
+            "this_week": 36,
+            "last_week": 40,
+            "peak_position": 36,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Happy Man",
+            "artist": "Michael Watford",
+            "this_week": 37,
+            "last_week": 34,
+            "peak_position": 34,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Show You Secrets",
+            "artist": "Pharao",
+            "this_week": 38,
+            "last_week": 37,
+            "peak_position": 35,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Nadie Entiende (Nobody Understands)",
+            "artist": "B-Tribe",
+            "this_week": 39,
+            "last_week": 46,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Don't Laugh",
+            "artist": "Winx",
+            "this_week": 40,
+            "last_week": 32,
+            "peak_position": 27,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Promise Me Nothing",
+            "artist": "Repercussions",
+            "this_week": 41,
+            "last_week": 25,
+            "peak_position": 6,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "If",
+            "artist": "The Hunger",
+            "this_week": 42,
+            "last_week": 45,
+            "peak_position": 42,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "That Ain't Right",
+            "artist": "Judy Albanese",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Where Did Love Go",
+            "artist": "Fem 2 Fem",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "This Time",
+            "artist": "Chante Moore",
+            "this_week": 45,
+            "last_week": 51,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "I Can Do It Better Myself",
+            "artist": "Porno",
+            "this_week": 46,
+            "last_week": 47,
+            "peak_position": 46,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Let Us Pray",
+            "artist": "Eddie \"Flashin'\" Fowlkes Featuring Maurissa Rose",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Sky High",
+            "artist": "Newton",
+            "this_week": 48,
+            "last_week": 48,
+            "peak_position": 46,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Keep Givin' Me Your Love",
+            "artist": "CeCe Peniston",
+            "this_week": 49,
+            "last_week": 36,
+            "peak_position": 4,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Come Back",
+            "artist": "Londonbeat",
+            "this_week": 50,
+            "last_week": 28,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Message Of Love",
+            "artist": "Love Happy",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Next Time",
+            "artist": "Gladys Knight",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Wake It Up",
+            "artist": "Lovewatch",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Technova",
+            "artist": "Towa Tei",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Baby Baby",
+            "artist": "Corona",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}

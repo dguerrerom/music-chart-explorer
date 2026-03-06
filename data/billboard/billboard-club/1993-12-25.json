@@ -1,0 +1,433 @@
+{
+    "date": "1993-12-25",
+    "data": [
+        {
+            "song": "Tradicion",
+            "artist": "Gloria Estefan",
+            "this_week": 1,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Show Me",
+            "artist": "Ultra Nate",
+            "this_week": 2,
+            "last_week": 5,
+            "peak_position": 2,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Your Love Keeps Working On Me",
+            "artist": "Jody Watley",
+            "this_week": 3,
+            "last_week": 7,
+            "peak_position": 3,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Violently Happy",
+            "artist": "Bjork",
+            "this_week": 4,
+            "last_week": 4,
+            "peak_position": 4,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Love Changes",
+            "artist": "MK Featuring Alana",
+            "this_week": 5,
+            "last_week": 9,
+            "peak_position": 5,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "What Is Love",
+            "artist": "En Vogue",
+            "this_week": 6,
+            "last_week": 8,
+            "peak_position": 6,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Go West",
+            "artist": "Pet Shop Boys",
+            "this_week": 7,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Lemon",
+            "artist": "U2",
+            "this_week": 8,
+            "last_week": 2,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "I Love Music (From \"Carlito's Way\")",
+            "artist": "Rozalla",
+            "this_week": 9,
+            "last_week": 13,
+            "peak_position": 9,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I'm Beautiful Dammitt!",
+            "artist": "Uncanny Alliance",
+            "this_week": 10,
+            "last_week": 14,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Sume Sigh Say",
+            "artist": "House Of Gypsies",
+            "this_week": 11,
+            "last_week": 16,
+            "peak_position": 11,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Conga Te",
+            "artist": "Doubleplusgood",
+            "this_week": 12,
+            "last_week": 18,
+            "peak_position": 12,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Queen Of The Night",
+            "artist": "Whitney Houston",
+            "this_week": 13,
+            "last_week": 21,
+            "peak_position": 13,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "I Like To Move It",
+            "artist": "Reel 2 Real Featuring The Mad Stuntman",
+            "this_week": 14,
+            "last_week": 20,
+            "peak_position": 14,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "I Wanna Be Free",
+            "artist": "The Luna Project",
+            "this_week": 15,
+            "last_week": 10,
+            "peak_position": 3,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Things Can Only Get Better",
+            "artist": "D:REAM",
+            "this_week": 16,
+            "last_week": 23,
+            "peak_position": 16,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "The Program",
+            "artist": "David Morales & The B.Y.C. w/ Papa San",
+            "this_week": 17,
+            "last_week": 15,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Mr. Vain",
+            "artist": "Culture Beat",
+            "this_week": 18,
+            "last_week": 11,
+            "peak_position": 2,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "L'Esperanza",
+            "artist": "Sven Vath",
+            "this_week": 19,
+            "last_week": 6,
+            "peak_position": 5,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Blue Buddha",
+            "artist": "Thrill Kill Kult",
+            "this_week": 20,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Betcha'll Never Find",
+            "artist": "Chantay Savage",
+            "this_week": 21,
+            "last_week": 24,
+            "peak_position": 21,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Fiesta Fatal",
+            "artist": "B-Tribe",
+            "this_week": 22,
+            "last_week": 12,
+            "peak_position": 7,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "U Knock Me",
+            "artist": "Warning",
+            "this_week": 23,
+            "last_week": 25,
+            "peak_position": 23,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Rilly Groovy",
+            "artist": "Beautiful People Featuring Jimi Hendrix",
+            "this_week": 24,
+            "last_week": 29,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Joy",
+            "artist": "Staxx Of Joy Featuring Carol Leeming",
+            "this_week": 25,
+            "last_week": 37,
+            "peak_position": 25,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "All I Want",
+            "artist": "Captain Hollywood Project",
+            "this_week": 26,
+            "last_week": 30,
+            "peak_position": 26,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "White Love",
+            "artist": "One Dove",
+            "this_week": 27,
+            "last_week": 36,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "The Key, The Secret",
+            "artist": "Urban Cookie Collective",
+            "this_week": 28,
+            "last_week": 26,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I Will Be Free",
+            "artist": "Baby June",
+            "this_week": 29,
+            "last_week": 27,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Love, Peace & Happiness",
+            "artist": "Soul Solution",
+            "this_week": 30,
+            "last_week": 38,
+            "peak_position": 30,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Don't Go",
+            "artist": "Awesome 3",
+            "this_week": 31,
+            "last_week": 34,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "I Can't Stop",
+            "artist": "Mellow Mellow",
+            "this_week": 32,
+            "last_week": 39,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Throb",
+            "artist": "Janet Jackson",
+            "this_week": 33,
+            "last_week": 22,
+            "peak_position": 2,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Life (Everybody Needs Somebody To Love)",
+            "artist": "Haddaway",
+            "this_week": 34,
+            "last_week": 46,
+            "peak_position": 34,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Sex Drive",
+            "artist": "Grace Jones",
+            "this_week": 35,
+            "last_week": 19,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "69",
+            "artist": "Father",
+            "this_week": 36,
+            "last_week": 40,
+            "peak_position": 36,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Groove Your Mind",
+            "artist": "Freedom Williams",
+            "this_week": 37,
+            "last_week": 33,
+            "peak_position": 33,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Boom",
+            "artist": "Satin & Scarlett",
+            "this_week": 38,
+            "last_week": 45,
+            "peak_position": 38,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "That's What I Think",
+            "artist": "Cyndi Lauper",
+            "this_week": 39,
+            "last_week": null,
+            "peak_position": 39,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Caught In The Middle",
+            "artist": "Juliet Roberts",
+            "this_week": 40,
+            "last_week": 32,
+            "peak_position": 27,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "House Of Love",
+            "artist": "East 17",
+            "this_week": 41,
+            "last_week": 44,
+            "peak_position": 41,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "All Of Me",
+            "artist": "Ty Brunson Featuring Chanelle",
+            "this_week": 42,
+            "last_week": null,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Selfish",
+            "artist": "The Other Two",
+            "this_week": 43,
+            "last_week": 51,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Goody Goody",
+            "artist": "Lisette Melendez",
+            "this_week": 44,
+            "last_week": 47,
+            "peak_position": 44,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "If I Can't Have You",
+            "artist": "Kim Wilde",
+            "this_week": 45,
+            "last_week": 31,
+            "peak_position": 14,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Just Keep Me Moving",
+            "artist": "k.d. lang",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "What's My Name?",
+            "artist": "Snoop Dogg",
+            "this_week": 47,
+            "last_week": null,
+            "peak_position": 47,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Song Of Life",
+            "artist": "Leftfield",
+            "this_week": 48,
+            "last_week": 42,
+            "peak_position": 27,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Too Much Information",
+            "artist": "Duran Duran",
+            "this_week": 49,
+            "last_week": 35,
+            "peak_position": 17,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "House Of Love",
+            "artist": "Smooth Touch",
+            "this_week": 50,
+            "last_week": 28,
+            "peak_position": 1,
+            "weeks_on_chart": 14
+        },
+        {
+            "song": "Welcome To My Mind",
+            "artist": "Psykosonik",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Power",
+            "artist": "Nu Colours",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Big Time Sensuality",
+            "artist": "Bjork",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Dream Drums",
+            "artist": "Lectroluv",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        }
+    ]
+}

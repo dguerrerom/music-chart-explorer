@@ -1,0 +1,440 @@
+{
+    "date": "1992-04-11",
+    "data": [
+        {
+            "song": "Moira Jane's Cafe",
+            "artist": "Definition Of Sound",
+            "this_week": 1,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Remember The Time",
+            "artist": "Michael Jackson",
+            "this_week": 2,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Make It Mine",
+            "artist": "The Shamen",
+            "this_week": 3,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Hear The Music",
+            "artist": "GypsyMen",
+            "this_week": 4,
+            "last_week": 5,
+            "peak_position": 4,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Don't Lose The Magic",
+            "artist": "Shawn Christopher",
+            "this_week": 5,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Nu Nu",
+            "artist": "Lidell Townsell",
+            "this_week": 6,
+            "last_week": 6,
+            "peak_position": 6,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Independent Woman",
+            "artist": "Adeva",
+            "this_week": 7,
+            "last_week": 8,
+            "peak_position": 7,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "I'm The One You Need",
+            "artist": "Jody Watley",
+            "this_week": 8,
+            "last_week": 13,
+            "peak_position": 8,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Killer",
+            "artist": "Seal",
+            "this_week": 9,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Workout",
+            "artist": "Frankie Knuckles",
+            "this_week": 10,
+            "last_week": 20,
+            "peak_position": 10,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Chic Mystique",
+            "artist": "Chic",
+            "this_week": 11,
+            "last_week": 9,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Losing You",
+            "artist": "Mocca Soul",
+            "this_week": 12,
+            "last_week": 10,
+            "peak_position": 10,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Testify",
+            "artist": "The Sounds Of Blackness",
+            "this_week": 13,
+            "last_week": 7,
+            "peak_position": 7,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Take Me Back To Love Again",
+            "artist": "Kathy Sledge",
+            "this_week": 14,
+            "last_week": 24,
+            "peak_position": 14,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "The Choice Is Yours",
+            "artist": "Black Sheep",
+            "this_week": 15,
+            "last_week": 18,
+            "peak_position": 15,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "The True Meaning Of Love",
+            "artist": "Jomanda",
+            "this_week": 16,
+            "last_week": 14,
+            "peak_position": 7,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Justified And Ancient",
+            "artist": "The KLF Featuring Tammy Wynette",
+            "this_week": 17,
+            "last_week": 12,
+            "peak_position": 2,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Vibeology",
+            "artist": "Paula Abdul",
+            "this_week": 18,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Shut Em Down",
+            "artist": "Public Enemy",
+            "this_week": 19,
+            "last_week": 16,
+            "peak_position": 16,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "IOU",
+            "artist": "Arthur Baker",
+            "this_week": 20,
+            "last_week": 21,
+            "peak_position": 20,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Don't Talk Just Kiss",
+            "artist": "Right Said Fred",
+            "this_week": 21,
+            "last_week": 27,
+            "peak_position": 21,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Lift Every Voice (Take Me Away)",
+            "artist": "Mass Order",
+            "this_week": 22,
+            "last_week": 25,
+            "peak_position": 22,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Schizofrenia",
+            "artist": "Quadrophonia",
+            "this_week": 23,
+            "last_week": 29,
+            "peak_position": 23,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Raving Madd",
+            "artist": "Middle Finger",
+            "this_week": 24,
+            "last_week": 22,
+            "peak_position": 22,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "L.S.D. Is The Bomb",
+            "artist": "Radioactive Goldfish",
+            "this_week": 25,
+            "last_week": 19,
+            "peak_position": 8,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Baby Got Back",
+            "artist": "Sir Mix-A-Lot",
+            "this_week": 26,
+            "last_week": 38,
+            "peak_position": 26,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Pride (In The Name Of Love)",
+            "artist": "Clivilles & Cole",
+            "this_week": 27,
+            "last_week": 23,
+            "peak_position": 6,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "Never Again",
+            "artist": "Die Warzau",
+            "this_week": 28,
+            "last_week": 37,
+            "peak_position": 28,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Love Storm",
+            "artist": "Cynthia M.",
+            "this_week": 29,
+            "last_week": 34,
+            "peak_position": 29,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Love Desire",
+            "artist": "D'Bora",
+            "this_week": 30,
+            "last_week": 30,
+            "peak_position": 14,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Superficial Love",
+            "artist": "Bas Noir",
+            "this_week": 31,
+            "last_week": 40,
+            "peak_position": 31,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Do You Want It Right Now",
+            "artist": "Degrees Of Motion Featuring Biti",
+            "this_week": 32,
+            "last_week": 28,
+            "peak_position": 7,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "I Gotta Hold On U",
+            "artist": "Maurice Joshua",
+            "this_week": 33,
+            "last_week": 44,
+            "peak_position": 33,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Window Pane",
+            "artist": "The Real People",
+            "this_week": 34,
+            "last_week": 35,
+            "peak_position": 34,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Rejoicing (I'll Never Forget)",
+            "artist": "Ultra Nate",
+            "this_week": 35,
+            "last_week": null,
+            "peak_position": 35,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Closer",
+            "artist": "Mr. Fingers",
+            "this_week": 36,
+            "last_week": null,
+            "peak_position": 36,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "(Can You) Feel The Passion",
+            "artist": "Blue Pearl",
+            "this_week": 37,
+            "last_week": null,
+            "peak_position": 37,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Planet Love",
+            "artist": "The Dylans",
+            "this_week": 38,
+            "last_week": 36,
+            "peak_position": 20,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Cybex",
+            "artist": "Oh-Bonic",
+            "this_week": 39,
+            "last_week": 43,
+            "peak_position": 39,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Vogue",
+            "artist": "MDFMK",
+            "this_week": 40,
+            "last_week": null,
+            "peak_position": 40,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Get Off",
+            "artist": "Mr. Lee",
+            "this_week": 41,
+            "last_week": 32,
+            "peak_position": 32,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "State Of Shock",
+            "artist": "Revenge",
+            "this_week": 42,
+            "last_week": 42,
+            "peak_position": 42,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Sailing On The Seven Seas",
+            "artist": "OMD",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Twilight Zone",
+            "artist": "2 Unlimited",
+            "this_week": 44,
+            "last_week": 54,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "How Do I Love Thee",
+            "artist": "Queen Latifah",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Call My Name",
+            "artist": "Love & Sas",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Euphoria",
+            "artist": "Euphoria",
+            "this_week": 47,
+            "last_week": 45,
+            "peak_position": 32,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Comin' On Strong",
+            "artist": "Desiya",
+            "this_week": 48,
+            "last_week": 15,
+            "peak_position": 1,
+            "weeks_on_chart": 12
+        },
+        {
+            "song": "We Got A Love Thang",
+            "artist": "CeCe Peniston",
+            "this_week": 49,
+            "last_week": 26,
+            "peak_position": 1,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Go",
+            "artist": "Moby",
+            "this_week": 50,
+            "last_week": 41,
+            "peak_position": 18,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Make It Happen",
+            "artist": "Mariah Carey",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "My Lovin' (You're Never Gonna Get It)",
+            "artist": "En Vogue",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Take My Advice",
+            "artist": "Kym Sims",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Survival",
+            "artist": "Machine Orchestra",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "Chime",
+            "artist": "Orbital",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}

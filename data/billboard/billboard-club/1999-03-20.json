@@ -1,0 +1,440 @@
+{
+    "date": "1999-03-20",
+    "data": [
+        {
+            "song": "Nothing Really Matters",
+            "artist": "Madonna",
+            "this_week": 1,
+            "last_week": 1,
+            "peak_position": 1,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Jackie's Strength",
+            "artist": "Tori Amos",
+            "this_week": 2,
+            "last_week": 5,
+            "peak_position": 2,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Heartbreak Hotel",
+            "artist": "Whitney Houston Feat. Faith Evans & Kelly Price",
+            "this_week": 3,
+            "last_week": 4,
+            "peak_position": 3,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Someone To Hold",
+            "artist": "Veronica",
+            "this_week": 4,
+            "last_week": 2,
+            "peak_position": 2,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "We Like To Party!",
+            "artist": "Vengaboys",
+            "this_week": 5,
+            "last_week": 6,
+            "peak_position": 5,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Ecstasy (Take Your Shirts Off)",
+            "artist": "Johnny Vicious Featuring Lula",
+            "this_week": 6,
+            "last_week": 8,
+            "peak_position": 6,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "(You Got Me) Burnin' Up",
+            "artist": "Cevin Fisher",
+            "this_week": 7,
+            "last_week": 3,
+            "peak_position": 1,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I Still Believe",
+            "artist": "Mariah Carey",
+            "this_week": 8,
+            "last_week": 15,
+            "peak_position": 8,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Joy",
+            "artist": "Kathy Brown",
+            "this_week": 9,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Body",
+            "artist": "Funky Green Dogs",
+            "this_week": 10,
+            "last_week": 16,
+            "peak_position": 10,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "99",
+            "artist": "Cassius",
+            "this_week": 11,
+            "last_week": 9,
+            "peak_position": 8,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Skin",
+            "artist": "Charlotte",
+            "this_week": 12,
+            "last_week": 7,
+            "peak_position": 1,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "The Lover That You Are (Remix 2000)",
+            "artist": "Pulse Featuring Antoinette Roberson",
+            "this_week": 13,
+            "last_week": 14,
+            "peak_position": 13,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Baby Wants To Ride",
+            "artist": "Hani",
+            "this_week": 14,
+            "last_week": 19,
+            "peak_position": 14,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Take The Long Way Home",
+            "artist": "Faithless",
+            "this_week": 15,
+            "last_week": 10,
+            "peak_position": 5,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "You Don't Know Me",
+            "artist": "Armand Van Helden Featuring Duane Harden",
+            "this_week": 16,
+            "last_week": 22,
+            "peak_position": 16,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Eternal Flames",
+            "artist": "Hypertrophy",
+            "this_week": 17,
+            "last_week": 17,
+            "peak_position": 17,
+            "weeks_on_chart": 8
+        },
+        {
+            "song": "Fool For Love",
+            "artist": "Soul Station",
+            "this_week": 18,
+            "last_week": 25,
+            "peak_position": 18,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Mama Konda",
+            "artist": "Orinoko",
+            "this_week": 19,
+            "last_week": 27,
+            "peak_position": 19,
+            "weeks_on_chart": 5
+        },
+        {
+            "song": "Special",
+            "artist": "Garbage",
+            "this_week": 20,
+            "last_week": 12,
+            "peak_position": 10,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "I'm Beautiful",
+            "artist": "Bette Midler",
+            "this_week": 21,
+            "last_week": 13,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Darkness",
+            "artist": "Satoshi Tomiie Feat. Robert Owens & Cevin Fisher",
+            "this_week": 22,
+            "last_week": 35,
+            "peak_position": 22,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Stranded",
+            "artist": "Lutricia McNeal",
+            "this_week": 23,
+            "last_week": 33,
+            "peak_position": 23,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Do You Love Me",
+            "artist": "A Gift Of Love Feat. Demi Moore",
+            "this_week": 24,
+            "last_week": 32,
+            "peak_position": 24,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Godspeed",
+            "artist": "BT",
+            "this_week": 25,
+            "last_week": 21,
+            "peak_position": 10,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Someone",
+            "artist": "Ascension",
+            "this_week": 26,
+            "last_week": 23,
+            "peak_position": 22,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "Popcorn",
+            "artist": "The Boomtang Boys",
+            "this_week": 27,
+            "last_week": 26,
+            "peak_position": 26,
+            "weeks_on_chart": 6
+        },
+        {
+            "song": "Flower Duet '99",
+            "artist": "Jonathan Peters Presents Luminaire",
+            "this_week": 28,
+            "last_week": 24,
+            "peak_position": 14,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "Tainted Love",
+            "artist": "Soft Cell vs. Club 69",
+            "this_week": 29,
+            "last_week": 34,
+            "peak_position": 29,
+            "weeks_on_chart": 4
+        },
+        {
+            "song": "Take Me To The Top",
+            "artist": "Plasmic Honey",
+            "this_week": 30,
+            "last_week": 18,
+            "peak_position": 4,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "The Reason",
+            "artist": "Sylk 130",
+            "this_week": 31,
+            "last_week": 20,
+            "peak_position": 5,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "The Musik",
+            "artist": "Orang'E",
+            "this_week": 32,
+            "last_week": 38,
+            "peak_position": 32,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Obsession",
+            "artist": "Fuzzy Logic",
+            "this_week": 33,
+            "last_week": 29,
+            "peak_position": 23,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "The No. 1 Song In Heaven",
+            "artist": "Sparks",
+            "this_week": 34,
+            "last_week": 37,
+            "peak_position": 34,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Girls On Film (Remix)",
+            "artist": "Duran Duran",
+            "this_week": 35,
+            "last_week": 42,
+            "peak_position": 35,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Super Sonic",
+            "artist": "Music Instructor (Feat. Flying Steps)",
+            "this_week": 36,
+            "last_week": 36,
+            "peak_position": 36,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Struck By Love",
+            "artist": "Lectroluv Featuring Alvaughn Jackson",
+            "this_week": 37,
+            "last_week": 43,
+            "peak_position": 37,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "Happy",
+            "artist": "Donna Blakely",
+            "this_week": 38,
+            "last_week": 31,
+            "peak_position": 29,
+            "weeks_on_chart": 7
+        },
+        {
+            "song": "Activate",
+            "artist": "That Kid Chris & DJ Mada Pres. Hardfeelings",
+            "this_week": 39,
+            "last_week": 30,
+            "peak_position": 13,
+            "weeks_on_chart": 11
+        },
+        {
+            "song": "Can't Take My Eyes Off Of You",
+            "artist": "Jeanie Tracy",
+            "this_week": 40,
+            "last_week": 47,
+            "peak_position": 40,
+            "weeks_on_chart": 2
+        },
+        {
+            "song": "It's Not Right But It's Okay",
+            "artist": "Whitney Houston",
+            "this_week": 41,
+            "last_week": 28,
+            "peak_position": 1,
+            "weeks_on_chart": 13
+        },
+        {
+            "song": "Ride The Trip",
+            "artist": "Plasmic Honey",
+            "this_week": 42,
+            "last_week": 51,
+            "peak_position": 42,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Right Before My Eyes",
+            "artist": "NN'G Featuring Kallaghan",
+            "this_week": 43,
+            "last_week": null,
+            "peak_position": 43,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Body Movin'",
+            "artist": "Beastie Boys",
+            "this_week": 44,
+            "last_week": 46,
+            "peak_position": 44,
+            "weeks_on_chart": 3
+        },
+        {
+            "song": "Nervous Breakdown",
+            "artist": "The Shrink",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "The Latin Theme",
+            "artist": "Carl Cox",
+            "this_week": 46,
+            "last_week": null,
+            "peak_position": 46,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Horny",
+            "artist": "Mousse T. Vs. Hot 'N' Juicy",
+            "this_week": 47,
+            "last_week": 41,
+            "peak_position": 23,
+            "weeks_on_chart": 16
+        },
+        {
+            "song": "Feel What You Know",
+            "artist": "Big Muff",
+            "this_week": 48,
+            "last_week": null,
+            "peak_position": 48,
+            "weeks_on_chart": 1
+        },
+        {
+            "song": "Ain't No Mountain High Enough",
+            "artist": "Jocelyn Brown",
+            "this_week": 49,
+            "last_week": 40,
+            "peak_position": 36,
+            "weeks_on_chart": 9
+        },
+        {
+            "song": "I've Had Enough",
+            "artist": "Regina Belle",
+            "this_week": 50,
+            "last_week": 39,
+            "peak_position": 25,
+            "weeks_on_chart": 10
+        },
+        {
+            "song": "The Flame",
+            "artist": "Erin Hamilton",
+            "this_week": 51,
+            "last_week": null,
+            "peak_position": 51
+        },
+        {
+            "song": "Walk On By",
+            "artist": "Mad Doll",
+            "this_week": 52,
+            "last_week": null,
+            "peak_position": 52
+        },
+        {
+            "song": "Teardrops",
+            "artist": "Lovestation",
+            "this_week": 53,
+            "last_week": null,
+            "peak_position": 53
+        },
+        {
+            "song": "Dreaming",
+            "artist": "Ruff Driverz Presents Arrola",
+            "this_week": 54,
+            "last_week": null,
+            "peak_position": 54
+        },
+        {
+            "song": "That Man Of Mine",
+            "artist": "Sugarshop Featuring Cindy Mizelle",
+            "this_week": 55,
+            "last_week": null,
+            "peak_position": 55
+        }
+    ]
+}
