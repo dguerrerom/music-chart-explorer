@@ -70,9 +70,9 @@ music-chart-explorer/
 
 ## 📋 Supported Charts
 
-- **Billboard Hot 100** (1980–1989)
-- **Billboard Latin Songs**  (1986–1989)
-- **Billboard Dance Club Song** (1980–1989)
+- **Billboard Hot 100** (1980–1999)
+- **Billboard Latin Songs**  (1986–1999)
+- **Billboard Dance Club Song** (1980–1999)
 
 *More charts and international lists coming soon — just drop in a new `-metadata.json` and the corresponding date-based JSON files.*
 
