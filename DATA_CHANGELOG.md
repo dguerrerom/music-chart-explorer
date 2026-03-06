@@ -6,6 +6,20 @@ This file follows [Keep a Changelog](https://keepachangelog.com/) conventions.
 
 ## [Unreleased]
 
+## [2026-03-06] - 2026-03-06
+
+### Fixed
+
+- **Billboard Latin Songs** — multiple charts fixed for weekly consistency:
+  - 1987-10-03 → 1987-10-10 → 1987-10-17
+  - 1988-03-05 → 1988-03-12 → 1988-03-19 → 1988-03-26 → 1988-04-02 → 1988-04-09 → 1988-04-16
+  - 1988-05-07 → 1988-05-14 → 1988-05-21 → 1988-05-28
+  - 1988-06-04 → 1988-06-11 → 1988-06-18
+  - 1988-07-16 → 1988-07-23 → 1988-07-30
+  All `last_week` values now correctly match the previous chart’s `this_week` for every song.
+
+**Reference:** [Billboard – 1988-06-04](https://www.worldradiohistory.com/Archive-Billboard/80s/1989/Billboard-1989-06-04.pdf)
+
 ## [2026-03-03] - 2026-03-03
 
 ### Fixed

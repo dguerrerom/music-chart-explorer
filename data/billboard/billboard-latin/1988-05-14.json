@@ -130,14 +130,6 @@
             "weeks_on_chart": 7
         },
         {
-            "song": "Todo Por Ti",
-            "artist": "Gloria Estefan & Miami Sound Machine",
-            "this_week": 16,
-            "last_week": 25,
-            "peak_position": 5,
-            "weeks_on_chart": 7
-        },
-        {
             "song": "QUE SE VAYAN AL DIABLO",
             "artist": "Jose Javier Solis",
             "this_week": 17,
@@ -208,22 +200,6 @@
             "last_week": 19,
             "peak_position": 19,
             "weeks_on_chart": 3
-        },
-        {
-            "song": "Todo Por Ti",
-            "artist": "Gloria Estefan & Miami Sound Machine",
-            "this_week": 26,
-            "last_week": 12,
-            "peak_position": 5,
-            "weeks_on_chart": 7
-        },
-        {
-            "song": "Todo Por Ti",
-            "artist": "Gloria Estefan & Miami Sound Machine",
-            "this_week": 26,
-            "last_week": 25,
-            "peak_position": 5,
-            "weeks_on_chart": 7
         },
         {
             "song": "Y es que llegaste tu",
