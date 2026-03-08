@@ -18,7 +18,7 @@ This file follows [Keep a Changelog](https://keepachangelog.com/) conventions.
   - 1988-07-16 → 1988-07-23 → 1988-07-30
   All `last_week` values now correctly match the previous chart’s `this_week` for every song.
 
-**Reference:** [Billboard – 1988-06-04](https://www.worldradiohistory.com/Archive-Billboard/80s/1989/Billboard-1989-06-04.pdf)
+**Reference:** [Billboard – 1988-06-04](https://www.worldradiohistory.com/Archive-Billboard/80s/1989/Billboard-1988-06-04.pdf)
 
 ## [2026-03-03] - 2026-03-03
 
