@@ -330,6 +330,14 @@
             "weeks_on_chart": 5
         },
         {
+            "song": "Mi nena",
+            "artist": "Little Joe",
+            "this_week": 42,
+            "last_week": 48,
+            "peak_position": 42,
+            "weeks_on_chart": 6
+        },
+        {
             "song": "Hasta Que Te Conoci",
             "artist": "Juan Gabriel",
             "this_week": 43,

@@ -250,12 +250,28 @@
             "weeks_on_chart": 3
         },
         {
+            "song": "Gaviota",
+            "artist": "Ramon Ayala",
+            "this_week": 32,
+            "last_week": 27,
+            "peak_position": 27,
+            "weeks_on_chart": 4
+        },
+        {
             "song": "Arrepentida",
             "artist": "Marisela",
             "this_week": 33,
             "last_week": 32,
             "peak_position": 24,
             "weeks_on_chart": 16
+        },
+        {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 34,
+            "last_week": null,
+            "peak_position": 34,
+            "weeks_on_chart": 1
         },
         {
             "song": "Ahora Te Puedes Marchar",

@@ -234,6 +234,14 @@
             "weeks_on_chart": 15
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 30,
+            "last_week": 28,
+            "peak_position": 9,
+            "weeks_on_chart": 17
+        },
+        {
             "song": "Todo Me Gusta De Ti",
             "artist": "Los Caminantes",
             "this_week": 31,

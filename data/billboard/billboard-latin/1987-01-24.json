@@ -378,6 +378,14 @@
             "weeks_on_chart": 5
         },
         {
+            "song": "Mi nena",
+            "artist": "Little Joe",
+            "this_week": 48,
+            "last_week": 42,
+            "peak_position": 42,
+            "weeks_on_chart": 7
+        },
+        {
             "song": "El senor de la senora",
             "artist": "Bobby Valentin",
             "this_week": 49,

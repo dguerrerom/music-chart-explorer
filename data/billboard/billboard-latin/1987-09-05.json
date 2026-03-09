@@ -82,6 +82,14 @@
             "weeks_on_chart": 4
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 11,
+            "last_week": 9,
+            "peak_position": 9,
+            "weeks_on_chart": 9
+        },
+        {
             "song": "En bancarrota",
             "artist": "Braulio",
             "this_week": 12,

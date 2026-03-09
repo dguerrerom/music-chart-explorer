@@ -146,6 +146,14 @@
             "weeks_on_chart": 4
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 19,
+            "last_week": 23,
+            "peak_position": 9,
+            "weeks_on_chart": 12
+        },
+        {
             "song": "Ya No Volvare",
             "artist": "Laura Flores",
             "this_week": 20,

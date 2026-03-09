@@ -218,6 +218,14 @@
             "weeks_on_chart": 12
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 28,
+            "last_week": 20,
+            "peak_position": 9,
+            "weeks_on_chart": 16
+        },
+        {
             "song": "MI NOVIA, MI AMANTE, MI MUJER",
             "artist": "Sandy Reyes",
             "this_week": 29,

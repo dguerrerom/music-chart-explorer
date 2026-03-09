@@ -226,6 +226,14 @@
             "weeks_on_chart": 17
         },
         {
+            "song": "El olor de la lluvia",
+            "artist": "JOHNNY VENTURA",
+            "this_week": 29,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 2
+        },
+        {
             "song": "A Quien",
             "artist": "Karina",
             "this_week": 30,

@@ -138,6 +138,14 @@
             "weeks_on_chart": 31
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 18,
+            "last_week": 23,
+            "peak_position": 18,
+            "weeks_on_chart": 5
+        },
+        {
             "song": "La Bamba",
             "artist": "Selena y Los Dinos",
             "this_week": 19,

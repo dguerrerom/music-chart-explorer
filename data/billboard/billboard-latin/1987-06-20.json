@@ -346,6 +346,14 @@
             "weeks_on_chart": 8
         },
         {
+            "song": "Gaviota",
+            "artist": "Ramon Ayala",
+            "this_week": 44,
+            "last_week": null,
+            "peak_position": 44,
+            "weeks_on_chart": 1
+        },
+        {
             "song": "Yo Me Voy Sola",
             "artist": "Lissette",
             "this_week": 45,

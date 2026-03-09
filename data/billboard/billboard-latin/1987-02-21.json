@@ -322,6 +322,14 @@
             "weeks_on_chart": 1
         },
         {
+            "song": "Mi nena",
+            "artist": "Little Joe",
+            "this_week": 41,
+            "last_week": 35,
+            "peak_position": 35,
+            "weeks_on_chart": 11
+        },
+        {
             "song": "Si yo fuera mujer",
             "artist": "Wilkins",
             "this_week": 42,

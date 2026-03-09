@@ -210,6 +210,14 @@
             "weeks_on_chart": 2
         },
         {
+            "song": "Gaviota",
+            "artist": "Ramon Ayala",
+            "this_week": 27,
+            "last_week": 29,
+            "peak_position": 27,
+            "weeks_on_chart": 3
+        },
+        {
             "song": "Te Quiero, Te Quiero",
             "artist": "La Patrulla 15",
             "this_week": 28,

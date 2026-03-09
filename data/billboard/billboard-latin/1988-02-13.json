@@ -338,6 +338,14 @@
             "weeks_on_chart": 1
         },
         {
+            "song": "El olor de la lluvia",
+            "artist": "JOHNNY VENTURA",
+            "this_week": 43,
+            "last_week": 29,
+            "peak_position": 29,
+            "weeks_on_chart": 3
+        },
+        {
             "song": "CORAZON CAUTIVO",
             "artist": "Sergio Facchelli",
             "this_week": 44,

@@ -162,6 +162,14 @@
             "weeks_on_chart": 12
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 21,
+            "last_week": 11,
+            "peak_position": 9,
+            "weeks_on_chart": 10
+        },
+        {
             "song": "Hasta Que Te Conoci",
             "artist": "Roberto del Castillo",
             "this_week": 22,

@@ -226,6 +226,14 @@
             "weeks_on_chart": 16
         },
         {
+            "song": "El olor de la lluvia",
+            "artist": "JOHNNY VENTURA",
+            "this_week": 29,
+            "last_week": null,
+            "peak_position": 29,
+            "weeks_on_chart": 1
+        },
+        {
             "song": "A MOVER LA COLITA",
             "artist": "Wilfrido Vargas",
             "this_week": 30,

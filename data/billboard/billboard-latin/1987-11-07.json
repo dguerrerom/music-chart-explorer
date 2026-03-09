@@ -386,6 +386,14 @@
             "weeks_on_chart": 11
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 49,
+            "last_week": 30,
+            "peak_position": 9,
+            "weeks_on_chart": 18
+        },
+        {
             "song": "LA GALLINA",
             "artist": "Fito Olivares y Su Grupo",
             "this_week": 50,

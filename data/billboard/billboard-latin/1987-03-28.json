@@ -202,6 +202,14 @@
             "weeks_on_chart": 6
         },
         {
+            "song": "A punto de serte infiel",
+            "artist": "Carmin",
+            "this_week": 26,
+            "last_week": 30,
+            "peak_position": 26,
+            "weeks_on_chart": 3
+        },
+        {
             "song": "Tu sin mi",
             "artist": "Ednita Nazario",
             "this_week": 27,

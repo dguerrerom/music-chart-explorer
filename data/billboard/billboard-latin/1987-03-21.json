@@ -234,6 +234,14 @@
             "weeks_on_chart": 17
         },
         {
+            "song": "A punto de serte infiel",
+            "artist": "Carmin",
+            "this_week": 30,
+            "last_week": 40,
+            "peak_position": 30,
+            "weeks_on_chart": 2
+        },
+        {
             "song": "Oiga",
             "artist": "Joan Sebastian & Prisma",
             "this_week": 31,

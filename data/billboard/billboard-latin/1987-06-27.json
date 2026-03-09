@@ -226,6 +226,14 @@
             "weeks_on_chart": 9
         },
         {
+            "song": "Gaviota",
+            "artist": "Ramon Ayala",
+            "this_week": 29,
+            "last_week": 44,
+            "peak_position": 29,
+            "weeks_on_chart": 2
+        },
+        {
             "song": "Quiero llenarte",
             "artist": "Franky Ruiz",
             "this_week": 30,

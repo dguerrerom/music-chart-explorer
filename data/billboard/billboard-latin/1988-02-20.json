@@ -306,6 +306,14 @@
             "weeks_on_chart": 13
         },
         {
+            "song": "El olor de la lluvia",
+            "artist": "JOHNNY VENTURA",
+            "this_week": 39,
+            "last_week": 43,
+            "peak_position": 29,
+            "weeks_on_chart": 4
+        },
+        {
             "song": "ESCAPATE CONMIGO",
             "artist": "Proyecto M",
             "this_week": 40,

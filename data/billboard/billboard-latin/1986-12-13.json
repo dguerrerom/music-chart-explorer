@@ -354,6 +354,14 @@
             "weeks_on_chart": 9
         },
         {
+            "song": "Mi nena",
+            "artist": "Little Joe",
+            "this_week": 45,
+            "last_week": null,
+            "peak_position": 45,
+            "weeks_on_chart": 1
+        },
+        {
             "song": "Cantante de cartel",
             "artist": "Gilberto Santa Rosa",
             "this_week": 46,

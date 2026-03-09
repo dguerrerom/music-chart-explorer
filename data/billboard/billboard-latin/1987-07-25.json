@@ -138,6 +138,14 @@
             "weeks_on_chart": 23
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 18,
+            "last_week": 34,
+            "peak_position": 18,
+            "weeks_on_chart": 3
+        },
+        {
             "song": "Maldito sea tu amor",
             "artist": "Estela Nunez",
             "this_week": 19,

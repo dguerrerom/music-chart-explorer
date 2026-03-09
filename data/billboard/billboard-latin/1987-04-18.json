@@ -194,6 +194,14 @@
             "weeks_on_chart": 5
         },
         {
+            "song": "A punto de serte infiel",
+            "artist": "Carmin",
+            "this_week": 25,
+            "last_week": 30,
+            "peak_position": 25,
+            "weeks_on_chart": 6
+        },
+        {
             "song": "Quedate conmigo esta noche",
             "artist": "Rocio Durcal",
             "this_week": 26,

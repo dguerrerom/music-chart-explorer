@@ -154,6 +154,14 @@
             "weeks_on_chart": 33
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 20,
+            "last_week": 17,
+            "peak_position": 9,
+            "weeks_on_chart": 15
+        },
+        {
             "song": "AUTOS, MODA Y ROCK AND ROLL",
             "artist": "Fandango USA",
             "this_week": 21,

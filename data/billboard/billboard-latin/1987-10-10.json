@@ -130,6 +130,14 @@
             "weeks_on_chart": 17
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 17,
+            "last_week": 17,
+            "peak_position": 9,
+            "weeks_on_chart": 14
+        },
+        {
             "song": "Solo Importas Tu",
             "artist": "Franco de Vita",
             "this_week": 18,

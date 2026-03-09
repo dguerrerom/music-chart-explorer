@@ -138,6 +138,14 @@
             "weeks_on_chart": 8
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 18,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 6
+        },
+        {
             "song": "Es mi mujer",
             "artist": "Emmanuel",
             "this_week": 19,

@@ -90,6 +90,14 @@
             "weeks_on_chart": 2
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 12,
+            "last_week": 18,
+            "peak_position": 12,
+            "weeks_on_chart": 7
+        },
+        {
             "song": "Doce rosas",
             "artist": "Lorenzo Antonio",
             "this_week": 13,

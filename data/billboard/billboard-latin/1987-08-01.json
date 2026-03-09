@@ -178,6 +178,14 @@
             "weeks_on_chart": 21
         },
         {
+            "song": "Esos ojitos negros",
+            "artist": "El Gran Combo de Puerto Rico",
+            "this_week": 23,
+            "last_week": 18,
+            "peak_position": 18,
+            "weeks_on_chart": 4
+        },
+        {
             "song": "Veneno Para Dos",
             "artist": "Daniela Romo",
             "this_week": 24,
