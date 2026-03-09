@@ -71,7 +71,7 @@ music-chart-explorer/
 ## 📋 Supported Charts
 
 - **Billboard Hot 100** (1980–1999)
-- **Billboard Latin Songs**  (1986–1999)
+- **Billboard Hot Latin Songs**  (1986–1999)
 - **Billboard Dance Club Song** (1980–1999)
 
 *More charts and international lists coming soon — just drop in a new `-metadata.json` and the corresponding date-based JSON files.*
@@ -100,7 +100,7 @@ This project is built on the excellent open-source foundations provided by:
 Special mention to:
 
 - **[David Gleason](https://www.youtube.com/watch?v=TtoJNHel93I)** — [World Radio History](https://www.worldradiohistory.com/)  
-  (corrections to [Billboard](https://www.worldradiohistory.com/Archive-All-Music/Billboard-Magazine.htm) Hot 100 [data errors](DATA_CHANGELOG.md))
+  (corrections to [Billboard](https://www.worldradiohistory.com/Archive-All-Music/Billboard-Magazine.htm) charts [data errors](DATA_CHANGELOG.md))
 
 Thank you all.
 
@@ -110,7 +110,7 @@ Thank you all.
 
 Some JSON archives have been cleaned and corrected for historical accuracy. Every fix is verified against the original printed magazine.
 
-**Full Data Changelog:** [DATA_CHANGELOG.md](DATA_CHANGELOG.md)
+**Full Data Changelog:** [DATA_CHANGELOG](DATA_CHANGELOG.md)
 
 All changes follow the [Keep a Changelog](https://keepachangelog.com/) format and our correction policy.
 
@@ -126,7 +126,7 @@ All changes follow the [Keep a Changelog](https://keepachangelog.com/) format an
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+See [CONTRIBUTING](CONTRIBUTING.md) for details on how to contribute.
 
 ---
 
