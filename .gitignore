@@ -6,6 +6,8 @@ __pycache__/
 # =============================================
 # Unfinished chart folders and their metadata
 # =============================================
+data/at40/
+data/at40-metadata.json
 data/los40/
 data/los40-metadata.json
 data/opina/
